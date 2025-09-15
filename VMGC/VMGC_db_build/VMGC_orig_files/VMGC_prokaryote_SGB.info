@@ -1,0 +1,787 @@
+SGB_ID	Representative_genome_ID	Number_of_genomes	Kingdom	Phylum	Class	Order	Family	Genus	Species	Taxonomic_level	Cultured
+SGB001	SRR17284223.mbin.1	1544	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus iners	Species	Cultured (women vagina)
+SGB002	GCF_001562845.1	764	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB003	GCF_001553395.1	664	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Megasphaera	Megasphaera lornae	Species	Cultured (women vagina)
+SGB004	ERR10897722.mbin.1	586	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale	Species	Cultured (women vagina)
+SGB005	MG1112.mbin.9	562	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium swidsinskii	Species	Cultured (women vagina)
+SGB006	GCF_000162255.1	538	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus crispatus	Species	Cultured (women vagina)
+SGB007	MG1206.mbin.20	488	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella amnii	Species	Cultured (women vagina)
+SGB008	MG170.mbin.23	476	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Berryella	Berryella sp001552935	Genus	Cultured (women vagina)
+SGB009	GCF_029101565.1	473	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	KA00274	Amygdalobacter indicium (BVAB2)	Species	Cultured (women vagina)
+SGB010	MG390.mbin.2	461	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA629	UBA629 sp005465875 (BVAB1)	Family	Uncultured
+SGB011	MG222.mbin.16	445	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia vaginalis	Species	Cultured (women vagina)
+SGB012	MG666.mbin.6	428	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister sp001553355	Genus	Cultured (women vagina)
+SGB013	MG836.mbin.11	391	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella_unknown	Genus	Uncultured
+SGB014	P10708985.mbin.1	386	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis_A	Species	Cultured (women vagina)
+SGB015	MG918.mbin.24	374	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB016	MG554.mbin.9	347	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_A	Species	Cultured (women vagina)
+SGB017	MG61.mbin.16	328	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Parvimonas	Parvimonas sp001552895	Genus	Cultured (women vagina)
+SGB018	GCF_027155795.1	321	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus jensenii	Species	Cultured (women vagina)
+SGB019	MG505.mbin.1	309	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus iners	Species	Cultured (others)
+SGB020	ERR10897780.mbin.8	284	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_C	Species	Cultured (women vagina)
+SGB021	SRR17635677.sbin.16	272	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia sanguinegens	Species	Cultured (others)
+SGB022	MG160.sbin.15	262	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp000758925	Genus	Cultured (women vagina)
+SGB023	MG1064.mbin.4	262	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Megasphaera	Megasphaera hutchinsoni	Species	Cultured (women vagina)
+SGB024	P10709641.mbin.2	255	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	Aerococcus christensenii	Species	Cultured (women vagina)
+SGB025	MG238.mbin.3	250	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella bivia	Species	Cultured (women vagina)
+SGB026	SRR13167550.mbin.1	244	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium piotii	Species	Cultured (women vagina)
+SGB027	GCF_000179715.1	235	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea massiliensis	Species	Cultured (women vagina)
+SGB028	MG649.mbin.15	219	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_H	Species	Cultured (women vagina)
+SGB029	GCF_000194985.1	208	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister micraerophilus	Species	Cultured (women vagina)
+SGB030	MG190.mbin.7	184	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus mulieris	Species	Cultured (women vagina)
+SGB031	GCF_000439915.2	183	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gasseri	Species	Cultured (women vagina)
+SGB032	MG21.mbin.2	180	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_D	Species	Cultured (women vagina)
+SGB033	GCF_001398875.1	175	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	Species	Cultured (women vagina)
+SGB034	GCF_000025225.2	173	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	Mageeibacillus	Mageeibacillus indolicus (BVAB3)	Species	Cultured (women vagina)
+SGB035	MG214.mbin.27	168	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella_unknown	Genus	Uncultured
+SGB036	SRR17635644.sbin.2	163	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus crispatus	Species	Cultured (others)
+SGB037	MG1317.sbin.30	149	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A lacrimalis	Species	Cultured (women vagina)
+SGB038	MG42.mbin.28	141	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus sp004136275	Genus	Uncultured
+SGB039	GCF_019537355.1	141	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus crispatus	Species	Cultured (women vagina)
+SGB040	GCF_000159335.1	138	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus mulieris	Species	Cultured (women vagina)
+SGB041	GCF_002896555.1	129	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_F	Species	Cultured (women vagina)
+SGB042	MG136.mbin.6	126	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_unknown	Genus	Uncultured
+SGB043	P10708995.mbin.16	117	Bacteria	Bacillota	Bacilli	Mycoplasmatales	Metamycoplasmataceae	Metamycoplasma	Metamycoplasma hominis	Species	Cultured (women vagina)
+SGB044	GCF_003397615.1	110	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium piotii	Species	Cultured (women vagina)
+SGB045	MG1038.mbin.15	105	Bacteria	Bacillota	Bacilli	Staphylococcales	Gemellaceae	Gemella	Gemella asaccharolytica	Species	Cultured (women vagina)
+SGB046	MG160.sbin.29	102	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Berryella	Berryella_unknown	Genus	Uncultured
+SGB047	MG1155.mbin.20	102	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Cryptobacteroides	Cryptobacteroides_unknown	Order	Uncultured
+SGB048	GCF_000179675.1	100	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella disiens	Species	Cultured (women vagina)
+SGB049	SRR12830911.sbin.35	91	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus tetradius	Species	Cultured (women vagina)
+SGB050	SRR16470951.mbin.17	89	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus anaerobius	Species	Cultured (women vagina)
+SGB051	GCF_900176605.1	85	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A vaginalis	Species	Cultured (women vagina)
+SGB052	GCF_000174775.1	81	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas uenonis_A	Species	Cultured (women vagina)
+SGB053	ERR4421624.sbin.1	77	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium breve	Species	Cultured (women vagina)
+SGB054	MG691.mbin.15	75	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella_unknown	Genus	Uncultured
+SGB055	GCF_000196535.1	73	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus curtisii	Species	Cultured (women vagina)
+SGB056	MG177.mbin.7	64	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale	Species	Cultured (women vagina)
+SGB057	GCF_900096985.1	62	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus	Species	Cultured (women vagina)
+SGB058	MG258.mbin.14	60	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_unknown	Genus	Uncultured
+SGB059	GCF_013018285.1	59	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	Neisseria gonorrhoeae	Species	Cultured (women vagina)
+SGB060	GCF_000148305.1	57	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	Species	Cultured (women vagina)
+SGB061	GCF_000759265.1	54	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp000479005	Genus	Cultured (women vagina)
+SGB062	GCF_002892395.1	54	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	Stomatobaculum sp002892395	Genus	Cultured (women vagina)
+SGB063	GCF_000590595.1	51	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydia	Chlamydia trachomatis	Species	Cultured (women vagina)
+SGB064	GCF_900636895.1	50	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus paragasseri	Species	Cultured (women vagina)
+SGB065	MG826.mbin.22	49	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_unknown	Genus	Uncultured
+SGB066	P10708891.mbin.16	48	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Arcanobacterium_A	Arcanobacterium_A sp000758825	Genus	Cultured (women vagina)
+SGB067	MG222.mbin.12	48	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Sodaliphilus	Sodaliphilus_unknown	Genus	Uncultured
+SGB068	MG664.mbin.5	47	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale	Species	Cultured (women vagina)
+SGB069	SRR13167686.mbin.2	45	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium leopoldii	Species	Cultured (women vagina)
+SGB070	GCF_001553355.1	44	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister sp001553355	Genus	Cultured (women vagina)
+SGB071	MG1050.mbin.7	43	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella colorans	Species	Cultured (others)
+SGB072	GCF_027153865.1	43	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus mulieris	Species	Cultured (women vagina)
+SGB073	MG410.sbin.17	41	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB074	MG295.mbin.9	40	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas sp001552775	Genus	Cultured (women vagina)
+SGB075	GCF_000759305.1	39	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella melaninogenica	Species	Cultured (women vagina)
+SGB076	GCF_022918835.1	38	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Species	Cultured (women vagina)
+SGB077	SRR17635796.mbin.2	37	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus portuensis	Species	Cultured (others)
+SGB078	MG144.mbin.21	36	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus_unknown	Genus	Uncultured
+SGB079	MG996.mbin.23	35	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_unknown	Genus	Uncultured
+SGB080	GCF_001552885.1	35	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	KA00274	Amygdalobacter nucleatus	Species	Cultured (women vagina)
+SGB081	GCF_000179495.1	34	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Finegoldia	Finegoldia magna_H	Species	Cultured (women vagina)
+SGB082	MG547.mbin.5	34	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA629	UBA629 sp005465875	Family	Uncultured
+SGB083	MG1044.mbin.13	33	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_unknown	Genus	Uncultured
+SGB084	GCF_001546455.1	33	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_B	Species	Cultured (women vagina)
+SGB085	MG318.mbin.12	32	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB086	GCF_900343135.1	32	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea massiliensis	Species	Cultured (women vagina)
+SGB087	GCF_001546555.1	31	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A harei_A	Species	Cultured (women vagina)
+SGB088	MG1268.sbin.2	31	Bacteria	Bacillota	Bacilli	Mycoplasmatales	Mycoplasmoidaceae	Ureaplasma	Ureaplasma parvum	Species	Cultured (women vagina)
+SGB089	GCF_019459585.1	28	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus paragasseri	Species	Cultured (women vagina)
+SGB090	SRR16470998.sbin.6	27	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella montpellierensis	Species	Cultured (women vagina)
+SGB091	GCF_027156205.1	26	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus vaginalis	Species	Cultured (women vagina)
+SGB092	GCA_015700715.1	24	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium sp003585735	Genus	Cultured (women vagina)
+SGB093	MG1371.sbin.1	24	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus mulieris	Species	Cultured (others)
+SGB094	GCF_001809495.1	23	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus epidermidis	Species	Cultured (women vagina)
+SGB095	SRR17635604.mbin.1	22	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	KA00274	KA00274 sp902373515	Family	Uncultured
+SGB096	SRR16916867.mbin.10	22	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A vaginalis	Species	Cultured (women vagina)
+SGB097	MG1129.mbin.5	22	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_C	Peptoniphilus_C coxii	Species	Cultured (women vagina)
+SGB098	GCF_001722255.1	22	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium amycolatum_A	Species	Cultured (women vagina)
+SGB099	SRR13167611.sbin.1	22	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium longum	Species	Cultured (women vagina)
+SGB100	GCF_000762865.1	22	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp001553265	Genus	Cultured (women vagina)
+SGB101	MG233.mbin.5	21	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus sp000758885	Genus	Cultured (women vagina)
+SGB102	MG1312.sbin.29	20	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	Mageeibacillus	Mageeibacillus indolicus	Species	Cultured (women vagina)
+SGB103	MG1334.mbin.2	20	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	ZJ293	ZJ293_unknown	Family	Uncultured
+SGB104	GCF_001811815.1	20	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus haemolyticus	Species	Cultured (women vagina)
+SGB105	MG267.sbin.10	19	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella ihumii	Species	Cultured (others)
+SGB106	MG701.sbin.20	19	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Megasphaera	Megasphaera lornae	Species	Cultured (women vagina)
+SGB107	MG1172.sbin.19	19	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Bulleidia	Bulleidia_unknown	Genus	Uncultured
+SGB108	ERR10898104.sbin.2	19	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	Species	Cultured (others)
+SGB109	SRR17635683.mbin.28	18	Bacteria	Bacillota_B	Peptococcia	Peptococcales	Peptococcaceae	Peptococcus	Peptococcus niger	Species	Cultured (others)
+SGB110	MG5.sbin.44	18	Bacteria	Bacillota	Bacilli	Mycoplasmatales	Mycoplasmoidaceae	Malacoplasma_A	Malacoplasma_A girerdii	Species	Cultured (women vagina)
+SGB111	MG267.mbin.14	17	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mitis_BF	Species	Cultured (others)
+SGB112	GCF_000161935.1	17	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus coleohominis_A	Species	Cultured (women vagina)
+SGB113	SRR6748212.mbin.4	16	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister sp900541485	Genus	Uncultured
+SGB114	GCF_000758765.1	16	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus lactolyticus	Species	Cultured (women vagina)
+SGB115	GCF_001546595.1	16	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella corporis	Species	Cultured (women vagina)
+SGB116	SRR17635580.mbin.7	16	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium coyleae	Species	Cultured (others)
+SGB117	GCF_024731085.1	16	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	Species	Cultured (women vagina)
+SGB118	GCF_013347005.1	16	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Species	Cultured (women vagina)
+SGB119	MG1218.mbin.10	15	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_B	Species	Cultured (women vagina)
+SGB120	MG337.mbin.7	15	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_B	Peptoniphilus_B_unknown	Genus	Uncultured
+SGB121	MG1049.mbin.17	14	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis_A	Species	Cultured (women vagina)
+SGB122	SRR18765392.mbin.7	14	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Megasphaera	Megasphaera lornae	Species	Cultured (women vagina)
+SGB123	GCF_000759055.1	14	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium tuscaniense	Species	Cultured (women vagina)
+SGB124	SRR17635528.sbin.2	14	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus portuensis	Species	Cultured (women vagina)
+SGB125	P10709696.mbin.14	13	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia sanguinegens	Species	Cultured (others)
+SGB126	SRR17635629.mbin.9	13	Bacteria	Bacillota	Bacilli	Staphylococcales	Gemellaceae	Gemella	Gemella asaccharolytica	Species	Cultured (women vagina)
+SGB127	MG570.mbin.12	13	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella amnii	Species	Cultured (women vagina)
+SGB128	GCF_023347725.1	13	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Ezakiella	Ezakiella coagulans	Species	Cultured (women vagina)
+SGB129	SRR17635805.mbin.7	13	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gasseri	Species	Cultured (others)
+SGB130	SRR17635707.mbin.53	13	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Pauljensenia	Pauljensenia turicensis	Species	Cultured (women vagina)
+SGB131	SRR17635746.mbin.2	13	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum	Species	Cultured (women vagina)
+SGB132	MG247.mbin.1	13	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Alloscardovia	Alloscardovia omnicolens	Species	Cultured (women vagina)
+SGB133	SRR17635732.mbin.3	13	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp943913645	Genus	Uncultured
+SGB134	P10709460.sbin.8	12	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia vaginalis	Species	Cultured (women vagina)
+SGB135	SRR17635690.mbin.5	12	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus iners	Species	Cultured (women vagina)
+SGB136	ERR10897914.mbin.4	12	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Varibaculum	Varibaculum massiliense	Species	Cultured (others)
+SGB137	MG1150.sbin.30	12	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp000758925	Genus	Cultured (women vagina)
+SGB138	GCF_014696685.1	12	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	Species	Cultured (women vagina)
+SGB139	MG288.sbin.16	12	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Atopobacter	Atopobacter_unknown	Genus	Uncultured
+SGB140	SRR16916872.mbin.1	11	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A harei_A	Species	Cultured (others)
+SGB141	MG368.mbin.8	11	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus_unknown	Genus	Uncultured
+SGB142	GCF_023347705.1	11	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Fenollaria	Fenollaria massiliensis	Species	Cultured (women vagina)
+SGB143	SRR17635502.sbin.5	11	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp900539985	Genus	Cultured (others)
+SGB144	MG170.mbin.8	11	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis_A	Species	Cultured (women vagina)
+SGB145	MG1016.sbin.7	11	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium riegelii	Species	Cultured (others)
+SGB146	MG217.sbin.4	11	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_unknown	Genus	Uncultured
+SGB147	GCF_900454275.1	11	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae_C	Oligella	Oligella urethralis	Species	Cultured (women vagina)
+SGB148	ERR10897913.mbin.2	11	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium dentium	Species	Cultured (women vagina)
+SGB149	MG1099.sbin.36	10	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia vaginalis	Species	Cultured (women vagina)
+SGB150	SAMN00032548.mbin.9	10	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp000479005	Genus	Cultured (women vagina)
+SGB151	SRR17635774.mbin.4	10	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp001767255	Genus	Cultured (others)
+SGB152	GCF_000411175.1	10	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Propionibacteriaceae	Propionimicrobium	Propionimicrobium lymphophilum	Species	Cultured (women vagina)
+SGB153	MG1080.mbin.61	10	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Catonella	Catonella_unknown	Genus	Uncultured
+SGB154	GCF_000297835.1	10	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Proteus	Proteus mirabilis	Species	Cultured (women vagina)
+SGB155	SRR17635698.sbin.49	10	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_I	Eubacterium_I_unknown	Genus	Uncultured
+SGB156	GCF_009738475.1	10	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pyogenes	Species	Cultured (women vagina)
+SGB157	MG1016.mbin.3	9	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus crispatus	Species	Cultured (others)
+SGB158	GCF_025191005.1	9	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus johnsonii	Species	Cultured (women vagina)
+SGB159	ERR10897925.mbin.40	9	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Levyella	Levyella massiliensis	Species	Cultured (others)
+SGB160	SRR13900354.sbin.1	9	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Lawsonella	Lawsonella sp018376445	Genus	Uncultured
+SGB161	GCF_003326135.1	9	Bacteria	Bacillota	Bacilli	Mycoplasmatales	Mycoplasmoidaceae	Ureaplasma	Ureaplasma urealyticum	Species	Cultured (women vagina)
+SGB162	SRR16471055.sbin.29	8	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas_A	Porphyromonas_A somerae	Species	Cultured (others)
+SGB163	ERR10897925.sbin.37	8	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas_A	Porphyromonas_A sp001808555	Genus	Cultured (others)
+SGB164	ERR10897630.mbin.5	8	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus_unknown	Genus	Uncultured
+SGB165	MG846.mbin.7	8	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Brevibacteriaceae	Brevibacterium	Brevibacterium ravenspurgense	Species	Cultured (others)
+SGB166	SRR6747967.sbin.8	8	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella montpellierensis	Species	Cultured (others)
+SGB167	SRR12830918.mbin.1	8	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	KA00274	KA00274 sp902373515	Family	Uncultured
+SGB168	SRR13167655.mbin.3	8	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB169	SRR17635659.mbin.11	8	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella amnii	Species	Cultured (women vagina)
+SGB170	MG95.sbin.9	8	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister micraerophilus	Species	Cultured (women vagina)
+SGB171	SRR17635698.mbin.2	8	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus_unknown	Genus	Uncultured
+SGB172	GCF_001656575.1	8	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lacticaseibacillus	Lacticaseibacillus rhamnosus	Species	Cultured (women vagina)
+SGB173	SRR17635718.mbin.4	8	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Pseudoglutamicibacter	Pseudoglutamicibacter albus	Species	Cultured (others)
+SGB174	SRR17635502.sbin.28	8	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium_unknown	Genus	Uncultured
+SGB175	MG554.sbin.18	7	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella disiens	Species	Cultured (others)
+SGB176	SRR17635788.mbin.15	7	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp001807485	Genus	Cultured (others)
+SGB177	SRR6747967.mbin.3	7	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_B	Campylobacter_B ureolyticus	Species	Cultured (women vagina)
+SGB178	MG1129.mbin.1	7	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus vaginalis_B	Species	Cultured (others)
+SGB179	MG222.sbin.21	7	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_C	Peptoniphilus_C_unknown	Genus	Uncultured
+SGB180	MG1226.mbin.1	7	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A harei_A	Species	Cultured (others)
+SGB181	SRR17635483.mbin.3	7	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Varibaculum	Varibaculum cambriense_B	Species	Cultured (others)
+SGB182	MG1108.sbin.2	7	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_A	Species	Cultured (women vagina)
+SGB183	MG75.mbin.14	7	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus_unknown	Genus	Uncultured
+SGB184	P10708882.sbin.26	7	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Neisseriaceae	CAJPTP01	CAJPTP01 sp905373555	Family	Uncultured
+SGB185	GCF_019734515.1	7	Bacteria	Bacillota	Bacilli	Lactobacillales	Listeriaceae	Listeria	Listeria monocytogenes	Species	Cultured (women vagina)
+SGB186	MG1263.sbin.33	7	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_B	Campylobacter_B_unknown	Genus	Uncultured
+SGB187	MG222.mbin.32	7	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	CAKAHY01	CAKAHY01_unknown	Family	Uncultured
+SGB188	SRR17635481.mbin.7	7	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olegusella	Olegusella massiliensis	Species	Cultured (others)
+SGB189	GCF_001546615.1	7	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus lugdunensis	Species	Cultured (women vagina)
+SGB190	GCF_000215025.2	6	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella parvula_A	Species	Cultured (women vagina)
+SGB191	MG373.mbin.12	6	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus iners	Species	Cultured (women vagina)
+SGB192	MG33.mbin.15	6	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Parvimonas	Parvimonas sp001552895	Genus	Cultured (women vagina)
+SGB193	MG541.mbin.10	6	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus anaerobius	Species	Cultured (others)
+SGB194	MG825.mbin.6	6	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_C	Species	Cultured (women vagina)
+SGB195	SRR12830915.mbin.8	6	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium piotii	Species	Cultured (women vagina)
+SGB196	ERR10897925.sbin.3	6	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_C	Peptoniphilus_C rachelemmaiella	Species	Cultured (others)
+SGB197	GCF_000191765.2	6	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella denticola	Species	Cultured (women vagina)
+SGB198	SRR17635715.mbin.51	6	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_B	Campylobacter_B_unknown	Genus	Uncultured
+SGB199	SRR17635723.mbin.4	6	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus oris	Species	Cultured (women vagina)
+SGB200	MG1225.mbin.11	6	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gasseri	Species	Cultured (others)
+SGB201	GCF_001552875.1	6	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter_B	Citrobacter_B koseri	Species	Cultured (women vagina)
+SGB202	GCF_001552965.1	6	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium phoceense	Species	Cultured (women vagina)
+SGB203	SAMN00075027.mbin.2	6	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola vulgatus	Species	Cultured (others)
+SGB204	SRR5575601.mbin.4	6	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium animalis	Species	Cultured (women vagina)
+SGB205	MG1121.mbin.9	6	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium_C	Fusobacterium_C gonidiaformans	Species	Cultured (women vagina)
+SGB206	GCF_900604965.1	6	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Berryella	Berryella sp900604965	Genus	Cultured (women vagina)
+SGB207	GCF_001552785.1	6	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	Atopobium deltae	Species	Cultured (women vagina)
+SGB208	MG191.mbin.2	6	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus_unknown	Genus	Uncultured
+SGB209	GCF_001552765.1	6	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp001552765	Genus	Cultured (women vagina)
+SGB210	MG16.mbin.17	6	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	Stomatobaculum naviforme	Species	Cultured (others)
+SGB211	ERR10897925.sbin.57	6	Bacteria	Synergistota	Synergistia	Synergistales	Dethiosulfovibrionaceae	Jonquetella	Jonquetella anthropi	Species	Cultured (others)
+SGB212	SRR17635712.mbin.4	6	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium pyruviciproducens	Species	Cultured (others)
+SGB213	MG1246.mbin.44	6	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Alloprevotella	Alloprevotella sp905369775	Genus	Uncultured
+SGB214	MG1312.mbin.29	5	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	Aerococcus christensenii	Species	Cultured (women vagina)
+SGB215	MG179.mbin.11	5	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister sp001553355	Genus	Cultured (women vagina)
+SGB216	SRR13900360.sbin.2	5	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella bivia	Species	Cultured (women vagina)
+SGB217	SRR17635640.sbin.1	5	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus crispatus	Species	Cultured (others)
+SGB218	SRR17635683.mbin.14	5	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Arcanobacterium_A	Arcanobacterium_A sp000758825	Genus	Cultured (women vagina)
+SGB219	MG477.mbin.11	5	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus iners	Species	Cultured (women vagina)
+SGB220	ERR10898272.sbin.2	5	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus jensenii	Species	Cultured (women vagina)
+SGB221	SAMN00088364.sbin.78	5	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas pasteri	Species	Cultured (women vagina)
+SGB222	SRR16916849.sbin.25	5	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia sanguinegens	Species	Cultured (others)
+SGB223	MG1129.mbin.7	5	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_B	Peptoniphilus_B duerdenii	Species	Cultured (women vagina)
+SGB224	MG5.sbin.40	5	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Megasphaera	Megasphaera hutchinsoni	Species	Cultured (women vagina)
+SGB225	GCF_011029085.1	5	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius	Species	Cultured (women vagina)
+SGB226	SRR17635465.mbin.7	5	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium minutissimum_A	Species	Cultured (others)
+SGB227	SRR17635580.sbin.4	5	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus prevotii	Species	Cultured (others)
+SGB228	GCF_000162295.1	5	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii	Species	Cultured (women vagina)
+SGB229	MG1043.sbin.26	5	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	W5053	W5053_unknown	Family	Uncultured
+SGB230	SRR17635612.mbin.17	5	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium_unknown	Genus	Uncultured
+SGB231	SAMN00040503.mbin.1	5	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes putredinis	Species	Cultured (others)
+SGB232	ERR10897997.mbin.1	5	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus delbrueckii	Species	Cultured (women vagina)
+SGB233	MG1076.mbin.23	5	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus_unknown	Genus	Uncultured
+SGB234	MG1108.mbin.2	5	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas_A	Porphyromonas_A sp900554935	Genus	Cultured (others)
+SGB235	MG665.mbin.33	5	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Finegoldia	Finegoldia_unknown	Genus	Uncultured
+SGB236	MG1043.mbin.6	5	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Ezakiella	Ezakiella_unknown	Genus	Uncultured
+SGB237	GCF_000295035.2	5	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus_B	Enterococcus_B faecium	Species	Cultured (women vagina)
+SGB238	GCF_000315465.1	5	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Actinobaculum	Actinobaculum massiliense	Species	Cultured (women vagina)
+SGB239	ERR10897738.sbin.1	5	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Pasteurellaceae	Haemophilus_D	Haemophilus_D_unknown	Genus	Uncultured
+SGB240	SRR17635715.sbin.92	5	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum sanguinis	Species	Cultured (others)
+SGB241	GCF_000159135.1	5	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium striatum	Species	Cultured (women vagina)
+SGB242	MG1080.mbin.17	4	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium adolescentis	Species	Cultured (others)
+SGB243	ERR10897591.sbin.11	4	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Berryella	Berryella sp001552935	Genus	Cultured (women vagina)
+SGB244	MG360.mbin.15	4	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia vaginalis	Species	Cultured (women vagina)
+SGB245	GCF_001814695.1	4	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus_C	Species	Cultured (women vagina)
+SGB246	MG103.sbin.9	4	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB247	MG109.mbin.1	4	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Megasphaera	Megasphaera hutchinsoni	Species	Cultured (women vagina)
+SGB248	SRR17635465.mbin.77	4	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_B	Peptoniphilus_B duerdenii	Species	Cultured (women vagina)
+SGB249	MG95.sbin.2	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas sp900548415	Genus	Cultured (others)
+SGB250	GCF_000179735.1	4	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella atypica	Species	Cultured (women vagina)
+SGB251	SRR17635612.mbin.12	4	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus sp943912825	Genus	Uncultured
+SGB252	MG896.mbin.15	4	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A grossensis	Species	Cultured (others)
+SGB253	SRR17635649.mbin.9	4	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp001815985	Genus	Cultured (others)
+SGB254	SRR17635732.mbin.7	4	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp001767255	Genus	Cultured (others)
+SGB255	MG42.mbin.13	4	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus mulieris	Species	Cultured (women vagina)
+SGB256	SRR5274031.sbin.1	4	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium breve	Species	Cultured (others)
+SGB257	ERR3500829.sbin.2	4	Bacteria	Bacillota	Bacilli	Mycoplasmatales	Metamycoplasmataceae	Metamycoplasma	Metamycoplasma hominis	Species	Cultured (others)
+SGB258	SRR17635515.mbin.18	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella_unknown	Genus	Uncultured
+SGB259	SRR17635481.mbin.22	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella buccalis	Species	Cultured (women vagina)
+SGB260	ERR10897925.mbin.42	4	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Urinicoccus	Urinicoccus massiliensis	Species	Cultured (others)
+SGB261	SRR16471055.mbin.3	4	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Lancefieldella	Lancefieldella_unknown	Genus	Uncultured
+SGB262	MG846.mbin.53	4	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Falseniella	Falseniella ignava	Species	Cultured (others)
+SGB263	ERR10897863.sbin.1	4	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	Species	Cultured (others)
+SGB264	GCF_024391065.1	4	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactiplantibacillus	Lactiplantibacillus plantarum	Species	Cultured (women vagina)
+SGB265	GCF_001563585.1	4	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pasteurianus	Species	Cultured (women vagina)
+SGB266	MG1081.sbin.48	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_unknown	Genus	Uncultured
+SGB267	P10709701.sbin.8	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_unknown	Genus	Uncultured
+SGB268	SRR17635627.mbin.3	4	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella montpellierensis	Species	Cultured (others)
+SGB269	SRR17635707.sbin.40	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_unknown	Genus	Uncultured
+SGB270	SRR17635703.mbin.23	4	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilaceae_unknown	Peptoniphilaceae_unknown	Family	Uncultured
+SGB271	SRR17635647.mbin.53	4	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Khoudiadiopia	Khoudiadiopia_unknown	Genus	Uncultured
+SGB272	SRR6747947.mbin.12	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella brunnea	Species	Cultured (others)
+SGB273	GCF_024494505.1	4	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus fermentum	Species	Cultured (women vagina)
+SGB274	GCF_001546135.1	4	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Winkia	Winkia neuii	Species	Cultured (women vagina)
+SGB275	MG278.mbin.4	4	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gallinarum	Species	Cultured (others)
+SGB276	MG367.sbin.13	4	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus_unknown	Genus	Uncultured
+SGB277	MG448.mbin.2	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella copri_B	Species	Cultured (others)
+SGB278	MG1356.mbin.6	4	Bacteria	Pseudomonadota	Alphaproteobacteria	RUG11792	RUG11792	RUG11792_unknown	RUG11792_unknown	Class	Uncultured
+SGB279	SRR17635465.mbin.14	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp900548585	Genus	Cultured (others)
+SGB280	MG495.mbin.13	4	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella_I	Olsenella_I_unknown	Genus	Uncultured
+SGB281	ERR10898125.sbin.17	4	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA4285	UBA4285 sp900542465	Family	Cultured (others)
+SGB282	SRR16471055.mbin.9	4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis	Species	Cultured (others)
+SGB283	GCF_020117715.1	3	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella michiganensis	Species	Cultured (women vagina)
+SGB284	MG1203.mbin.26	3	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister sp001553355	Genus	Cultured (women vagina)
+SGB285	MG279.mbin.4	3	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB286	MG1312.mbin.11	3	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB287	MG154.mbin.23	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_unknown	Genus	Uncultured
+SGB288	MG1283.mbin.5	3	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB289	MG886.mbin.4	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium leopoldii	Species	Cultured (women vagina)
+SGB290	MG948.mbin.5	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_A	Species	Cultured (women vagina)
+SGB291	GCF_000759075.1	3	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella histicola	Species	Cultured (women vagina)
+SGB292	MG54.mbin.7	3	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella amnii	Species	Cultured (women vagina)
+SGB293	SRR16916855.mbin.11	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_H	Species	Cultured (women vagina)
+SGB294	SRR17635472.mbin.39	3	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB295	SRR17635683.mbin.35	3	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Cryptobacteroides	Cryptobacteroides_unknown	Order	Uncultured
+SGB296	GCF_000758905.1	3	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	S5-A14a	S5-A14a sp000758905	Family	Cultured (women vagina)
+SGB297	SRR16916877.sbin.11	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Pseudoglutamicibacter	Pseudoglutamicibacter cumminsii_A	Species	Cultured (others)
+SGB298	SRR17635465.mbin.66	3	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Fenollaria	Fenollaria_unknown	Genus	Uncultured
+SGB299	MG1312.mbin.15	3	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A vaginalis	Species	Cultured (women vagina)
+SGB300	GCF_011029235.1	3	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	Ligilactobacillus salivarius	Species	Cultured (women vagina)
+SGB301	MG1273.mbin.5	3	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A harei_A	Species	Cultured (others)
+SGB302	ERR10898070.sbin.1	3	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella aerogenes	Species	Cultured (others)
+SGB303	ERR10898089.sbin.2	3	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Morganella	Morganella morganii	Species	Cultured (others)
+SGB304	GCF_000195355.2	3	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus helveticus	Species	Cultured (women vagina)
+SGB305	GCF_000163435.1	3	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium jeikeium	Species	Cultured (women vagina)
+SGB306	MG1217.sbin.5	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium swidsinskii	Species	Cultured (women vagina)
+SGB307	GCF_000191745.2	3	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus hydrogenalis	Species	Cultured (women vagina)
+SGB308	SRR17635492.mbin.4	3	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Bulleidia	Bulleidia moorei	Species	Cultured (others)
+SGB309	SRR17635698.mbin.40	3	Bacteria	Bacillota_B	Peptococcia	Peptococcales	Peptococcaceae	Peptococcaceae_unknown	Peptococcaceae_unknown	Family	Uncultured
+SGB310	SRR17635703.mbin.3	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermabacteraceae	Dermabacter	Dermabacter hominis	Species	Cultured (others)
+SGB311	SRR17635703.sbin.4	3	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp022347285	Genus	Cultured (others)
+SGB312	SRR18765396.mbin.1	3	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	KA00134	KA00134 sp001574395	Family	Cultured (others)
+SGB313	MG351.mbin.31	3	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella_unknown	Genus	Uncultured
+SGB314	GCF_000159035.1	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces urogenitalis	Species	Cultured (women vagina)
+SGB315	MG233.mbin.6	3	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia_unknown	Genus	Uncultured
+SGB316	MG16.sbin.24	3	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Filifactoraceae	Criibacterium	Criibacterium bergeronii	Species	Cultured (women vagina)
+SGB317	P10709417.sbin.20	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus_unknown	Genus	Uncultured
+SGB318	ERR10897925.mbin.27	3	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Lawsonella	Lawsonella clevelandensis	Species	Cultured (others)
+SGB319	GCF_000478965.1	3	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Anaeroglobus	Anaeroglobus vaginalis	Species	Cultured (women vagina)
+SGB320	GCF_011031945.1	3	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lacticaseibacillus	Lacticaseibacillus paracasei	Species	Cultured (women vagina)
+SGB321	ERR10897925.mbin.61	3	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Cryptobacteroides	Cryptobacteroides_unknown	Order	Uncultured
+SGB322	MG482.mbin.1	3	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus hominis	Species	Cultured (others)
+SGB323	SRR17635465.mbin.15	3	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	CAJPTX01	Bacteroides_D	Bacteroides_D_unknown	Order	Uncultured
+SGB324	SRR17635707.mbin.23	3	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella_G	Olsenella_G urininfantis	Species	Cultured (others)
+SGB325	SRR17635709.mbin.16	3	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp001831515	Genus	Cultured (others)
+SGB326	SRR17635580.mbin.13	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermabacteraceae	Helcobacillus	Helcobacillus_unknown	Genus	Uncultured
+SGB327	SRR17635647.mbin.20	3	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas_A	Porphyromonas_A_unknown	Genus	Uncultured
+SGB328	MG1167.sbin.51	3	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Varibaculum	Varibaculum_unknown	Genus	Uncultured
+SGB329	ERR10898147.sbin.6	2	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter_B	Citrobacter_B koseri	Species	Cultured (others)
+SGB330	ERR4421562.sbin.1	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus paragasseri	Species	Cultured (others)
+SGB331	GCF_002742445.1	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium sp002742445	Genus	Cultured (women vagina)
+SGB332	GCF_900626155.1	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus vaginimassiliensis	Species	Cultured (women vagina)
+SGB333	MG1008.mbin.2	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides stercoris	Species	Cultured (others)
+SGB334	ERR10897925.sbin.4	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Arcanobacterium_A	Arcanobacterium_A urinimassiliense	Species	Cultured (others)
+SGB335	MG1206.sbin.13	2	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Berryella	Berryella sp001552935	Genus	Cultured (women vagina)
+SGB336	GCF_001553345.1	2	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Veillonellaceae	F0422	F0422 sp001553345	Family	Cultured (women vagina)
+SGB337	MG1037.mbin.28	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_B	Peptoniphilus_B_unknown	Genus	Uncultured
+SGB338	ERR10897857.mbin.3	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	Species	Cultured (others)
+SGB339	MG387.sbin.8	2	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea massiliensis	Species	Cultured (women vagina)
+SGB340	MG1099.mbin.24	2	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae_A	Sutterella	Sutterella sp900762445	Genus	Uncultured
+SGB341	MG499.mbin.26	2	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea massiliensis	Species	Cultured (women vagina)
+SGB342	MG532.sbin.3	2	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia sanguinegens	Species	Cultured (others)
+SGB343	GCF_940926095.1	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus reuteri	Species	Cultured (women vagina)
+SGB344	MG585.mbin.13	2	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB345	MG66.mbin.4	2	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA629	UBA629 sp005465875	Family	Uncultured
+SGB346	MG306.mbin.10	2	Bacteria	Bacillota	Bacilli	Staphylococcales	Gemellaceae	Gemella	Gemella asaccharolytica	Species	Cultured (women vagina)
+SGB347	MG1136.mbin.3	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium leopoldii	Species	Cultured (women vagina)
+SGB348	MG935.mbin.15	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Cryptobacteroides	Cryptobacteroides_unknown	Order	Uncultured
+SGB349	ERR10897629.mbin.2	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus ultunensis	Species	Cultured (others)
+SGB350	GCF_001546795.1	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus oralis_BA	Species	Cultured (women vagina)
+SGB351	P10710167.mbin.25	2	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Acutalibacteraceae	Fimenecus	Fimenecus sp000432435	Genus	Uncultured
+SGB352	P10710167.mbin.7	2	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	Agathobacter faecis	Species	Cultured (others)
+SGB353	P10710167.mbin.61	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella buccae	Species	Cultured (others)
+SGB354	GCF_000758755.1	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Pauljensenia	Pauljensenia sp000758755	Genus	Cultured (women vagina)
+SGB355	SRR12018959.sbin.1	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus sp900258475	Genus	Cultured (women vagina)
+SGB356	SRR13167622.mbin.7	2	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter hormaechei_A	Species	Cultured (others)
+SGB357	SAMN00075027.mbin.3	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides ovatus	Species	Cultured (others)
+SGB358	SRR16470951.mbin.12	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus murdochii	Species	Cultured (others)
+SGB359	SRR16470951.sbin.15	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella pallens	Species	Cultured (others)
+SGB360	P10710167.mbin.13	2	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister invisus	Species	Cultured (others)
+SGB361	SRR16471055.mbin.20	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas uenonis	Species	Cultured (others)
+SGB362	GCF_001679135.1	2	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Pasteurellaceae	Haemophilus	Haemophilus haemolyticus	Species	Cultured (women vagina)
+SGB363	SAMN00088364.sbin.55	2	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus sp900759325	Genus	Uncultured
+SGB364	SRR11749281.sbin.15	2	Bacteria	Bacillota_B	Peptococcia	Peptococcales	Peptococcaceae	Peptococcus	Peptococcus niger	Species	Cultured (others)
+SGB365	MG535.mbin.18	2	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	UBA1997	CALXRO01	CALXRO01_unknown	Order	Uncultured
+SGB366	ERR10897925.mbin.54	2	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	DTU023	SFGY01	SFGY01_unknown	Order	Uncultured
+SGB367	ERR10897925.sbin.60	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella_unknown	Genus	Uncultured
+SGB368	GCF_001553085.1	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Parvimonas	Parvimonas parva	Species	Cultured (women vagina)
+SGB369	MG495.sbin.4	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus_unknown	Genus	Uncultured
+SGB370	SRR17635481.mbin.8	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_B	Peptoniphilus_B duerdenii	Species	Cultured (women vagina)
+SGB371	GCF_001546875.1	2	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium avidum	Species	Cultured (women vagina)
+SGB372	SRR17635601.mbin.10	2	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister sp900541485	Genus	Cultured (others)
+SGB373	MG1129.mbin.13	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Finegoldia	Finegoldia magna_H	Species	Cultured (others)
+SGB374	SRR17635612.mbin.35	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Ezakiella	Ezakiella massiliensis	Species	Cultured (women vagina)
+SGB375	GCF_000758775.1	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Gleimia	Gleimia europaea_A	Species	Cultured (women vagina)
+SGB376	SRR17635632.mbin.10	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus_unknown	Genus	Uncultured
+SGB377	SRR11749285.sbin.21	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus_unknown	Genus	Uncultured
+SGB378	SRR17635647.sbin.47	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas_A	Porphyromonas_A_unknown	Genus	Uncultured
+SGB379	SRR17635580.sbin.26	2	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium_unknown	Genus	Uncultured
+SGB380	SRR17635658.mbin.8	2	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium aurimucosum_E	Species	Cultured (others)
+SGB381	SRR17635696.mbin.9	2	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB382	SRR17635696.mbin.16	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Alloprevotella	Alloprevotella sp015259235	Genus	Uncultured
+SGB383	SRR17635701.mbin.9	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale	Species	Cultured (women vagina)
+SGB384	MG1023.sbin.19	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella bergensis	Species	Cultured (others)
+SGB385	SRR17635707.mbin.76	2	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Filifactoraceae	Filifactor	Filifactor_unknown	Genus	Uncultured
+SGB386	MG1016.mbin.4	2	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium imitans	Species	Cultured (others)
+SGB387	GCF_000413455.1	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Facklamia	Facklamia hominis	Species	Cultured (women vagina)
+SGB388	SRR17635719.mbin.17	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella_unknown	Genus	Uncultured
+SGB389	MG1016.sbin.5	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus vaginalis	Species	Cultured (women vagina)
+SGB390	SRR17635797.mbin.8	2	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	Stomatobaculum sp002892395	Genus	Cultured (women vagina)
+SGB391	SRR18765392.mbin.5	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_C	Species	Cultured (women vagina)
+SGB392	SRR17635648.mbin.34	2	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium aurimucosum	Species	Cultured (others)
+SGB393	ERR10898147.mbin.2	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pseudoporcinus	Species	Cultured (others)
+SGB394	GCF_000156595.1	2	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium glucuronolyticum	Species	Cultured (women vagina)
+SGB395	GCF_000314755.2	2	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus simulans	Species	Cultured (women vagina)
+SGB396	GCF_001814765.1	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus_B	Enterococcus_B lactis	Species	Cultured (women vagina)
+SGB397	GCF_009807535.1	2	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	Species	Cultured (women vagina)
+SGB398	GCF_900119705.1	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Murdochiella	Murdochiella vaginalis	Species	Cultured (women vagina)
+SGB399	GCF_002041755.1	2	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	Species	Cultured (women vagina)
+SGB400	GCF_900509245.1	2	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella quasipneumoniae	Species	Cultured (women vagina)
+SGB401	GCF_000143785.1	2	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium gleum	Species	Cultured (women vagina)
+SGB402	MG1016.mbin.12	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Aeriscardovia	Aeriscardovia_unknown	Genus	Uncultured
+SGB403	MG1038.sbin.1	2	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	Mogibacterium	Mogibacterium timidum	Species	Cultured (others)
+SGB404	MG1037.sbin.17	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella nigrescens	Species	Cultured (others)
+SGB405	MG1081.mbin.17	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella_unknown	Genus	Uncultured
+SGB406	MG1080.mbin.42	2	Bacteria	Patescibacteria	JAEDAM01	Absconditabacterales	Absconditicoccaceae	HOT-345	HOT-345_unknown	Phylum	Uncultured
+SGB407	MG1081.mbin.32	2	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	Hornefia	Hornefia_unknown	Genus	Uncultured
+SGB408	MG1080.sbin.34	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_unknown	Genus	Uncultured
+SGB409	MG1080.mbin.46	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola coprocola	Species	Cultured (others)
+SGB410	GCF_000183605.2	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas asaccharolytica	Species	Cultured (women vagina)
+SGB411	MG1239.mbin.19	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_C	Peptoniphilus_C sp902363535	Genus	Uncultured
+SGB412	MG1247.mbin.14	2	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Granulicatella	Granulicatella_unknown	Genus	Uncultured
+SGB413	MG1248.mbin.18	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus_unknown	Genus	Uncultured
+SGB414	GCF_001546855.1	2	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Megasphaera	Megasphaera sp001546855	Genus	Cultured (women vagina)
+SGB415	GCF_900604285.1	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Varibaculum	Varibaculum vaginae	Species	Cultured (women vagina)
+SGB416	MG495.sbin.43	2	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Slackia	Slackia exigua	Species	Cultured (others)
+SGB417	P10710167.mbin.57	2	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	Lachnospira sp000436535	Genus	Uncultured
+SGB418	SAMN00040503.mbin.2	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola plebeius_A	Species	Cultured (others)
+SGB419	SAMN00077353.mbin.4	2	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	Species	Cultured (others)
+SGB420	MG1239.mbin.14	2	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Anaeroglobus	Anaeroglobus micronuciformis	Species	Cultured (others)
+SGB421	SAMN00088364.mbin.16	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp013333285	Genus	Uncultured
+SGB422	SRR10258545.sbin.18	2	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	Atopobium minutum	Species	Cultured (others)
+SGB423	ERR10897970.sbin.6	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum timonense	Species	Cultured (others)
+SGB424	MG233.mbin.32	2	Bacteria	Bacillota	Bacilli	Mycoplasmatales	Metamycoplasmataceae	Mycoplasmopsis	Mycoplasmopsis_unknown	Genus	Uncultured
+SGB425	GCF_900155645.1	2	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Propionibacteriaceae	Vaginimicrobium	Vaginimicrobium propionicum	Species	Cultured (women vagina)
+SGB426	ERR10897925.sbin.48	2	Bacteria	Synergistota	Synergistia	Synergistales	Dethiosulfovibrionaceae	Pyramidobacter	Pyramidobacter_unknown	Genus	Uncultured
+SGB427	MG846.mbin.40	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Canibacter	Canibacter_unknown	Genus	Uncultured
+SGB428	GCF_001553285.1	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Varibaculum	Varibaculum cambriense	Species	Cultured (women vagina)
+SGB429	GCF_000296485.1	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Winkia	Winkia sp002849225	Genus	Cultured (women vagina)
+SGB430	SRR17635647.mbin.27	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus_unknown	Genus	Uncultured
+SGB431	SRR17635649.mbin.36	2	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Negativicoccaceae	CAMCNU01	CAMCNU01_unknown	Family	Uncultured
+SGB432	SRR17635691.sbin.1	2	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp000479005	Genus	Cultured (women vagina)
+SGB433	MG1248.sbin.40	2	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_B	Peptoniphilus_B_unknown	Genus	Uncultured
+SGB434	SRR17635703.mbin.70	2	Bacteria	Bacillota_B	Peptococcia	Peptococcales	Peptococcaceae	Peptococcus	Peptococcus niger	Species	Cultured (others)
+SGB435	SRR17635707.mbin.38	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Nanchangia	Nanchangia sp900545825	Genus	Cultured (others)
+SGB436	SRR17635580.mbin.17	2	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Propionibacteriaceae	Arachnia	Arachnia_unknown	Genus	Uncultured
+SGB437	SRR17635709.sbin.26	2	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Brevibacteriaceae	Brevibacterium	Brevibacterium sp001815905	Genus	Cultured (others)
+SGB438	SRR17635715.mbin.69	2	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	DTU023	UBA5436	UBA5436_unknown	Order	Uncultured
+SGB439	ERR10897629.mbin.11	1	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Anaeroglobus	Anaeroglobus massiliensis	Species	Cultured (others)
+SGB440	ERR10897629.sbin.6	1	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Bulleidia	Bulleidia_unknown	Genus	Uncultured
+SGB441	ERR10897645.sbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_unknown	Genus	Uncultured
+SGB442	ERR10897714.sbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus infantarius	Species	Cultured (others)
+SGB443	ERR10897721.mbin.11	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Berryella	Berryella_unknown	Genus	Uncultured
+SGB444	ERR10897758.sbin.5	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium animalis	Species	Cultured (others)
+SGB445	ERR10897758.sbin.6	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia pseudococcoides	Species	Cultured (others)
+SGB446	ERR10897892.mbin.1	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Ezakiella	Ezakiella coagulans	Species	Cultured (others)
+SGB447	ERR10897913.sbin.12	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium dentium	Species	Cultured (others)
+SGB448	ERR10897925.sbin.22	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_B	Peptoniphilus_B sp000478985	Genus	Cultured (others)
+SGB449	ERR10897925.sbin.23	1	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-74	JAAZPT01	JAAZPT01_unknown	Order	Uncultured
+SGB450	ERR10897925.sbin.61	1	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	Fastidiosipilaceae_unknown	Fastidiosipilaceae_unknown	Family	Uncultured
+SGB451	ERR10898022.mbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp020089495	Genus	Cultured (others)
+SGB452	ERR10898047.mbin.9	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis_A	Species	Cultured (women vagina)
+SGB453	ERR10898056.mbin.3	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Serratia	Serratia marcescens_K	Species	Cultured (others)
+SGB454	ERR10898063.mbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_unknown	Genus	Uncultured
+SGB455	ERR10898072.sbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus jensenii	Species	Cultured (women vagina)
+SGB456	ERR10898081.sbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mitis_Q	Species	Cultured (others)
+SGB457	ERR10898093.sbin.2	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium longum	Species	Cultured (others)
+SGB458	ERR10898117.sbin.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium swidsinskii	Species	Cultured (women vagina)
+SGB459	ERR10898172.sbin.2	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_unknown	Genus	Uncultured
+SGB460	ERR10898179.mbin.12	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella ornithinolytica	Species	Cultured (others)
+SGB461	ERR10898196.sbin.6	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus parasanguinis	Species	Cultured (others)
+SGB462	ERR10898228.sbin.8	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium pseudocatenulatum	Species	Cultured (others)
+SGB463	ERR10898249.mbin.4	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella amnii	Species	Cultured (women vagina)
+SGB464	ERR10898257.mbin.14	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae	Species	Cultured (others)
+SGB465	ERR10898257.sbin.16	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella terrigena	Species	Cultured (others)
+SGB466	ERR10898264.sbin.2	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_unknown	Genus	Uncultured
+SGB467	ERR10898275.mbin.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter kobei	Species	Cultured (others)
+SGB468	ERR10898293.mbin.1	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium simulans	Species	Uncultured
+SGB469	GCF_000143765.1	1	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium spiritivorum	Species	Cultured (women vagina)
+SGB470	GCF_000143825.1	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium genitalium_A	Species	Cultured (women vagina)
+SGB471	GCF_000156615.2	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium tuberculostearicum	Species	Cultured (women vagina)
+SGB472	GCF_000159015.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Gleimia	Gleimia coleocanis	Species	Cultured (women vagina)
+SGB473	GCF_000159515.1	1	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium spiritivorum_A	Species	Cultured (women vagina)
+SGB474	GCF_000159635.1	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium lipophiloflavum	Species	Cultured (women vagina)
+SGB475	GCF_000159695.1	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Finegoldia	Finegoldia magna_F	Species	Cultured (women vagina)
+SGB476	GCF_000164135.1	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium parascrofulaceum	Species	Cultured (women vagina)
+SGB477	GCF_000164635.1	1	Bacteria	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas_D	Roseomonas_D cervicalis	Species	Cultured (women vagina)
+SGB478	GCF_000174695.1	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium aurimucosum_F	Species	Cultured (women vagina)
+SGB479	GCF_000178435.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	Aerococcus viridans	Species	Cultured (women vagina)
+SGB480	GCF_000178895.1	1	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium nucleatum	Species	Cultured (women vagina)
+SGB481	GCF_000183205.2	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Eremococcus	Eremococcus coleocola	Species	Cultured (women vagina)
+SGB482	GCF_000185145.2	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella oralis	Species	Cultured (women vagina)
+SGB483	GCF_000187105.1	1	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema	Treponema phagedenis	Species	Cultured (women vagina)
+SGB484	GCF_000193205.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	Aerococcus urinae_A	Species	Cultured (women vagina)
+SGB485	GCF_000242095.1	1	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium odoratimimum	Species	Cultured (women vagina)
+SGB486	GCF_000247875.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella oxytoca	Species	Cultured (women vagina)
+SGB487	GCF_000247915.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella grimontii	Species	Cultured (women vagina)
+SGB488	GCF_000262245.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Pasteurellaceae	Basfia	Basfia bettyae	Species	Cultured (women vagina)
+SGB489	GCF_000271445.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactiplantibacillus	Lactiplantibacillus plantarum_A	Species	Cultured (women vagina)
+SGB490	GCF_000314815.2	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus urinalis	Species	Cultured (women vagina)
+SGB491	GCF_000315505.1	1	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Veillonellaceae	Veillonella_A	Veillonella_A seminalis	Species	Cultured (women vagina)
+SGB492	GCF_000369445.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter pseudolwoffii	Species	Cultured (women vagina)
+SGB493	GCF_000411135.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum schaalii_A	Species	Cultured (women vagina)
+SGB494	GCF_000413435.1	1	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_B	Campylobacter_B ureolyticus_A	Species	Cultured (women vagina)
+SGB495	GCF_000488195.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter gyllenbergii	Species	Cultured (women vagina)
+SGB496	GCF_000758945.1	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Lancefieldella	Lancefieldella sp000564995	Genus	Cultured (women vagina)
+SGB497	GCF_001372335.1	1	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Paraclostridium	Paraclostridium sordellii	Species	Cultured (women vagina)
+SGB498	GCF_001471735.2	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus constellatus	Species	Cultured (women vagina)
+SGB499	GCF_001485065.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter schindleri	Species	Cultured (women vagina)
+SGB500	GCF_001546215.1	1	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae_C	Weizmannia	Weizmannia coagulans_A	Species	Cultured (women vagina)
+SGB501	GCF_001546285.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter freundii	Species	Cultured (women vagina)
+SGB502	GCF_001546355.1	1	Bacteria	Bacillota_A	Clostridia	Clostridiales	Clostridiaceae	Sarcina	Sarcina perfringens	Species	Cultured (women vagina)
+SGB503	GCF_001546835.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp000187445	Genus	Cultured (women vagina)
+SGB504	GCF_001552955.1	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium parakroppenstedtii	Species	Cultured (women vagina)
+SGB505	GCF_001552975.1	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoanaerobaculum	Lachnoanaerobaculum orale	Species	Cultured (women vagina)
+SGB506	GCF_001553035.1	1	Bacteria	Bacillota	Bacilli	Staphylococcales	Gemellaceae	Gemella	Gemella haemolysans_B	Species	Cultured (women vagina)
+SGB507	GCF_001553045.1	1	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	Leptotrichia wadei	Species	Cultured (women vagina)
+SGB508	GCF_001553055.1	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella_I	Olsenella_I phocaeensis	Species	Cultured (women vagina)
+SGB509	GCF_001553315.1	1	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella nakazawae	Species	Cultured (women vagina)
+SGB510	GCF_001678905.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermabacteraceae	Dermabacter	Dermabacter vaginalis	Species	Cultured (women vagina)
+SGB511	GCF_001712935.1	1	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema	Treponema pallidum	Species	Cultured (women vagina)
+SGB512	GCF_001889465.1	1	Bacteria	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Granulibacter	Granulibacter bethesdensis	Species	Cultured (women vagina)
+SGB513	GCF_002234935.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus canis	Species	Cultured (women vagina)
+SGB514	GCF_002742395.2	1	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Macrococcus_B	Macrococcus_B caseolyticus	Species	Cultured (women vagina)
+SGB515	GCF_003055835.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Trueperella	Trueperella pyogenes	Species	Cultured (women vagina)
+SGB516	GCF_003609775.1	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella melaninogenica_A	Species	Cultured (women vagina)
+SGB517	GCF_003668835.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella diarizonae	Species	Cultured (women vagina)
+SGB518	GCF_008932705.1	1	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum	Ochrobactrum anthropi	Species	Cultured (women vagina)
+SGB519	GCF_009495705.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mitis_BM	Species	Cultured (women vagina)
+SGB520	GCF_016132525.1	1	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium sp012030425	Genus	Cultured (women vagina)
+SGB521	GCF_021601385.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas_E	Pseudomonas_E parasichuanensis	Species	Cultured (women vagina)
+SGB522	GCF_023520795.1	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium accolens	Species	Cultured (women vagina)
+SGB523	GCF_900089075.1	1	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Vaginella	Vaginella massiliensis	Species	Cultured (women vagina)
+SGB524	GCF_900176655.1	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella vaginalis	Species	Cultured (women vagina)
+SGB525	GCF_900178525.1	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Massilibacteroides	Massilibacteroides vaginae	Species	Cultured (women vagina)
+SGB526	GCF_900232825.1	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus sp900232825	Genus	Cultured (women vagina)
+SGB527	GCF_900258485.1	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Helcococcus	Helcococcus massiliensis	Species	Cultured (women vagina)
+SGB528	GCF_900258545.1	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	Butyricimonas faecalis	Species	Cultured (women vagina)
+SGB529	GCF_900289115.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter_A	Janibacter_A massiliensis	Species	Cultured (women vagina)
+SGB530	GCF_900290095.1	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Khoudiadiopia	Khoudiadiopia massiliensis	Species	Cultured (women vagina)
+SGB531	GCF_900290115.1	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes excrementigallinarum	Species	Cultured (women vagina)
+SGB532	GCF_900343145.1	1	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Propionibacteriaceae	Arachnia	Arachnia timonensis	Species	Cultured (women vagina)
+SGB533	GCF_900411375.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lentilactobacillus	Lentilactobacillus raoultii	Species	Cultured (women vagina)
+SGB534	GCF_900454505.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Pantoea	Pantoea agglomerans	Species	Cultured (women vagina)
+SGB535	GCF_900460145.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus dysgalactiae	Species	Cultured (women vagina)
+SGB536	GCF_900604505.1	1	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium modestum	Species	Cultured (women vagina)
+SGB537	GCF_900604515.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Arcanobacterium_A	Arcanobacterium_A ihumii	Species	Cultured (women vagina)
+SGB538	GCF_900604935.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia	Abiotrophia massiliensis	Species	Cultured (women vagina)
+SGB539	GCF_900709235.2	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	Species	Cultured (women vagina)
+SGB540	GCF_901542585.1	1	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus pseudintermedius	Species	Cultured (women vagina)
+SGB541	GCF_928097925.1	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Mediannikoviicoccus	Mediannikoviicoccus vaginalis	Species	Cultured (women vagina)
+SGB542	GCF_928368155.1	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus ihuae	Species	Cultured (women vagina)
+SGB543	GV11.sbin.23	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas gingivalis	Species	Cultured (others)
+SGB544	MG1008.mbin.3	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii	Species	Cultured (others)
+SGB545	MG1038.mbin.3	1	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus stomatis	Species	Cultured (others)
+SGB546	MG1045.sbin.14	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB547	MG1080.mbin.14	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Oscillospiraceae	CAG-103	CAG-103 sp000432375	Family	Uncultured
+SGB548	MG1080.sbin.43	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Acutalibacteraceae	CAG-217	CAG-217 sp000436335	Family	Cultured (others)
+SGB549	MG1080.sbin.58	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola sp000432735	Genus	Uncultured
+SGB550	MG1080.sbin.67	1	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila	Species	Cultured (others)
+SGB551	MG1080.sbin.78	1	Bacteria	Bacillota	Bacilli	RF39	UBA660	CAG-302	CAG-302 sp934162325	Class	Uncultured
+SGB552	MG1080.sbin.84	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Oscillospiraceae	Vescimonas	Vescimonas sp900545585	Genus	Cultured (others)
+SGB553	MG1080.sbin.85	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Catonella	Catonella_unknown	Genus	Uncultured
+SGB554	MG1097.mbin.10	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	Agathobacter rectalis	Species	Cultured (others)
+SGB555	MG1097.mbin.12	1	Bacteria	Bacillota	Bacilli	Staphylococcales	Gemellaceae	Gemella	Gemella_unknown	Genus	Uncultured
+SGB556	MG1097.sbin.11	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Wujia	Wujia chipingensis	Species	Cultured (others)
+SGB557	MG1100.mbin.14	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp900539985	Genus	Cultured (others)
+SGB558	MG1129.mbin.24	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A lacrimalis	Species	Cultured (others)
+SGB559	MG114.mbin.19	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB560	MG1157.mbin.15	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus degeneri	Species	Cultured (others)
+SGB561	MG1157.mbin.5	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella disiens	Species	Cultured (others)
+SGB562	MG1164.mbin.13	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus curtisii	Species	Cultured (women vagina)
+SGB563	MG1171.sbin.32	1	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_unknown	Genus	Uncultured
+SGB564	MG1239.mbin.25	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella_unknown	Genus	Uncultured
+SGB565	MG1248.mbin.21	1	Bacteria	Bacillota_A	Clostridia	TANB77	CAG-508	JABCPO02	JABCPO02_unknown	Class	Uncultured
+SGB566	MG1286.sbin.5	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Scardovia	Scardovia wiggsiae	Species	Cultured (others)
+SGB567	MG129.mbin.8	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Cryptobacteroides	Cryptobacteroides_unknown	Order	Uncultured
+SGB568	MG1300.mbin.17	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Berryella	Berryella_unknown	Genus	Uncultured
+SGB569	MG1330.sbin.13	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_unknown	Genus	Uncultured
+SGB570	MG1330.sbin.4	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	Coprococcus eutactus	Species	Cultured (others)
+SGB571	MG1338.mbin.40	1	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Paraclostridium	Paraclostridium dentum	Species	Cultured (others)
+SGB572	MG1338.sbin.24	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp018373675	Genus	Cultured (others)
+SGB573	MG1338.sbin.41	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Clostridium_AP	Clostridium_AP scindens	Species	Cultured (others)
+SGB574	MG136.mbin.3	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB575	MG139.sbin.2	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp000187745	Genus	Cultured (others)
+SGB576	MG147.mbin.27	1	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	KA00274	KA00274 sp001552885	Family	Cultured (women vagina)
+SGB577	MG150.mbin.5	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus tetradius	Species	Cultured (women vagina)
+SGB578	MG159.mbin.2	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis_A	Species	Cultured (women vagina)
+SGB579	MG160.mbin.26	1	Bacteria	Bacillota_A	Clostridia	TANB77	CAG-508	JABCPO02	JABCPO02_unknown	Class	Uncultured
+SGB580	MG162.mbin.2	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Catonella	Catonella_unknown	Genus	Uncultured
+SGB581	MG163.mbin.4	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB582	MG164.sbin.10	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_unknown	Genus	Uncultured
+SGB583	MG187.mbin.7	1	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus_unknown	Genus	Uncultured
+SGB584	MG222.sbin.36	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	CAKAHY01	CAKAHY01_unknown	Family	Uncultured
+SGB585	MG233.mbin.33	1	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus_unknown	Genus	Uncultured
+SGB586	MG233.mbin.7	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB587	MG233.mbin.8	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_unknown	Genus	Uncultured
+SGB588	MG233.sbin.13	1	Bacteria	Bacillota_A	Clostridia	TANB77	CAG-508	CAG-508_unknown	CAG-508_unknown	Class	Uncultured
+SGB589	MG233.sbin.5	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Cryptobacteroides	Cryptobacteroides_unknown	Order	Uncultured
+SGB590	MG253.sbin.9	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	Species	Cultured (others)
+SGB591	MG258.mbin.19	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A vaginalis	Species	Cultured (women vagina)
+SGB592	MG270.mbin.13	1	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	JAIKWW01	JAIKWW01_unknown	Family	Uncultured
+SGB593	MG278.sbin.14	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A harei_A	Species	Cultured (others)
+SGB594	MG28.mbin.25	1	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus_unknown	Genus	Uncultured
+SGB595	MG286.mbin.7	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium piotii	Species	Cultured (women vagina)
+SGB596	MG289.mbin.5	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB597	MG313.mbin.25	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB598	MG331.mbin.8	1	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister sp001553355	Genus	Cultured (women vagina)
+SGB599	MG353.mbin.14	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis_A	Species	Cultured (women vagina)
+SGB600	MG367.mbin.12	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_unknown	Genus	Uncultured
+SGB601	MG401.sbin.5	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_unknown	Genus	Uncultured
+SGB602	MG410.mbin.10	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis_A	Species	Cultured (women vagina)
+SGB603	MG410.sbin.16	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas_A	Porphyromonas_A_unknown	Genus	Uncultured
+SGB604	MG439.mbin.11	1	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister sp001553355	Genus	Cultured (women vagina)
+SGB605	MG461.mbin.5	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB606	MG507.sbin.16	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella oris	Species	Cultured (others)
+SGB607	MG535.sbin.19	1	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema_D	Treponema_D_unknown	Genus	Uncultured
+SGB608	MG541.sbin.9	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas uenonis_A	Species	Cultured (women vagina)
+SGB609	MG614.sbin.23	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_unknown	Genus	Uncultured
+SGB610	MG624.sbin.5	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus paragasseri	Species	Cultured (others)
+SGB611	MG626.mbin.5	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis_A	Species	Cultured (women vagina)
+SGB612	MG655.sbin.10	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus curtisii	Species	Cultured (women vagina)
+SGB613	MG708.mbin.15	1	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister sp001553355	Genus	Cultured (women vagina)
+SGB614	MG826.mbin.17	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB615	MG846.mbin.41	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp943913645	Genus	Uncultured
+SGB616	MG846.sbin.6	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Brevibacteriaceae	Brevibacterium	Brevibacterium mcbrellneri	Species	Cultured (others)
+SGB617	MG848.sbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus symci	Species	Cultured (others)
+SGB618	MG849.mbin.9	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Species	Cultured (others)
+SGB619	MG87.mbin.1	1	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbus	Nanoperiomorbus_unknown	Genus	Uncultured
+SGB620	MG9.mbin.2	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis_A	Species	Cultured (women vagina)
+SGB621	MG945.sbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus oralis_S	Species	Cultured (others)
+SGB622	MG95.mbin.19	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_unknown	Genus	Uncultured
+SGB623	MG959.mbin.3	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus mulieris	Species	Cultured (others)
+SGB624	MG981.mbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus coleohominis_A	Species	Cultured (women vagina)
+SGB625	MG984.mbin.26	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp013333935	Genus	Uncultured
+SGB626	P10710167.mbin.10	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae_A	Parasutterella	Parasutterella excrementihominis	Species	Cultured (others)
+SGB627	P10710167.mbin.14	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	Anaerostipes hadrus	Species	Cultured (others)
+SGB628	P10710167.mbin.15	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Butyribacter	Butyribacter sp003524945	Genus	Cultured (others)
+SGB629	P10710167.mbin.16	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Clostridium_Q	Clostridium_Q fessum	Species	Cultured (others)
+SGB630	P10710167.mbin.23	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	Agathobaculum butyriciproducens	Species	Cultured (others)
+SGB631	P10710167.mbin.24	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	Lachnospira sp003537285	Genus	Cultured (others)
+SGB632	P10710167.mbin.26	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides distasonis	Species	Cultured (others)
+SGB633	P10710167.mbin.28	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Oscillospiraceae	ER4	ER4 sp000765235	Family	Cultured (others)
+SGB634	P10710167.mbin.29	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Anaerotignaceae	Anaerotignum	Anaerotignum faecicola	Species	Cultured (others)
+SGB635	P10710167.mbin.3	1	Bacteria	Bacillota_A	Clostridia	UBA1381	UBA1381	CAG-41	CAG-41 sp900066215	Class	Cultured (others)
+SGB636	P10710167.mbin.31	1	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila wadsworthia	Species	Cultured (others)
+SGB637	P10710167.mbin.35	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	Gemmiger qucibialis	Species	Uncultured
+SGB638	P10710167.mbin.37	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA3402	UBA3402 sp003478355	Family	Cultured (others)
+SGB639	P10710167.mbin.4	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	Blautia_A wexlerae	Species	Cultured (others)
+SGB640	P10710167.mbin.40	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Acetatifactor	Acetatifactor sp900066565	Genus	Cultured (others)
+SGB641	P10710167.mbin.42	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter lactaris	Species	Cultured (others)
+SGB642	P10710167.mbin.55	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	Blautia_A sp900066335	Genus	Cultured (others)
+SGB643	P10710167.mbin.58	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Acutalibacteraceae	Ruminococcus_E	Ruminococcus_E bromii_B	Species	Cultured (others)
+SGB644	P10710167.mbin.6	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caccae	Species	Cultured (others)
+SGB645	P10710167.mbin.70	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	Lachnospira sp900551945	Genus	Uncultured
+SGB646	P10710167.mbin.8	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	Faecalibacterium sp900539945	Genus	Uncultured
+SGB647	P10710167.sbin.12	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus_D	Ruminococcus_D bicirculans	Species	Cultured (others)
+SGB648	P10710167.sbin.13	1	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Coprobacillaceae	Faecalibacillus	Faecalibacillus faecis	Species	Cultured (others)
+SGB649	P10710167.sbin.26	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	Odoribacter splanchnicus	Species	Cultured (others)
+SGB650	P10710167.sbin.3	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-303	CAG-303 sp000437755	Family	Uncultured
+SGB651	P10710167.sbin.31	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	Lachnospira sp000437735	Genus	Cultured (others)
+SGB652	P10710167.sbin.40	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster sp000431375	Genus	Cultured (others)
+SGB653	P10710167.sbin.45	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Copromonas	Copromonas sp900066535	Genus	Cultured (others)
+SGB654	P10710167.sbin.50	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Choladocola	Choladocola sp003480725	Genus	Cultured (others)
+SGB655	P10710167.sbin.51	1	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-74	UBA11524	UBA11524 sp000437595	Order	Uncultured
+SGB656	P10710167.sbin.55	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	Roseburia hominis	Species	Cultured (others)
+SGB657	P10710167.sbin.81	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	COE1	COE1 sp001916965	Family	Uncultured
+SGB658	P10710167.sbin.83	1	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Oscillospiraceae	Faecousia	Faecousia sp003525905	Genus	Uncultured
+SGB659	PV39.sbin.1	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis	Species	Cultured (others)
+SGB660	SAMN00032548.mbin.4	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A lacrimalis	Species	Cultured (others)
+SGB661	SAMN00034152.mbin.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium scardovii	Species	Cultured (others)
+SGB662	SAMN00082828.mbin.2	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Pauljensenia	Pauljensenia sp902373545	Genus	Uncultured
+SGB663	SAMN00082828.sbin.2	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	Neisseria perflava_A	Species	Cultured (women vagina)
+SGB664	SAMN00082828.sbin.6	1	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella rogosae	Species	Cultured (others)
+SGB665	SAMN00086144.sbin.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium breve	Species	Cultured (others)
+SGB666	SAMN00088364.mbin.12	1	Bacteria	Bacillota_C	Negativicutes	Selenomonadales	Selenomonadaceae	Centipeda	Centipeda sp015265235	Genus	Uncultured
+SGB667	SAMN00088364.mbin.32	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Pauljensenia	Pauljensenia sp000278725	Genus	Cultured (others)
+SGB668	SAMN00088364.mbin.79	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces graevenitzii	Species	Cultured (others)
+SGB669	SAMN00088364.mbin.8	1	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia_A	Leptotrichia_A sp000469505	Genus	Cultured (others)
+SGB670	SAMN00088364.mbin.80	1	Bacteria	Bacillota	Bacilli	RF39	UBA660	RUG343	RUG343_unknown	Class	Uncultured
+SGB671	SAMN00088364.mbin.81	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp000599605	Genus	Cultured (others)
+SGB672	SAMN00088364.mbin.84	1	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	Eubacterium_B	Eubacterium_B sulci	Species	Cultured (others)
+SGB673	SAMN00088364.mbin.93	1	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanogingivalaceae	Nanogingivalis	Nanogingivalis sp015257795	Genus	Uncultured
+SGB674	SAMN00088364.sbin.11	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella nanceiensis	Species	Cultured (others)
+SGB675	SAMN00088364.sbin.18	1	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanosyncoccaceae	Nanosyncoccus	Nanosyncoccus_unknown	Genus	Uncultured
+SGB676	SAMN00088364.sbin.20	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Granulicatella	Granulicatella sp001058355	Genus	Cultured (others)
+SGB677	SAMN00088364.sbin.43	1	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	Mogibacterium	Mogibacterium diversum	Species	Cultured (others)
+SGB678	SAMN00088364.sbin.51	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella vespertina	Species	Cultured (others)
+SGB679	SAMN00088364.sbin.66	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	Neisseria flavescens_B	Species	Cultured (others)
+SGB680	SAMN00088364.sbin.70	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Rothia	Rothia mucilaginosa	Species	Cultured (others)
+SGB681	SAMN00088364.sbin.95	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	F0428	F0428 sp003043955	Family	Cultured (others)
+SGB682	SAMN00095161.mbin.12	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium durum	Species	Cultured (others)
+SGB683	SAMN00095161.mbin.28	1	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga gingivalis	Species	Cultured (others)
+SGB684	SAMN00095161.mbin.35	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Peptidiphaga	Peptidiphaga sp000466165	Genus	Cultured (others)
+SGB685	SAMN00095161.mbin.6	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium matruchotii	Species	Cultured (others)
+SGB686	SAMN00095161.sbin.10	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	Neisseria elongata	Species	Cultured (others)
+SGB687	SAMN00095161.sbin.11	1	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	UBA10027	SDRW01	SDRW01 sp007845485	Order	Uncultured
+SGB688	SAMN00095161.sbin.14	1	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga sp905372595	Genus	Uncultured
+SGB689	SAMN00095161.sbin.15	1	Bacteria	Bacillota_C	Negativicutes	Selenomonadales	Selenomonadaceae	Centipeda	Centipeda noxia	Species	Cultured (others)
+SGB690	SAMN00095161.sbin.21	1	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_B	Campylobacter_B_unknown	Genus	Uncultured
+SGB691	SAMN00095161.sbin.26	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces massiliensis	Species	Cultured (others)
+SGB692	SAMN00095161.sbin.29	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoanaerobaculum	Lachnoanaerobaculum saburreum	Species	Cultured (others)
+SGB693	SAMN00095161.sbin.32	1	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga_unknown	Genus	Uncultured
+SGB694	SAMN00095161.sbin.39	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Kingella_B	Kingella_B oralis	Species	Cultured (others)
+SGB695	SAMN00095161.sbin.40	1	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_A	Campylobacter_A concisus_B	Species	Cultured (others)
+SGB696	SAMN00095161.sbin.42	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Pasteurellaceae	Haemophilus_D	Haemophilus_D parainfluenzae_N	Species	Cultured (others)
+SGB697	SAMN00095161.sbin.43	1	Bacteria	Patescibacteria	JAEDAM01	BD1-5	UBA6164	GN02-872	GN02-872 sp003260325	Phylum	Cultured (others)
+SGB698	SAMN00095161.sbin.44	1	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga leadbetteri	Species	Cultured (others)
+SGB699	SAMN00095161.sbin.46	1	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	Leptotrichia hofstadii	Species	Cultured (others)
+SGB700	SAMN00095161.sbin.51	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Pasteurellaceae	Aggregatibacter	Aggregatibacter sp000466335	Genus	Cultured (others)
+SGB701	SRR12018788.sbin.1	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	Species	Uncultured
+SGB702	SRR12018788.sbin.3	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulosimicrobium	Cellulosimicrobium funkei	Species	Cultured (others)
+SGB703	SRR12018946.sbin.3	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium infantis	Species	Cultured (others)
+SGB704	SRR13167596.mbin.3	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp019448285	Genus	Cultured (others)
+SGB705	SRR13694813.sbin.2	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus_unknown	Genus	Uncultured
+SGB706	SRR13694814.mbin.4	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp001875725	Genus	Cultured (others)
+SGB707	SRR13694829.sbin.5	1	Bacteria	Bacillota_C	Negativicutes	Veillonellales	Megasphaeraceae	Anaeroglobus	Anaeroglobus geminatus	Species	Cultured (others)
+SGB708	SRR13900346.sbin.5	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella salivae	Species	Cultured (others)
+SGB709	SRR14117793.mbin.2	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis	Species	Cultured (others)
+SGB710	SRR16470951.sbin.14	1	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_A	Campylobacter_A_unknown	Genus	Uncultured
+SGB711	SRR16470951.sbin.3	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis_A	Species	Cultured (others)
+SGB712	SRR16470953.mbin.11	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilaceae_unknown	Peptoniphilaceae_unknown	Family	Uncultured
+SGB713	SRR16470953.mbin.7	1	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-917	RGIG8124	RGIG8124_unknown	Order	Uncultured
+SGB714	SRR16470953.mbin.8	1	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema_B	Treponema_B_unknown	Genus	Uncultured
+SGB715	SRR16470953.sbin.11	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella stercorea	Species	Cultured (others)
+SGB716	SRR16470953.sbin.8	1	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Treponema_C	Treponema_C_unknown	Genus	Uncultured
+SGB717	SRR16471055.mbin.26	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas_A	Porphyromonas_A sp900541275	Genus	Cultured (others)
+SGB718	SRR16471055.mbin.6	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus obesiensis	Species	Cultured (others)
+SGB719	SRR16471055.sbin.23	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Finegoldia	Finegoldia_unknown	Genus	Uncultured
+SGB720	SRR16471055.sbin.25	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp020089495	Genus	Cultured (others)
+SGB721	SRR16916845.sbin.9	1	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_B	Campylobacter_B_unknown	Genus	Uncultured
+SGB722	SRR16916847.mbin.12	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_B	Peptoniphilus_B duerdenii	Species	Cultured (women vagina)
+SGB723	SRR16916847.mbin.8	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella colorans	Species	Cultured (others)
+SGB724	SRR16916847.mbin.9	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium_unknown	Genus	Uncultured
+SGB725	SRR16916847.sbin.16	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Brevibacteriaceae	Brevibacterium	Brevibacterium ravenspurgense	Species	Cultured (others)
+SGB726	SRR16916849.sbin.31	1	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Bilifractor	Bilifractor_unknown	Genus	Uncultured
+SGB727	SRR16916855.mbin.1	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus senegalensis	Species	Cultured (others)
+SGB728	SRR16916877.mbin.3	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_unknown	Genus	Uncultured
+SGB729	SRR16916877.mbin.36	1	Bacteria	Bacillota_A	Clostridia	TANB77	CAG-508	CAG-508_unknown	CAG-508_unknown	Class	Uncultured
+SGB730	SRR16916877.mbin.5	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilus_A	Peptoniphilus_A_unknown	Genus	Uncultured
+SGB731	SRR16916877.sbin.7	1	Bacteria	Bacillota	Bacilli	Staphylococcales	Salinicoccaceae	Nosocomiicoccus	Nosocomiicoccus ampullae_A	Species	Cultured (others)
+SGB732	SRR17635465.mbin.33	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olegusella	Olegusella massiliensis	Species	Cultured (others)
+SGB733	SRR17635465.mbin.59	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Varibaculum	Varibaculum_unknown	Genus	Uncultured
+SGB734	SRR17635465.mbin.60	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Brevibacteriaceae	Brevibacterium	Brevibacterium luteolum	Species	Cultured (others)
+SGB735	SRR17635465.mbin.61	1	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	DTU023	UBA5436	UBA5436_unknown	Order	Uncultured
+SGB736	SRR17635465.sbin.22	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Peptoniphilaceae_unknown	Peptoniphilaceae_unknown	Family	Uncultured
+SGB737	SRR17635492.sbin.35	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Pauljensenia	Pauljensenia radingae_A	Species	Cultured (others)
+SGB738	SRR17635495.mbin.3	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp019448285	Genus	Cultured (others)
+SGB739	SRR17635496.sbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_unknown	Genus	Uncultured
+SGB740	SRR17635499.mbin.2	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium kefirresidentii	Species	Cultured (others)
+SGB741	SRR17635499.mbin.9	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis	Species	Cultured (women vagina)
+SGB742	SRR17635502.mbin.22	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis	Species	Cultured (women vagina)
+SGB743	SRR17635508.mbin.1	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_unknown	Genus	Uncultured
+SGB744	SRR17635580.mbin.10	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp001836165	Genus	Cultured (others)
+SGB745	SRR17635623.mbin.2	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium sp001767255	Genus	Cultured (others)
+SGB746	SRR17635626.mbin.1	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella timonensis	Species	Cultured (women vagina)
+SGB747	SRR17635630.mbin.2	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB748	SRR17635647.mbin.23	1	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	Fastidiosipila	Fastidiosipila_unknown	Genus	Uncultured
+SGB749	SRR17635647.mbin.3	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Arcanobacterium_A	Arcanobacterium_A_unknown	Genus	Uncultured
+SGB750	SRR17635647.sbin.4	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	Aerococcus urinae_D	Species	Cultured (others)
+SGB751	SRR17635647.sbin.6	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olegusella	Olegusella_unknown	Genus	Uncultured
+SGB752	SRR17635648.mbin.2	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Brevibacteriaceae	Brevibacterium	Brevibacterium sp943914815	Genus	Uncultured
+SGB753	SRR17635648.mbin.8	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium freneyi	Species	Cultured (others)
+SGB754	SRR17635648.sbin.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermabacteraceae	Brachybacterium	Brachybacterium sp002871795	Genus	Cultured (others)
+SGB755	SRR17635649.mbin.32	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium coyleae	Species	Cultured (others)
+SGB756	SRR17635650.mbin.5	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea_unknown	Genus	Uncultured
+SGB757	SRR17635664.sbin.26	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella copri_A	Species	Cultured (others)
+SGB758	SRR17635664.sbin.5	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp900313215	Genus	Cultured (others)
+SGB759	SRR17635685.mbin.1	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	Atopobium deltae	Species	Cultured (women vagina)
+SGB760	SRR17635686.mbin.3	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas uenonis_A	Species	Cultured (women vagina)
+SGB761	SRR17635696.sbin.6	1	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae_A	Sutterella	Sutterella_unknown	Genus	Uncultured
+SGB762	SRR17635703.mbin.57	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Fenollaria	Fenollaria sp900539725	Genus	Uncultured
+SGB763	SRR17635703.sbin.39	1	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_B	Campylobacter_B hominis	Species	Cultured (others)
+SGB764	SRR17635707.mbin.56	1	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	Baileyella	Baileyella_unknown	Genus	Uncultured
+SGB765	SRR17635707.mbin.72	1	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	Alterileibacterium	Alterileibacterium_unknown	Genus	Uncultured
+SGB766	SRR17635707.sbin.46	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus sp910589175	Genus	Uncultured
+SGB767	SRR17635711.mbin.6	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella corporis	Species	Cultured (women vagina)
+SGB768	SRR17635715.mbin.27	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae	Species	Cultured (women vagina)
+SGB769	SRR17635715.mbin.43	1	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	JAAYOA01	JAAYOA01_unknown	Family	Uncultured
+SGB770	SRR17635715.mbin.58	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Gleimia	Gleimia europaea_B	Species	Cultured (others)
+SGB771	SRR17635715.mbin.88	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum urinale	Species	Cultured (others)
+SGB772	SRR17635715.sbin.27	1	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Propionibacteriaceae	Arachnia	Arachnia_unknown	Genus	Uncultured
+SGB773	SRR17635715.sbin.30	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium lacticum	Species	Cultured (others)
+SGB774	SRR17635715.sbin.40	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium_unknown	Genus	Uncultured
+SGB775	SRR17635715.sbin.60	1	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae	Urinicoccus	Urinicoccus massiliensis	Species	Cultured (others)
+SGB776	SRR17635715.sbin.61	1	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Nanoperiomorbaceae	Nanoperiomorbaceae_unknown	Nanoperiomorbaceae_unknown	Family	Uncultured
+SGB777	SRR17635718.sbin.4	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Gulosibacter	Gulosibacter sp943914115	Genus	Uncultured
+SGB778	SRR17635732.sbin.9	1	Bacteria	Bacillota_A	Clostridia	Saccharofermentanales	Fastidiosipilaceae	Fastidiosipila	Fastidiosipila sanguinis	Species	Cultured (others)
+SGB779	SRR17635734.sbin.10	1	Bacteria	Bacillota_A	Clostridia	TANB77	CAG-508	JABCPO02	JABCPO02_unknown	Class	Uncultured
+SGB780	SRR17635764.sbin.9	1	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea massiliensis	Species	Cultured (women vagina)
+SGB781	SRR17635768.mbin.5	1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_unknown	Genus	Uncultured
+SGB782	SRR17635799.mbin.3	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale_D	Species	Cultured (others)
+SGB783	SRR18765395.mbin.1	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium vaginale	Species	Cultured (women vagina)
+SGB784	SRR19237621.sbin.5	1	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus urinaemulieris	Species	Cultured (others)
+SGB785	SRR6748192.sbin.12	1	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus_unknown	Genus	Uncultured
+SGB786	SRR6748212.sbin.4	1	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium aurimucosum_C	Species	Cultured (others)

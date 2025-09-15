@@ -1,0 +1,45 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad summary (v1.7.0). This will summarize the results across  │
+│  modules into a classification report.                                       │
+│  ──────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                    │
+│    genomad_outputs/GCA_009933525.1/GCA_009933525.1_ASM993352v1_genomic_summ  │
+│    ary                                                                       │
+│    ├── GCA_009933525.1_ASM993352v1_genomic_summary.json (execution           │
+│    │   parameters)                                                           │
+│    ├── GCA_009933525.1_ASM993352v1_genomic_virus_summary.tsv (virus          │
+│    │   classification summary)                                               │
+│    ├── GCA_009933525.1_ASM993352v1_genomic_plasmid_summary.tsv (plasmid      │
+│    │   classification summary)                                               │
+│    ├── GCA_009933525.1_ASM993352v1_genomic_virus.fna (virus nucleotide       │
+│    │   FASTA file)                                                           │
+│    ├── GCA_009933525.1_ASM993352v1_genomic_plasmid.fna (plasmid nucleotide   │
+│    │   FASTA file)                                                           │
+│    ├── GCA_009933525.1_ASM993352v1_genomic_virus_proteins.faa (virus         │
+│    │   protein FASTA file)                                                   │
+│    ├── GCA_009933525.1_ASM993352v1_genomic_plasmid_proteins.faa (plasmid     │
+│    │   protein FASTA file)                                                   │
+│    ├── GCA_009933525.1_ASM993352v1_genomic_virus_genes.tsv (virus gene       │
+│    │   annotation data)                                                      │
+│    └── GCA_009933525.1_ASM993352v1_genomic_plasmid_genes.tsv (plasmid gene   │
+│        annotation data)                                                      │
+╰──────────────────────────────────────────────────────────────────────────────╯
+[13:08:57] Executing genomad summary.                                           
+[13:08:57] Creating the                                                         
+           genomad_outputs/GCA_009933525.1/GCA_009933525.1_ASM993352v1_genomic_s
+           ummary directory.                                                    
+[13:08:57] Using calibrated scores from aggregated-classification.              
+[13:08:58] 0 plasmid(s) and 0 virus(es) were identified.                        
+[13:08:58] Nucleotide sequences were written to                                 
+           GCA_009933525.1_ASM993352v1_genomic_plasmid.fna and                  
+           GCA_009933525.1_ASM993352v1_genomic_virus.fna.                       
+[13:08:58] Protein sequences were written to                                    
+           GCA_009933525.1_ASM993352v1_genomic_plasmid_proteins.faa and         
+           GCA_009933525.1_ASM993352v1_genomic_virus_proteins.faa.              
+[13:08:58] Gene annotation data was written to                                  
+           GCA_009933525.1_ASM993352v1_genomic_plasmid_genes.tsv and            
+           GCA_009933525.1_ASM993352v1_genomic_virus_genes.tsv.                 
+[13:08:58] Summary files were written to                                        
+           GCA_009933525.1_ASM993352v1_genomic_plasmid_summary.tsv and          
+           GCA_009933525.1_ASM993352v1_genomic_virus_summary.tsv.               
+[13:08:58] geNomad summary finished!                                            

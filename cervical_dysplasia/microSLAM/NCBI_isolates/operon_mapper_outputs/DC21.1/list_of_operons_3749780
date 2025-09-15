@@ -1,0 +1,3142 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+1
+	dnaA	CDS	COG0593	1	1368	+	[L] ATPase involved in DNA replication initiation
+	dnaN	CDS	COG0592	1543	2673	+	[L] DNA polymerase sliding clamp subunit (PCNA
+2
+	yaaA	CDS	COG2501	2890	3111	+	[S] Uncharacterized conserved protein   
+	recF	CDS	COG1195	3120	4247	+	[L] Recombinational DNA repair ATPase (RecF pathway)
+	gyrB	CDS	COG0187	4248	6212	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	gyrA	CDS	COG0188	6222	8702	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+3
+	cds-QGY93981.1	CDS	COG0360	8919	9215	+	[J] Ribosomal protein S6   
+	ssb	CDS	COG0629	9265	9783	+	[L] Single-stranded DNA-binding protein   
+	rpsR	CDS	COG0238	9811	10047	+	[J] Ribosomal protein S18   
+	cds-QGY93984.1	CDS	COG3887	10212	12233	+	[T] Predicted signaling protein consisting of a
+	cds-QGY93985.1	CDS	COG0359	12245	12700	+	[J] Ribosomal protein L9   
+	dnaB	CDS	COG0305	12720	14111	+	[L] Replicative DNA helicase   
+4
+	cds-QGY93987.1	CDS	COG3221	14279	15214	+	[P] ABC-type phosphate/phosphonate transport system, periplasmic component
+5
+	cds-QGY93988.1	CDS	COG1307	15324	16253	+	[S] Uncharacterized protein conserved in bacteria 
+6
+	cds-QGY93989.1	CDS	COG1940	16373	17251	+	[KG] Transcriptional regulator/sugar kinase   
+7
+	cds-QGY93990.1	CDS	COG3237	17399	17590	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY93991.1	CDS	COG2261	17641	17898	+	[S] Predicted membrane protein   
+8
+	cds-QGY93992.1	CDS	ROG1487	17958	19187	-	NA
+9
+	cds-QGY93993.1	CDS	COG1285	19285	19986	-	[S] Uncharacterized membrane protein   
+10
+	rna-E6A57_00100	tRNA	NA	20160	20232	+	NA
+11
+	cds-E6A57_00105	CDS	COG0531	20349	20645	+	[E] Amino acid transporters   
+12
+	cds-QGY93994.1	CDS	NA	20791	21858	+	NA
+13
+	cds-QGY93995.1	CDS	COG4905	21957	22730	+	[S] Predicted membrane protein   
+14
+	cds-QGY95738.1	CDS	COG2096	22798	22965	-	[S] Uncharacterized conserved protein   
+15
+	cds-QGY95739.1	CDS	COG2370	22955	23164	+	[O] Hydrogenase/urease accessory protein   
+16
+	cds-QGY93996.1	CDS	NA	23259	23519	+	NA
+17
+	cds-QGY93997.1	CDS	NA	23848	27633	+	NA
+18
+	cds-E6A57_00140	CDS	COG3464	27696	28872	-	[L] Transposase and inactivated derivatives  
+19
+	cds-QGY93998.1	CDS	COG0747	29052	30812	-	[E] ABC-type dipeptide transport system, periplasmic component
+20
+	cds-QGY93999.1	CDS	COG0628	31009	32043	+	[R] Predicted permease    
+	cds-QGY94000.1	CDS	COG2755	32043	32615	+	[E] Lysophospholipase L1 and related esterases 
+21
+	cds-QGY94001.1	CDS	NA	32649	32831	-	NA
+22
+	cds-QGY94002.1	CDS	NA	33015	34349	+	NA
+23
+	cds-QGY94003.1	CDS	ROG7818	34387	34863	-	NA
+	cds-QGY94004.1	CDS	NA	34847	35200	-	NA
+24
+	cds-QGY94005.1	CDS	NA	35533	35850	+	NA
+	cds-QGY94006.1	CDS	NA	35881	36822	+	NA
+25
+	cds-QGY94007.1	CDS	NA	36920	37813	+	NA
+26
+	cds-QGY94008.1	CDS	NA	37926	38282	-	NA
+27
+	cds-QGY94009.1	CDS	COG1101	38618	39379	-	[R] ABC-type uncharacterized transport system, ATPase component
+	cds-QGY94010.1	CDS	COG4120	39376	40272	-	[R] ABC-type uncharacterized transport system, permease component
+	cds-QGY94011.1	CDS	COG2984	40269	41261	-	[R] ABC-type uncharacterized transport system, periplasmic component
+28
+	cds-QGY94012.1	CDS	COG1011	41598	42305	+	[R] Predicted hydrolase (HAD superfamily)  
+29
+	cds-QGY94013.1	CDS	ROG5930	42302	43171	-	NA
+30
+	cds-QGY94014.1	CDS	COG0656	43287	44144	+	[R] Aldo/keto reductases, related to diketogulonate reductase
+31
+	cds-QGY94015.1	CDS	COG0480	44227	46152	+	[J] Translation elongation factors (GTPases)  
+32
+	cds-QGY94016.1	CDS	COG0561	46322	47140	+	[R] Predicted hydrolases of the HAD superfamily
+33
+	cds-QGY94017.1	CDS	COG1052	47209	48222	-	[CHR] Lactate dehydrogenase and related dehydrogenases 
+34
+	cds-QGY94018.1	CDS	ROG2432	48569	48820	+	NA
+	cds-QGY94019.1	CDS	NA	48780	49391	+	NA
+35
+	xth	CDS	COG0708	49946	50773	+	[L] Exonuclease III    
+	cds-QGY94021.1	CDS	COG0531	50847	52289	+	[E] Amino acid transporters   
+36
+	cds-QGY94022.1	CDS	COG1061	52355	55183	+	[KL] DNA or RNA helicases of superfamily
+37
+	cds-QGY94023.1	CDS	COG1680	55219	56382	-	[V] Beta-lactamase class C and other penicillin
+38
+	cds-QGY94024.1	CDS	COG3410	56476	57693	-	[S] Uncharacterized conserved protein   
+39
+	cds-QGY94025.1	CDS	COG0242	57755	58168	+	[J] N-formylmethionyl-tRNA deformylase    
+40
+	rna-E6A57_00285	rRNA	NA	58781	60353	+	NA
+	rna-E6A57_00290	tRNA	NA	60477	60551	+	NA
+	rna-E6A57_00295	tRNA	NA	60608	60680	+	NA
+	rna-E6A57_00300	rRNA	NA	60798	63709	+	NA
+	rrf	rRNA	NA	63779	63895	+	NA
+	rna-E6A57_00310	tRNA	NA	63909	63984	+	NA
+41
+	cds-QGY94026.1	CDS	COG0454	64504	64938	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+42
+	cds-QGY94027.1	CDS	COG4892	65157	65378	-	[R] Predicted heme/steroid binding protein  
+43
+	cds-QGY94028.1	CDS	COG0204	65471	66340	-	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+	cds-QGY94029.1	CDS	COG1442	66337	67284	-	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+	cds-QGY94030.1	CDS	COG1442	67298	68251	-	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+	cds-QGY94031.1	CDS	COG1442	68269	69105	-	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+	cds-QGY94032.1	CDS	NA	69122	69883	-	NA
+44
+	rna-E6A57_00350	tRNA	NA	70063	70135	-	NA
+45
+	cds-QGY94033.1	CDS	ROG8031	70268	70489	-	NA
+46
+	rna-E6A57_00360	tRNA	NA	70608	70680	-	NA
+47
+	cds-QGY94034.1	CDS	COG0745	70818	71534	+	[TK] Response regulators consisting of a CheY-like
+	walK	CDS	COG5002	71605	73458	+	[T] Signal transduction histidine kinase  
+	cds-QGY94036.1	CDS	COG4863	73439	74800	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94037.1	CDS	COG4853	74803	75627	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94038.1	CDS	COG1235	75640	76437	+	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+	cds-QGY94039.1	CDS	COG0265	76517	77779	+	[O] Trypsin-like serine proteases, typically periplasmic, contain
+48
+	rlmH	CDS	COG1576	78297	78776	+	[S] Uncharacterized conserved protein   
+49
+	cds-QGY94041.1	CDS	COG4990	79210	79821	+	[S] Uncharacterized protein conserved in bacteria 
+50
+	cds-QGY94042.1	CDS	COG0596	79845	80726	-	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	cds-QGY94043.1	CDS	ROG4079	80735	81388	-	NA
+	cds-QGY94044.1	CDS	COG1121	81393	82745	-	[P] ABC-type Mn/Zn transport systems, ATPase component
+51
+	cds-QGY94045.1	CDS	COG2207	82902	83843	+	[K] AraC-type DNA-binding domain-containing proteins  
+52
+	cds-QGY94046.1	CDS	ROG1282	84121	84945	+	NA
+53
+	cds-QGY94047.1	CDS	NA	85066	85341	+	NA
+	cds-QGY94048.1	CDS	NA	85367	86077	+	NA
+54
+	htpX	CDS	COG0501	86181	87077	-	[O] Zn-dependent protease with chaperone function 
+	cds-QGY94050.1	CDS	COG1704	87096	87656	-	[S] Uncharacterized conserved protein   
+55
+	cds-QGY94051.1	CDS	COG1055	87753	88859	-	[P] Na+/H+ antiporter NhaD and related arsenite
+56
+	cds-QGY94052.1	CDS	ROG5789	89059	89463	+	NA
+57
+	cds-E6A57_00460	CDS	COG0584	89555	91333	+	[C] Glycerophosphoryl diester phosphodiesterase   
+58
+	cds-QGY94053.1	CDS	NA	91405	91545	+	NA
+59
+	cds-QGY94054.1	CDS	NA	91726	92565	+	NA
+60
+	cds-QGY94055.1	CDS	COG1215	92700	94007	+	[M] Glycosyltransferases, probably involved in cell wall
+	cds-QGY94056.1	CDS	ROG5571	94016	95119	+	NA
+61
+	cds-QGY94057.1	CDS	COG1896	95208	95852	+	[R] Predicted hydrolases of HD superfamily 
+	cds-QGY94058.1	CDS	COG1403	95853	96770	+	[V] Restriction endonuclease    
+62
+	cds-QGY94059.1	CDS	COG3152	96840	97310	-	[S] Predicted membrane protein   
+63
+	cds-QGY94060.1	CDS	COG1126	97391	98146	-	[E] ABC-type polar amino acid transport system,
+	cds-QGY94061.1	CDS	COG0765	98146	99759	-	[E] ABC-type amino acid transport system, permease
+64
+	cds-QGY94062.1	CDS	COG2094	100092	100724	-	[L] 3-methyladenine DNA glycosylase   
+65
+	cds-QGY94063.1	CDS	COG3189	100757	101122	+	[S] Uncharacterized conserved protein   
+66
+	cds-QGY94064.1	CDS	COG0861	101119	101907	-	[P] Membrane protein TerC, possibly involved in
+	cds-QGY94065.1	CDS	COG0350	101894	102412	-	[L] Methylated DNA-protein cysteine methyltransferase  
+	cds-QGY94066.1	CDS	COG0846	102465	103163	-	[K] NAD-dependent protein deacetylases, SIR2 family 
+67
+	cds-QGY94067.1	CDS	NA	103253	103738	+	NA
+68
+	cls	CDS	COG1502	103739	105196	-	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+	cds-QGY94069.1	CDS	COG4814	105216	106142	-	[R] Uncharacterized protein with an alpha/beta hydrolase
+69
+	cds-QGY94070.1	CDS	COG0328	106238	107008	+	[L] Ribonuclease HI    
+70
+	cds-QGY94071.1	CDS	COG4086	107036	107989	-	[S] Predicted secreted protein   
+71
+	cds-QGY94072.1	CDS	COG0463	108150	108962	+	[M] Glycosyltransferases involved in cell wall biogenesis
+	cds-QGY94073.1	CDS	COG0596	108971	109627	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	cds-QGY94074.1	CDS	ROG2428	109629	110042	+	NA
+72
+	prs	CDS	COG0462	110138	111124	+	[FE] Phosphoribosylpyrophosphate synthetase    
+73
+	cds-QGY94076.1	CDS	COG1309	111289	111972	+	[K] Transcriptional regulator    
+	cds-QGY94077.1	CDS	ROG3212	111985	112809	+	NA
+74
+	cds-QGY94078.1	CDS	COG0765	112936	114420	+	[E] ABC-type amino acid transport system, permease
+	cds-QGY94079.1	CDS	COG1126	114413	115150	+	[E] ABC-type polar amino acid transport system,
+75
+	cds-QGY94080.1	CDS	COG2340	115186	116436	-	[S] Uncharacterized protein with SCP/PR1 domains 
+76
+	cds-QGY94081.1	CDS	COG1181	116589	117671	+	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+	cds-QGY94082.1	CDS	COG4768	117698	118447	+	[R] Uncharacterized protein containing a divergent version
+77
+	cds-QGY94083.1	CDS	COG5438	118538	119671	+	[S] Predicted multitransmembrane protein   
+	cds-QGY94084.1	CDS	COG5438	119668	120453	+	[S] Predicted multitransmembrane protein   
+	cds-QGY94085.1	CDS	NA	120425	121258	+	NA
+	cds-QGY94086.1	CDS	COG3029	121230	121499	+	[C] Fumarate reductase subunit C  
+78
+	cds-QGY94087.1	CDS	COG1501	121549	124557	-	[G] Alpha-glucosidases, family 31 of glycosyl hydrolases
+79
+	nagA	CDS	COG1820	124711	125865	+	[G] N-acetylglucosamine-6-phosphate deacetylase    
+80
+	cds-QGY94089.1	CDS	COG3077	127621	127917	+	[L] DNA-damage-inducible protein J   
+	cds-QGY94090.1	CDS	COG3041	127919	128272	+	[S] Uncharacterized protein conserved in bacteria 
+81
+	cds-QGY94091.1	CDS	COG1672	128494	129891	+	[R] Predicted ATPase (AAA+ superfamily)  
+82
+	cds-QGY95740.1	CDS	COG0675	130284	131381	-	[L] Transposase and inactivated derivatives  
+	cds-QGY94092.1	CDS	COG2452	131596	132219	-	[L] Predicted site-specific integrase-resolvase   
+83
+	cds-QGY94093.1	CDS	COG3293	132359	132526	+	[L] Transposase and inactivated derivatives  
+	cds-QGY95741.1	CDS	COG3293	132484	133026	+	[L] Transposase and inactivated derivatives  
+84
+	cds-QGY94094.1	CDS	COG4555	133305	134222	+	[CP] ABC-type Na+ transport system, ATPase component
+	cds-QGY94095.1	CDS	COG3559	134209	135825	+	[M] Putative exporter of polyketide antibiotics 
+	cds-QGY94096.1	CDS	COG1309	135822	136460	+	[K] Transcriptional regulator    
+85
+	cds-QGY94097.1	CDS	COG1961	136579	137163	+	[L] Site-specific recombinases, DNA invertase Pin homologs
+86
+	cds-QGY94098.1	CDS	COG3613	137345	137821	-	[F] Nucleoside 2-deoxyribosyltransferase    
+87
+	cds-QGY94099.1	CDS	COG1762	137936	138433	+	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+88
+	cds-QGY94100.1	CDS	COG2365	138451	139254	-	[T] Protein tyrosine/serine phosphatase   
+89
+	cds-QGY94101.1	CDS	COG0589	139404	139898	+	[T] Universal stress protein UspA and related
+90
+	cds-QGY94102.1	CDS	COG3221	140249	141178	+	[P] ABC-type phosphate/phosphonate transport system, periplasmic component
+	phnC	CDS	COG3638	141207	141980	+	[P] ABC-type phosphate/phosphonate transport system, ATPase component
+	phnE	CDS	COG3639	141980	142777	+	[P] ABC-type phosphate/phosphonate transport system, permease component
+	phnE_2	CDS	COG3639	142777	143589	+	[P] ABC-type phosphate/phosphonate transport system, permease component
+91
+	cds-QGY94106.1	CDS	COG2818	143644	144213	-	[L] 3-methyladenine DNA glycosylase   
+92
+	cds-QGY94107.1	CDS	ROG7936	144372	144857	+	NA
+	cds-QGY94108.1	CDS	ROG5511	144914	146311	+	NA
+93
+	asnB	CDS	COG0367	146439	148388	+	[E] Asparagine synthase (glutamine-hydrolyzing)   
+	cds-QGY94110.1	CDS	COG3919	148410	149693	+	[R] Predicted ATP-grasp enzyme   
+94
+	nrdD	CDS	COG1328	149868	152075	+	[F] Oxygen-sensitive ribonucleoside-triphosphate reductase   
+	nrdG	CDS	COG0602	152075	152788	+	[O] Organic radical activating enzymes  
+95
+	cds-QGY94113.1	CDS	COG2151	152840	153418	+	[R] Predicted metal-sulfur cluster biosynthetic enzyme 
+	cds-QGY94114.1	CDS	COG2461	153411	154607	+	[S] Uncharacterized conserved protein   
+96
+	cds-QGY94115.1	CDS	ROG2472	154724	155941	+	NA
+97
+	cds-QGY94116.1	CDS	COG3590	156023	157969	+	[O] Predicted metalloendopeptidase    
+98
+	cds-QGY95742.1	CDS	COG3158	158138	160159	-	[P] K+ transporter    
+99
+	cds-QGY94117.1	CDS	ROG5188	160381	160815	-	NA
+100
+	cds-QGY94118.1	CDS	ROG0304	161007	162086	+	NA
+	cds-QGY94119.1	CDS	ROG2775	162121	162360	+	NA
+101
+	cds-QGY95743.1	CDS	COG2337	162509	162847	-	[T] Growth inhibitor    
+	cds-QGY94120.1	CDS	COG2336	162870	163145	-	[T] Growth regulator    
+102
+	cds-QGY94121.1	CDS	ROG1944	163250	163666	-	NA
+103
+	cds-QGY94122.1	CDS	ROG2211	163817	164032	+	NA
+	cds-QGY94123.1	CDS	ROG2596	164068	164340	+	NA
+104
+	cds-QGY94124.1	CDS	NA	164865	166220	+	NA
+105
+	cds-QGY94125.1	CDS	COG2865	166404	167876	+	[K] Predicted transcriptional regulator containing an HTH
+106
+	cds-QGY95744.1	CDS	NA	168033	168335	-	NA
+107
+	cds-QGY94126.1	CDS	ROG5396	168994	169485	-	NA
+108
+	cds-QGY94127.1	CDS	NA	169698	170567	-	NA
+109
+	cds-QGY95745.1	CDS	ROG5716	170901	171188	+	NA
+110
+	cds-QGY94128.1	CDS	COG5464	171797	172027	+	[S] Uncharacterized conserved protein   
+111
+	cds-QGY94129.1	CDS	NA	172386	172976	-	NA
+112
+	cds-QGY95746.1	CDS	NA	173050	174519	-	NA
+113
+	cds-QGY94130.1	CDS	NA	174909	175109	+	NA
+114
+	cds-E6A57_00890	CDS	NA	176035	176229	-	NA
+115
+	cds-QGY94131.1	CDS	NA	176251	176532	+	NA
+116
+	cds-QGY94132.1	CDS	COG3682	176896	177321	+	[K] Predicted transcriptional regulator   
+	cds-QGY94133.1	CDS	COG2217	177455	179608	+	[P] Cation transport ATPase   
+	cds-QGY94134.1	CDS	ROG0888	179661	179825	+	NA
+117
+	cds-E6A57_00915	CDS	COG4300	179916	180089	+	[P] Predicted permease, cadmium resistance protein 
+118
+	cds-E6A57_00920	CDS	COG2963	180271	180414	+	[L] Transposase and inactivated derivatives  
+119
+	cds-QGY94135.1	CDS	COG1705	180954	182180	+	[NU] Muramidase (flagellum-specific)    
+	cds-QGY94136.1	CDS	COG5632	182200	183288	+	[M] N-acetylmuramoyl-L-alanine amidase    
+120
+	cds-QGY94137.1	CDS	COG0569	183376	185214	+	[P] K+ transport systems, NAD-binding component 
+121
+	pcp	CDS	COG2039	185259	185906	-	[O] Pyrrolidone-carboxylate peptidase (N-terminal pyroglutamyl peptidase) 
+	cds-QGY94139.1	CDS	COG0673	185940	186905	-	[R] Predicted dehydrogenases and related proteins 
+	cds-QGY94140.1	CDS	ROG7911	186913	187719	-	NA
+122
+	cds-QGY94141.1	CDS	ROG1934	187804	188559	-	NA
+123
+	cds-QGY94142.1	CDS	COG0588	188715	189407	+	[G] Phosphoglycerate mutase 1   
+124
+	cds-QGY94143.1	CDS	ROG6161	189685	190245	+	NA
+125
+	cds-QGY94144.1	CDS	COG1316	190351	191451	+	[K] Transcriptional regulator    
+	cds-QGY94145.1	CDS	COG0344	191451	192065	+	[S] Predicted membrane protein   
+	cds-QGY94146.1	CDS	COG1368	192103	195093	+	[M] Phosphoglycerol transferase and related proteins, alkaline
+126
+	cds-QGY94147.1	CDS	COG0162	195391	196653	+	[J] Tyrosyl-tRNA synthetase    
+127
+	cds-QGY94148.1	CDS	ROG4168	197073	197429	+	NA
+128
+	rna-E6A57_00995	tRNA	NA	197547	197619	+	NA
+	cds-QGY94149.1	CDS	COG3579	197654	198967	+	[E] Aminopeptidase C    
+	cds-QGY94150.1	CDS	ROG2962	198967	199620	+	NA
+129
+	cds-QGY94151.1	CDS	COG4166	199789	201408	+	[E] ABC-type oligopeptide transport system, periplasmic component
+	cds-QGY94152.1	CDS	COG4166	201599	203227	+	[E] ABC-type oligopeptide transport system, periplasmic component
+130
+	cds-QGY94153.1	CDS	COG0516	203400	204542	+	[F] IMP dehydrogenase/GMP reductase   
+131
+	cds-QGY94154.1	CDS	COG0601	204710	205639	+	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+	cds-QGY94155.1	CDS	COG1173	205648	206679	+	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+	cds-QGY94156.1	CDS	COG0444	206695	207753	+	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+	cds-QGY94157.1	CDS	COG4608	207774	208718	+	[E] ABC-type oligopeptide transport system, ATPase component
+132
+	cds-QGY94158.1	CDS	COG3579	208814	210130	-	[E] Aminopeptidase C    
+133
+	cds-QGY94159.1	CDS	COG0071	210273	210698	-	[O] Molecular chaperone (small heat shock protein)
+134
+	greA	CDS	COG0782	210940	211401	+	[K] Transcription elongation factor   
+135
+	cds-QGY94161.1	CDS	COG1266	211481	212143	+	[R] Predicted metal-dependent membrane protease  
+136
+	rna-E6A57_01065	tRNA	NA	212191	212261	-	NA
+	cds-QGY94162.1	CDS	COG2135	212271	212864	-	[S] Uncharacterized conserved protein   
+137
+	trpS	CDS	COG0180	212982	214004	+	[J] Tryptophanyl-tRNA synthetase    
+	cds-QGY94164.1	CDS	COG2131	214020	214499	+	[F] Deoxycytidylate deaminase    
+	cds-QGY94165.1	CDS	COG1512	214480	215097	+	[R] Beta-propeller domains of methanol dehydrogenase type
+138
+	mgtA	CDS	COG0474	215395	218061	+	[P] Cation transport ATPase   
+139
+	cds-QGY94166.1	CDS	COG2274	218384	219979	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+	cds-QGY94167.1	CDS	COG4403	219998	222217	+	[V] Lantibiotic modifying enzyme   
+	cds-QGY94168.1	CDS	COG2274	222205	223794	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+140
+	metG	CDS	COG0143	223904	225880	+	[J] Methionyl-tRNA synthetase    
+	cds-QGY94170.1	CDS	COG0084	225880	226647	+	[L] Mg-dependent DNase    
+	rnmV	CDS	COG1658	226634	227200	+	[L] Small primase-like proteins (Toprim domain) 
+	rsmA	CDS	COG0030	227190	228074	+	[J] Dimethyladenosine transferase (rRNA methylation)  
+141
+	cds-QGY94173.1	CDS	COG4466	228136	228393	+	[S] Uncharacterized protein conserved in bacteria 
+142
+	purR	CDS	COG0503	228502	229332	+	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+	glmU	CDS	COG1207	229379	230764	+	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+143
+	cds-QGY94176.1	CDS	NA	230893	231645	+	NA
+144
+	cds-QGY94177.1	CDS	COG4344	231776	233545	+	[S] Uncharacterized protein conserved in archaea 
+145
+	cds-QGY94178.1	CDS	COG0462	233773	234747	+	[FE] Phosphoribosylpyrophosphate synthetase    
+146
+	cds-QGY94179.1	CDS	COG1940	234909	235829	+	[KG] Transcriptional regulator/sugar kinase   
+147
+	cds-QGY95748.1	CDS	NA	235898	236170	-	NA
+	cds-QGY94180.1	CDS	COG1078	236205	237578	-	[R] HD superfamily phosphohydrolases   
+148
+	cds-QGY94181.1	CDS	ROG7266	237694	238098	+	NA
+	cds-QGY94182.1	CDS	COG3343	238145	238702	+	[K] DNA-directed RNA polymerase, delta subunit 
+	cds-QGY94183.1	CDS	COG0504	238819	240438	+	[F] CTP synthase (UTP-ammonia lyase)  
+	cds-QGY94184.1	CDS	COG0766	240570	241865	+	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+	cds-QGY94185.1	CDS	COG0454	241934	242458	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+149
+	cds-QGY94186.1	CDS	COG4690	242513	243937	-	[E] Dipeptidase     
+150
+	cds-QGY94187.1	CDS	COG2207	244024	244836	-	[K] AraC-type DNA-binding domain-containing proteins  
+151
+	cds-QGY94188.1	CDS	COG2233	244986	246272	-	[F] Xanthine/uracil permeases    
+	cds-QGY94189.1	CDS	COG0503	246279	246857	-	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+152
+	cds-E6A57_01220	CDS	COG1476	247091	247694	-	[K] Predicted transcriptional regulators   
+153
+	guaA	CDS	COG0519	247918	249468	+	[F] GMP synthase, PP-ATPase domain/subunit  
+154
+	cds-E6A57_01230	CDS	COG2826	250010	250686	+	[L] Transposase and inactivated derivatives, IS30 family
+155
+	lea	CDS	NA	250882	254661	+	NA
+156
+	cds-E6A57_01240	CDS	COG2932	255118	255443	-	[K] Predicted transcriptional regulator   
+157
+	cds-E6A57_01245	CDS	ROG0412	255428	255550	+	NA
+158
+	cds-QGY94192.1	CDS	COG2452	255644	256258	+	[L] Predicted site-specific integrase-resolvase   
+	cds-QGY94193.1	CDS	COG0675	256289	257581	+	[L] Transposase and inactivated derivatives  
+159
+	cds-E6A57_01260	CDS	ROG0412	257761	257955	+	NA
+160
+	cds-QGY94194.1	CDS	NA	258141	258236	-	NA
+161
+	cds-QGY94195.1	CDS	COG1733	258395	258730	-	[K] Predicted transcriptional regulators   
+162
+	cds-QGY94196.1	CDS	COG0604	258880	259902	+	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+163
+	cds-QGY94197.1	CDS	NA	260091	260186	-	NA
+164
+	cds-QGY94198.1	CDS	COG0350	260349	260858	-	[L] Methylated DNA-protein cysteine methyltransferase  
+165
+	cds-QGY94199.1	CDS	NA	260928	261443	-	NA
+166
+	cds-QGY94200.1	CDS	COG0675	261651	262943	+	[L] Transposase and inactivated derivatives  
+167
+	cds-E6A57_01300	CDS	ROG4630	263123	263647	+	NA
+	cds-QGY94201.1	CDS	COG1304	263660	264646	+	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+168
+	cds-QGY94202.1	CDS	NA	264964	265308	+	NA
+	cds-QGY94203.1	CDS	ROG4226	265289	265564	+	NA
+	cds-QGY94204.1	CDS	COG0112	265623	266858	+	[E] Glycine/serine hydroxymethyltransferase    
+	cds-QGY94205.1	CDS	COG0531	266962	268554	+	[E] Amino acid transporters   
+169
+	cds-QGY94206.1	CDS	COG0561	268602	269429	-	[R] Predicted hydrolases of the HAD superfamily
+170
+	cds-QGY94207.1	CDS	COG0366	269545	271164	+	[G] Glycosidases     
+171
+	cds-QGY94208.1	CDS	COG0254	271274	271519	+	[J] Ribosomal protein L31   
+172
+	cds-QGY94209.1	CDS	COG0770	271645	273012	+	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+	cds-QGY94210.1	CDS	COG0513	273026	274513	+	[LKJ] Superfamily II DNA and RNA helicases
+	cds-QGY94211.1	CDS	COG0736	274596	274952	+	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+	cds-QGY94212.1	CDS	COG0787	274957	276087	+	[M] Alanine racemase    
+173
+	cds-QGY94213.1	CDS	COG0517	276152	276859	-	[R] FOG: CBS domain   
+174
+	cds-QGY94214.1	CDS	COG0039	277030	278001	-	[C] Malate/lactate dehydrogenases    
+175
+	cds-QGY94215.1	CDS	COG0193	278138	278695	+	[J] Peptidyl-tRNA hydrolase    
+	mfd	CDS	COG1197	278697	282191	+	[LK] Transcription-repair coupling factor (superfamily II helicase)
+	cds-QGY94217.1	CDS	COG1188	282207	282449	+	[J] Ribosome-associated heat shock protein implicated in
+176
+	cds-QGY94218.1	CDS	ROG5596	282517	282894	+	NA
+	cds-QGY94219.1	CDS	COG0539	282894	283256	+	[J] Ribosomal protein S1   
+	tilS	CDS	COG0037	283295	284548	+	[D] Predicted ATPase of the PP-loop superfamily
+	hflB	CDS	COG0465	284643	286811	+	[O] ATP-dependent Zn proteases   
+	cds-QGY94222.1	CDS	COG1281	286864	287754	+	[O] Disulfide bond chaperones of the HSP33
+	dusB	CDS	COG0042	287829	288857	+	[J] tRNA-dihydrouridine synthase    
+	lysS	CDS	COG1190	288873	290420	+	[J] Lysyl-tRNA synthetase (class II)  
+177
+	cds-QGY94225.1	CDS	ROG2837	290759	291319	+	NA
+178
+	cds-QGY94226.1	CDS	ROG5795	291903	292373	+	NA
+179
+	rna-E6A57_01435	tRNA	NA	292510	292584	+	NA
+180
+	cds-E6A57_01440	CDS	COG1335	292823	293385	+	[Q] Amidases related to nicotinamidase  
+181
+	rna-E6A57_01445	tRNA	NA	293477	293551	+	NA
+	rna-E6A57_01450	tRNA	NA	293588	293661	+	NA
+182
+	cds-QGY94227.1	CDS	COG1956	293736	294191	+	[T] GAF domain-containing protein   
+183
+	cds-QGY94228.1	CDS	COG0542	294296	296773	+	[O] ATPases with chaperone activity, ATP-binding subunit
+	cds-QGY94229.1	CDS	COG0085	296999	300637	+	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+	rpoC	CDS	COG0086	300653	304312	+	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+184
+	cds-QGY94231.1	CDS	COG1989	304375	305058	-	[NOU] Type II secretory pathway, prepilin signal
+185
+	cds-QGY94232.1	CDS	COG0048	305240	305647	+	[J] Ribosomal protein S12   
+	rpsG	CDS	COG0049	305663	306133	+	[J] Ribosomal protein S7   
+	fusA	CDS	COG0480	306167	308260	+	[J] Translation elongation factors (GTPases)  
+	rpsJ	CDS	COG0051	308576	308884	+	[J] Ribosomal protein S10   
+	cds-QGY94236.1	CDS	COG0087	308908	309546	+	[J] Ribosomal protein L3   
+	rplD	CDS	COG0088	309561	310178	+	[J] Ribosomal protein L4   
+	cds-QGY94238.1	CDS	COG0089	310178	310483	+	[J] Ribosomal protein L23   
+	rplB	CDS	COG0090	310499	311335	+	[J] Ribosomal protein L2   
+	rpsS	CDS	COG0185	311354	311638	+	[J] Ribosomal protein S19   
+	cds-QGY94241.1	CDS	COG0091	311658	312011	+	[J] Ribosomal protein L22   
+	rpsC	CDS	COG0092	312025	312699	+	[J] Ribosomal protein S3   
+	rplP	CDS	COG0197	312699	313139	+	[J] Ribosomal protein L16/L10E   
+	cds-QGY94244.1	CDS	COG0255	313129	313326	+	[J] Ribosomal protein L29   
+	rpsQ	CDS	COG0186	313345	313611	+	[J] Ribosomal protein S17   
+	rplN	CDS	COG0093	313643	314011	+	[J] Ribosomal protein L14   
+	cds-QGY94247.1	CDS	COG0198	314031	314267	+	[J] Ribosomal protein L24   
+	rplE	CDS	COG0094	314282	314824	+	[J] Ribosomal protein L5   
+	cds-QGY94249.1	CDS	COG0199	314837	315022	+	[J] Ribosomal protein S14   
+	rpsH	CDS	COG0096	315047	315445	+	[J] Ribosomal protein S8   
+	cds-QGY94251.1	CDS	COG0097	315470	316000	+	[J] Ribosomal protein L6P/L9E   
+	cds-QGY94252.1	CDS	COG0256	316027	316383	+	[J] Ribosomal protein L18   
+	cds-QGY94253.1	CDS	COG0098	316401	316907	+	[J] Ribosomal protein S5   
+	rpmD	CDS	COG1841	316925	317110	+	[J] Ribosomal protein L30/L7E   
+	cds-QGY94255.1	CDS	COG0200	317134	317574	+	[J] Ribosomal protein L15   
+	secY	CDS	COG0201	317574	318869	+	[U] Preprotein translocase subunit SecY  
+	cds-QGY94257.1	CDS	COG0563	318880	319536	+	[F] Adenylate kinase and related kinases 
+	infA	CDS	COG0361	319612	319833	+	[J] Translation initiation factor 1 (IF-1) 
+	rpmJ	CDS	COG0257	319850	319966	+	[J] Ribosomal protein L36   
+	rpsM	CDS	COG0099	319987	320337	+	[J] Ribosomal protein S13   
+	rpsK	CDS	COG0100	320362	320751	+	[J] Ribosomal protein S11   
+	cds-QGY94262.1	CDS	COG0202	320797	321735	+	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+	cds-QGY94263.1	CDS	COG0203	321763	322146	+	[J] Ribosomal protein L17   
+186
+	cds-QGY94264.1	CDS	COG1122	322331	323182	+	[P] ABC-type cobalt transport system, ATPase component
+	cds-QGY94265.1	CDS	COG1122	323158	324003	+	[P] ABC-type cobalt transport system, ATPase component
+	cds-QGY94266.1	CDS	COG0619	324007	324804	+	[P] ABC-type cobalt transport system, permease component
+	truA	CDS	COG0101	324809	325597	+	[J] Pseudouridylate synthase    
+	rplM	CDS	COG0102	325702	326145	+	[J] Ribosomal protein L13   
+	rpsI	CDS	COG0103	326157	326552	+	[J] Ribosomal protein S9   
+187
+	cds-QGY94270.1	CDS	ROG7514	326951	327487	+	NA
+188
+	cds-QGY94271.1	CDS	COG4619	327594	328229	+	[R] ABC-type uncharacterized transport system, ATPase component
+	fetB	CDS	COG0390	328226	328990	+	[R] ABC-type uncharacterized transport system, permease component
+189
+	cds-QGY95749.1	CDS	COG3385	329135	330505	-	[L] FOG: Transposase and inactivated derivatives 
+190
+	cds-QGY94273.1	CDS	COG0693	330707	331291	-	[R] Putative intracellular protease/amidase   
+	cds-QGY94274.1	CDS	COG1011	331331	331987	-	[R] Predicted hydrolase (HAD superfamily)  
+191
+	cds-QGY94275.1	CDS	COG0730	332061	332819	+	[R] Predicted permeases    
+	cds-QGY94276.1	CDS	COG0406	332862	333542	+	[G] Fructose-2,6-bisphosphatase     
+192
+	cds-QGY94277.1	CDS	COG1230	333603	334502	+	[P] Co/Zn/Cd efflux system component  
+	cds-QGY94278.1	CDS	COG3374	334511	334693	+	[S] Predicted membrane protein   
+	cds-QGY94279.1	CDS	COG0588	334705	335385	+	[G] Phosphoglycerate mutase 1   
+193
+	cds-QGY94280.1	CDS	COG4639	335496	336431	+	[R] Predicted kinase    
+194
+	pepC	CDS	COG3579	336493	337842	-	[E] Aminopeptidase C    
+195
+	cds-QGY94282.1	CDS	NA	337910	338209	-	NA
+196
+	cds-QGY94283.1	CDS	COG0756	338341	338892	+	[F] dUTPase     
+	radA	CDS	COG1066	338892	340268	+	[O] Predicted ATP-dependent serine protease  
+197
+	cds-QGY94285.1	CDS	COG0008	340346	341845	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+	cds-QGY94286.1	CDS	COG0215	341936	343369	+	[J] Cysteinyl-tRNA synthetase    
+	cds-QGY94287.1	CDS	COG1939	343362	343805	+	[S] Uncharacterized protein conserved in bacteria 
+	rlmB	CDS	COG0566	343792	344547	+	[J] rRNA methylases    
+198
+	cds-QGY94289.1	CDS	ROG3055	344681	345226	+	NA
+199
+	cds-QGY94290.1	CDS	ROG2631	345290	345508	+	NA
+200
+	cds-QGY94291.1	CDS	COG1070	345625	347133	+	[G] Sugar (pentulose and hexulose) kinases 
+201
+	cds-QGY94292.1	CDS	COG1154	347180	348925	-	[HI] Deoxyxylulose-5-phosphate synthase    
+202
+	rpmG	CDS	COG0267	349111	349260	+	[J] Ribosomal protein L33   
+	secE	CDS	ROG1465	349270	349440	+	NA
+203
+	nusG	CDS	COG0250	349549	350106	+	[K] Transcription antiterminator    
+	rplK	CDS	COG0080	350237	350662	+	[J] Ribosomal protein L11   
+	cds-QGY94297.1	CDS	COG0081	350740	351432	+	[J] Ribosomal protein L1   
+204
+	cds-QGY94298.1	CDS	COG0226	351552	352418	+	[P] ABC-type phosphate transport system, periplasmic component
+	pstC	CDS	COG0573	352422	353417	+	[P] ABC-type phosphate transport system, permease component
+	pstA	CDS	COG0581	353419	354306	+	[P] ABC-type phosphate transport system, permease component
+	pstB	CDS	COG1117	354312	355109	+	[P] ABC-type phosphate transport system, ATPase component
+	cds-QGY94302.1	CDS	COG1117	355111	355866	+	[P] ABC-type phosphate transport system, ATPase component
+	phoU	CDS	COG0704	355884	356561	+	[P] Phosphate uptake regulator   
+205
+	cds-E6A57_01845	CDS	ROG0004	356622	357241	-	NA
+206
+	cds-E6A57_01850	CDS	COG1442	357346	357624	+	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+207
+	cds-QGY94304.1	CDS	COG0244	357828	358340	+	[J] Ribosomal protein L10   
+	cds-QGY94305.1	CDS	COG0222	358393	358755	+	[J] Ribosomal protein L7/L12   
+208
+	cds-QGY94306.1	CDS	COG1226	358832	359674	+	[P] Kef-type K+ transport systems, predicted NAD-binding
+	cds-QGY94307.1	CDS	COG2813	359680	360300	+	[J] 16S RNA G1207 methylase RsmC 
+209
+	cds-QGY94308.1	CDS	NA	360428	360610	+	NA
+210
+	cds-QGY94309.1	CDS	COG0590	360685	361185	+	[FJ] Cytosine/adenosine deaminases    
+211
+	dnaX	CDS	COG2812	361391	363196	+	[L] DNA polymerase III, gamma/tau subunits 
+	cds-E6A57_01895	CDS	NA	363203	363716	+	NA
+	cds-QGY94311.1	CDS	ROG3414	363605	363955	+	NA
+	cds-QGY94312.1	CDS	COG0718	363971	364306	+	[S] Uncharacterized protein conserved in bacteria 
+	recR	CDS	COG0353	364307	364906	+	[L] Recombinational DNA repair protein (RecF pathway)
+	cds-QGY94314.1	CDS	ROG4148	364906	365145	+	NA
+212
+	cds-QGY94315.1	CDS	COG0125	365248	365886	+	[F] Thymidylate kinase    
+	cds-QGY94316.1	CDS	COG3870	365899	366219	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94317.1	CDS	COG2812	366219	367076	+	[L] DNA polymerase III, gamma/tau subunits 
+	yabA	CDS	COG4467	367086	367436	+	[S] Uncharacterized protein conserved in bacteria 
+	rsmI	CDS	COG0313	367436	368287	+	[R] Predicted methyltransferases    
+	cds-QGY94320.1	CDS	COG3884	368290	369024	+	[I] Acyl-ACP thioesterase    
+213
+	cds-QGY94321.1	CDS	ROG0231	369080	369598	+	NA
+	tsaB	CDS	COG1214	369628	370362	+	[O] Inactive homolog of metal-dependent proteases, putative
+	rimI	CDS	COG0456	370346	370918	+	[R] Acetyltransferases     
+	tsaD	CDS	COG0533	370915	371964	+	[O] Metal-dependent proteases with possible chaperone activity
+214
+	cds-QGY94325.1	CDS	COG3547	372180	373406	-	[L] Transposase and inactivated derivatives  
+215
+	cds-E6A57_01975	CDS	COG2963	373673	374588	+	[L] Transposase and inactivated derivatives  
+216
+	cds-QGY94326.1	CDS	COG0488	374636	376558	-	[R] ATPase components of ABC transporters with
+217
+	cds-QGY94327.1	CDS	COG2344	376734	377369	+	[R] AT-rich DNA-binding protein   
+218
+	cds-QGY94328.1	CDS	COG1609	377407	378393	-	[K] Transcriptional regulators    
+	cds-QGY94329.1	CDS	COG1621	378409	379866	-	[G] Beta-fructosidases (levanase/invertase)    
+219
+	cds-QGY94330.1	CDS	COG1263	380078	382027	+	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+220
+	cds-QGY94331.1	CDS	COG0791	382183	383151	+	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+	cds-QGY94332.1	CDS	NA	383197	383712	+	NA
+221
+	cds-QGY94333.1	CDS	COG0234	383894	384178	+	[O] Co-chaperonin GroES (HSP10)   
+	groL	CDS	COG0459	384232	385857	+	[O] Chaperonin GroEL (HSP60 family)  
+222
+	mutS	CDS	COG0249	386116	388692	+	[L] Mismatch repair ATPase (MutS family) 
+	mutL	CDS	COG0323	388692	390617	+	[L] DNA mismatch repair enzyme (predicted ATPase)
+	ruvA	CDS	COG0632	390617	391204	+	[L] Holliday junction resolvasome, DNA-binding subunit 
+	ruvB	CDS	COG2255	391253	392263	+	[L] Holliday junction resolvasome, helicase subunit 
+	yajC	CDS	COG1862	392314	392715	+	[U] Preprotein translocase subunit YajC  
+223
+	cds-QGY94339.1	CDS	COG0364	392819	394270	+	[G] Glucose-6-phosphate 1-dehydrogenase    
+	dinB	CDS	COG0389	394236	395381	+	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+	cds-QGY94341.1	CDS	COG0618	395445	396401	+	[R] Exopolyphosphatase-related proteins    
+	cds-QGY94342.1	CDS	COG0513	396394	397755	+	[LKJ] Superfamily II DNA and RNA helicases
+224
+	alaS	CDS	COG0013	397998	400637	+	[J] Alanyl-tRNA synthetase    
+	cds-QGY94344.1	CDS	COG4472	400698	400955	+	[S] Uncharacterized protein conserved in bacteria 
+	ruvX	CDS	COG0816	400955	401383	+	[L] Predicted endonuclease involved in recombination (possible
+	cds-QGY94346.1	CDS	COG3906	401385	401696	+	[S] Uncharacterized protein conserved in bacteria 
+225
+	cds-QGY94347.1	CDS	COG1193	401754	404111	+	[L] Mismatch repair ATPase (MutS family) 
+	trxA	CDS	COG0526	404194	404505	+	[OC] Thiol-disulfide isomerase and thioredoxins  
+226
+	mscL	CDS	COG1970	404559	404933	-	[M] Large-conductance mechanosensitive channel   
+227
+	cds-QGY94350.1	CDS	ROG0423	405020	405442	-	NA
+228
+	cds-QGY94351.1	CDS	COG0796	405519	406325	+	[M] Glutamate racemase    
+	cds-QGY94352.1	CDS	COG0127	406325	406945	+	[F] Xanthosine triphosphate pyrophosphatase   
+229
+	cds-QGY94353.1	CDS	COG0668	407001	407846	-	[M] Small-conductance mechanosensitive channel   
+230
+	cds-QGY94354.1	CDS	COG4768	407955	408380	+	[R] Uncharacterized protein containing a divergent version
+	cds-QGY94355.1	CDS	NA	408398	408766	+	NA
+231
+	cds-QGY94356.1	CDS	COG0006	408825	409931	-	[E] Xaa-Pro aminopeptidase    
+232
+	cds-QGY94357.1	CDS	COG1609	410080	411081	+	[K] Transcriptional regulators    
+233
+	cds-QGY94358.1	CDS	COG0584	411123	412493	-	[C] Glycerophosphoryl diester phosphodiesterase   
+234
+	cds-QGY94359.1	CDS	ROG1553	412607	412927	+	NA
+	cds-QGY94360.1	CDS	COG0737	412943	414325	+	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+	cds-QGY94361.1	CDS	COG4470	414318	414908	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94362.1	CDS	COG0647	414908	415678	+	[G] Predicted sugar phosphatases of the HAD
+	cds-QGY94363.1	CDS	COG4478	415675	416283	+	[S] Predicted membrane protein   
+235
+	cds-QGY94364.1	CDS	COG0586	416295	416945	-	[S] Uncharacterized membrane-associated protein   
+	cds-QGY94365.1	CDS	COG0492	416955	417947	-	[O] Thioredoxin reductase    
+236
+	rna-E6A57_02185	rRNA	NA	418468	420040	+	NA
+	rna-E6A57_02190	tRNA	NA	420164	420238	+	NA
+	rna-E6A57_02195	tRNA	NA	420295	420367	+	NA
+	rna-E6A57_02200	rRNA	NA	420485	423396	+	NA
+	rrf_2	rRNA	NA	423466	423582	+	NA
+	rna-E6A57_02210	tRNA	NA	423590	423662	+	NA
+	rna-E6A57_02215	tRNA	NA	423667	423739	+	NA
+	rna-E6A57_02220	tRNA	NA	423753	423834	+	NA
+	rna-E6A57_02225	tRNA	NA	423859	423931	+	NA
+	rna-E6A57_02230	tRNA	NA	423942	424013	+	NA
+	rna-E6A57_02235	tRNA	NA	424025	424110	+	NA
+	rna-E6A57_02240	tRNA	NA	424119	424192	+	NA
+	rna-E6A57_02245	tRNA	NA	424198	424271	+	NA
+	rna-E6A57_02250	tRNA	NA	424302	424375	+	NA
+	rna-E6A57_02255	tRNA	NA	424389	424462	+	NA
+	rna-E6A57_02260	tRNA	NA	424486	424559	+	NA
+	rna-E6A57_02265	tRNA	NA	424563	424636	+	NA
+	rna-E6A57_02270	tRNA	NA	424643	424715	+	NA
+	rna-E6A57_02275	tRNA	NA	424734	424804	+	NA
+	rna-E6A57_02280	tRNA	NA	424811	424885	+	NA
+	rna-E6A57_02285	tRNA	NA	424888	424980	+	NA
+237
+	rna-E6A57_02290	tRNA	NA	425733	425804	+	NA
+	rna-E6A57_02295	tRNA	NA	425838	425924	+	NA
+	rna-E6A57_02300	tRNA	NA	425936	426009	+	NA
+	rna-E6A57_02305	tRNA	NA	426013	426086	+	NA
+	rna-E6A57_02310	tRNA	NA	426093	426168	+	NA
+	rna-E6A57_02315	tRNA	NA	426172	426253	+	NA
+	rna-E6A57_02320	tRNA	NA	426258	426328	+	NA
+	rna-E6A57_02325	tRNA	NA	426341	426416	+	NA
+	rna-E6A57_02330	tRNA	NA	426421	426492	+	NA
+	rna-E6A57_02335	tRNA	NA	426516	426586	+	NA
+	rna-E6A57_02340	tRNA	NA	426628	426712	+	NA
+238
+	cds-QGY94366.1	CDS	COG0438	426832	428010	+	[M] Glycosyltransferase     
+	cds-QGY94367.1	CDS	COG0438	428011	429054	+	[M] Glycosyltransferase     
+	cds-QGY94368.1	CDS	COG0392	429054	430079	+	[S] Predicted integral membrane protein  
+	cds-QGY94369.1	CDS	COG1368	430154	432214	+	[M] Phosphoglycerol transferase and related proteins, alkaline
+239
+	secG	CDS	COG1314	432282	432515	+	[U] Preprotein translocase subunit SecG  
+240
+	rnr	CDS	COG0557	432588	434927	+	[K] Exoribonuclease R    
+	smpB	CDS	COG0691	434940	435398	+	[O] tmRNA-binding protein    
+241
+	rna-E6A57_02380	rRNA	NA	436017	437589	+	NA
+	cds-E6A57_02385	CDS	NA	437599	437786	+	NA
+	rna-E6A57_02390	rRNA	NA	437784	440695	+	NA
+	rrf_3	rRNA	NA	440765	440881	+	NA
+	rna-E6A57_02400	tRNA	NA	440895	440967	+	NA
+242
+	rna-E6A57_02405	rRNA	NA	442315	443887	+	NA
+	cds-E6A57_02410	CDS	NA	443897	444084	+	NA
+	rna-E6A57_02415	rRNA	NA	444082	446993	+	NA
+	rrf_4	rRNA	NA	447063	447179	+	NA
+	rna-E6A57_02425	tRNA	NA	447193	447265	+	NA
+243
+	manX	CDS	COG3444	447561	448568	+	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+	cds-QGY94374.1	CDS	COG3715	448590	449399	+	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+	cds-QGY94375.1	CDS	COG3716	449428	450348	+	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+	cds-QGY94376.1	CDS	COG4687	450352	450720	+	[S] Uncharacterized protein conserved in bacteria 
+244
+	cds-QGY94377.1	CDS	COG0583	450763	451644	-	[K] Transcriptional regulator    
+245
+	cds-QGY95751.1	CDS	COG0110	451810	452283	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+246
+	cds-QGY94378.1	CDS	COG1113	452302	453675	-	[E] Gamma-aminobutyrate permease and related permeases 
+247
+	adhE	CDS	COG1454	453989	456613	+	[C] Alcohol dehydrogenase, class IV  
+248
+	glmS	CDS	COG0449	456810	458621	+	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+249
+	cds-E6A57_02475	CDS	COG0282	458844	460045	+	[C] Acetate kinase    
+250
+	cds-QGY94381.1	CDS	ROG2631	460132	460359	+	NA
+251
+	cds-QGY94382.1	CDS	COG1051	460509	460922	+	[F] ADP-ribose pyrophosphatase    
+252
+	cds-QGY94383.1	CDS	ROG2280	461013	462671	-	NA
+253
+	cds-QGY94384.1	CDS	ROG7900	462885	464705	+	NA
+	cds-QGY94385.1	CDS	ROG0256	464710	466038	+	NA
+	cds-QGY94386.1	CDS	COG1201	466048	468285	+	[R] Lhr-like helicases    
+	cds-QGY94387.1	CDS	NA	468331	468702	+	NA
+254
+	cds-QGY94388.1	CDS	COG0778	468827	469585	+	[C] Nitroreductase     
+255
+	rna-E6A57_02520	tRNA	NA	469660	469735	+	NA
+256
+	psiE	CDS	COG3223	469953	470360	-	[S] Predicted membrane protein   
+257
+	cds-QGY94390.1	CDS	COG0110	470501	471103	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+258
+	cds-QGY94391.1	CDS	ROG5789	471155	471550	-	NA
+259
+	cds-QGY94392.1	CDS	COG2047	471647	471877	+	[R] Uncharacterized protein (ATP-grasp superfamily)  
+260
+	cds-QGY94393.1	CDS	NA	471924	472124	-	NA
+261
+	cds-QGY94394.1	CDS	COG2129	472268	473140	+	[R] Predicted phosphoesterases, related to the Icc
+262
+	cds-QGY94395.1	CDS	NA	473191	473307	-	NA
+263
+	cds-QGY95752.1	CDS	COG1455	473619	474317	+	[G] Phosphotransferase system cellobiose-specific component IIC 
+264
+	cds-QGY94396.1	CDS	ROG7992	474685	475356	+	NA
+265
+	cds-QGY94397.1	CDS	NA	475518	476582	+	NA
+266
+	cds-QGY94398.1	CDS	COG0406	476658	477233	+	[G] Fructose-2,6-bisphosphatase     
+	cds-QGY94399.1	CDS	COG0406	477240	477830	+	[G] Fructose-2,6-bisphosphatase     
+267
+	cds-QGY94400.1	CDS	COG1359	477899	478558	+	[S] Uncharacterized conserved protein   
+	cds-QGY94401.1	CDS	COG0584	478606	479286	+	[C] Glycerophosphoryl diester phosphodiesterase   
+	cds-QGY94402.1	CDS	COG1609	479320	480291	+	[K] Transcriptional regulators    
+	cds-QGY94403.1	CDS	COG1653	480489	481781	+	[G] ABC-type sugar transport system, periplasmic component
+	cds-QGY94404.1	CDS	COG1175	481802	482686	+	[G] ABC-type sugar transport systems, permease components
+	cds-QGY94405.1	CDS	COG0395	482679	483536	+	[G] ABC-type sugar transport system, permease component
+	cds-QGY94406.1	CDS	COG1621	483536	484828	+	[G] Beta-fructosidases (levanase/invertase)    
+	ugpC	CDS	COG3839	484843	485949	+	[G] ABC-type sugar transport systems, ATPase components
+268
+	gtfA	CDS	NA	486069	487511	+	NA
+269
+	rna-E6A57_02630	tRNA	NA	487685	487756	+	NA
+270
+	cds-QGY94409.1	CDS	COG0436	487888	489060	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+271
+	cds-QGY94410.1	CDS	COG0673	489115	490104	-	[R] Predicted dehydrogenases and related proteins 
+	cds-QGY94411.1	CDS	COG0120	490091	490774	-	[G] Ribose 5-phosphate isomerase   
+272
+	cds-QGY94412.1	CDS	COG1737	490927	491760	+	[K] Transcriptional regulators    
+273
+	cds-QGY94413.1	CDS	NA	492089	493564	+	NA
+274
+	cds-QGY94414.1	CDS	COG0446	493748	495115	+	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+275
+	rna-E6A57_02665	tRNA	NA	495238	495319	+	NA
+	rna-E6A57_02670	tRNA	NA	495354	495425	+	NA
+276
+	cds-QGY95753.1	CDS	COG4166	495641	497224	+	[E] ABC-type oligopeptide transport system, periplasmic component
+277
+	cds-QGY94415.1	CDS	NA	497335	498450	+	NA
+278
+	cds-QGY94416.1	CDS	COG2188	498538	499239	+	[K] Transcriptional regulators    
+279
+	tagD	CDS	COG0615	499287	499673	-	[MI] Cytidylyltransferase     
+280
+	cds-QGY94418.1	CDS	COG1922	499800	500531	+	[M] Teichoic acid biosynthesis proteins  
+	cds-QGY94419.1	CDS	COG0438	500542	501633	+	[M] Glycosyltransferase     
+	cds-QGY95754.1	CDS	COG1488	501720	503198	+	[H] Nicotinic acid phosphoribosyltransferase   
+	nadE	CDS	COG0171	503195	504025	+	[H] NAD synthase    
+281
+	cds-QGY94421.1	CDS	COG0474	504212	506881	+	[P] Cation transport ATPase   
+282
+	cds-QGY94422.1	CDS	COG1887	506971	508125	+	[M] Putative glycosyl/glycerophosphate transferases involved in teichoic
+	cds-QGY94423.1	CDS	COG2244	508127	509557	+	[R] Membrane protein involved in the export
+	cds-QGY94424.1	CDS	COG3774	509560	510258	+	[M] Mannosyltransferase OCH1 and related enzymes 
+283
+	cds-QGY94425.1	CDS	COG3091	510318	510776	+	[S] Uncharacterized protein conserved in bacteria 
+284
+	rna-E6A57_02740	tRNA	NA	510853	510937	+	NA
+285
+	cds-QGY94426.1	CDS	COG1705	511023	511670	+	[NU] Muramidase (flagellum-specific)    
+286
+	pcrA	CDS	COG0210	511756	514002	+	[L] Superfamily I DNA and RNA helicases
+	ligA	CDS	COG0272	514037	516043	+	[L] NAD-dependent DNA ligase (contains BRCT domain
+	cds-QGY94429.1	CDS	COG4851	516056	517204	+	[R] Protein involved in sex pheromone biosynthesis
+	gatC	CDS	COG0721	517216	517524	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+	gatA	CDS	COG0154	517524	518963	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+	gatB	CDS	COG0064	518968	520398	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+	cds-QGY94433.1	CDS	COG1597	520423	521343	+	[IR] Sphingosine kinase and enzymes related to
+287
+	cds-QGY94434.1	CDS	COG0670	521413	522123	-	[R] Integral membrane protein, interacts with FtsH
+288
+	cds-QGY94435.1	CDS	COG1504	522286	522633	+	[S] Uncharacterized conserved protein   
+289
+	cds-QGY94436.1	CDS	NA	522608	523642	-	NA
+290
+	nhaC	CDS	COG1757	523727	525100	-	[C] Na+/H+ antiporter    
+291
+	cds-QGY94438.1	CDS	COG1680	525501	526535	+	[V] Beta-lactamase class C and other penicillin
+292
+	rlmD	CDS	COG2265	526619	527968	+	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+	cds-QGY94440.1	CDS	COG0454	527971	528471	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+293
+	rna-E6A57_02820	tRNA	NA	528562	528651	+	NA
+	rna-E6A57_02825	tRNA	NA	528656	528729	+	NA
+	rna-E6A57_02830	tRNA	NA	528736	528811	+	NA
+	rna-E6A57_02835	tRNA	NA	528816	528888	+	NA
+294
+	cds-QGY94441.1	CDS	COG2814	528959	530425	+	[G] Arabinose efflux permease   
+295
+	cds-QGY95755.1	CDS	COG1309	530468	530980	-	[K] Transcriptional regulator    
+296
+	cds-QGY94442.1	CDS	COG4716	531086	532858	+	[S] Myosin-crossreactive antigen    
+297
+	cds-QGY94443.1	CDS	ROG3447	533218	533688	+	NA
+298
+	cds-QGY94444.1	CDS	COG0656	533852	534688	+	[R] Aldo/keto reductases, related to diketogulonate reductase
+299
+	cds-QGY94445.1	CDS	COG1757	534770	535042	+	[C] Na+/H+ antiporter    
+300
+	cds-QGY94446.1	CDS	COG2865	535095	536627	-	[K] Predicted transcriptional regulator containing an HTH
+301
+	cds-QGY94447.1	CDS	COG2233	536814	538145	-	[F] Xanthine/uracil permeases    
+	pyrR	CDS	COG2065	538158	538685	-	[F] Pyrimidine operon attenuation protein/uracil phosphoribosyltransferase 
+302
+	cds-QGY94449.1	CDS	ROG2472	538975	540444	+	NA
+303
+	cds-QGY94450.1	CDS	ROG2472	540480	541679	-	NA
+	cds-QGY94451.1	CDS	ROG6588	541672	542976	-	NA
+	cds-QGY94452.1	CDS	NA	542973	543254	-	NA
+304
+	cds-QGY94453.1	CDS	COG1363	543659	544741	+	[G] Cellulase M and related proteins 
+305
+	cds-QGY94454.1	CDS	COG0488	544835	546457	+	[R] ATPase components of ABC transporters with
+306
+	cds-QGY94455.1	CDS	COG4989	546545	547465	+	[R] Predicted oxidoreductase    
+307
+	cds-QGY94456.1	CDS	NA	547560	548363	+	NA
+308
+	cds-QGY94457.1	CDS	COG0531	548360	549679	-	[E] Amino acid transporters   
+309
+	cds-QGY94458.1	CDS	COG2071	549840	550508	+	[R] Predicted glutamine amidotransferases   
+310
+	cds-QGY94459.1	CDS	COG0834	550550	551368	-	[ET] ABC-type amino acid transport/signal transduction systems,
+311
+	cds-QGY94460.1	CDS	NA	551546	551998	+	NA
+	cds-QGY94461.1	CDS	COG1132	551985	553718	+	[V] ABC-type multidrug transport system, ATPase and
+	cds-QGY94462.1	CDS	COG1132	553719	555488	+	[V] ABC-type multidrug transport system, ATPase and
+312
+	cds-QGY94463.1	CDS	COG4721	555669	556247	+	[S] Predicted membrane protein   
+313
+	cds-QGY94464.1	CDS	NA	556354	557745	+	NA
+314
+	cds-QGY94465.1	CDS	COG0572	557810	558439	-	[F] Uridine kinase    
+315
+	cds-QGY94466.1	CDS	COG1126	559078	559818	+	[E] ABC-type polar amino acid transport system,
+	cds-QGY94467.1	CDS	COG0834	559830	560648	+	[ET] ABC-type amino acid transport/signal transduction systems,
+	cds-QGY94468.1	CDS	COG0765	560648	561289	+	[E] ABC-type amino acid transport system, permease
+	cds-QGY94469.1	CDS	COG0765	561307	561960	+	[E] ABC-type amino acid transport system, permease
+316
+	cds-QGY94470.1	CDS	ROG1487	562036	562956	+	NA
+317
+	cds-QGY94471.1	CDS	ROG3888	563002	563499	-	NA
+318
+	cds-QGY94472.1	CDS	NA	563649	565049	+	NA
+319
+	cds-QGY94473.1	CDS	COG1653	565112	566416	-	[G] ABC-type sugar transport system, periplasmic component
+320
+	cds-QGY94474.1	CDS	COG1085	566580	567383	+	[C] Galactose-1-phosphate uridylyltransferase    
+321
+	rbsK	CDS	COG0524	567473	568399	+	[G] Sugar kinases, ribokinase family  
+	rpiA	CDS	COG0120	568399	569091	+	[G] Ribose 5-phosphate isomerase   
+322
+	cds-QGY94477.1	CDS	COG3158	569222	571231	+	[P] K+ transporter    
+323
+	cds-QGY94478.1	CDS	COG1957	571313	572239	+	[F] Inosine-uridine nucleoside N-ribohydrolase   
+	cds-QGY94479.1	CDS	COG2188	572239	572964	+	[K] Transcriptional regulators    
+324
+	cds-QGY94480.1	CDS	COG0561	573058	573885	-	[R] Predicted hydrolases of the HAD superfamily
+325
+	cds-QGY94481.1	CDS	ROG5573	574007	574366	-	NA
+	cds-QGY94482.1	CDS	COG1349	574372	575136	-	[KG] Transcriptional regulators of sugar metabolism 
+326
+	cds-QGY94483.1	CDS	COG3957	575437	577836	+	[G] Phosphoketolase     
+327
+	cds-QGY94484.1	CDS	COG4667	577904	578752	+	[R] Predicted esterase of the alpha-beta hydrolase
+328
+	cds-QGY94485.1	CDS	COG0561	578808	579614	-	[R] Predicted hydrolases of the HAD superfamily
+329
+	cds-QGY94486.1	CDS	COG1263	580225	582105	+	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+	cds-QGY94487.1	CDS	COG1737	582167	582976	+	[K] Transcriptional regulators    
+	cds-QGY94488.1	CDS	NA	582963	583460	+	NA
+	cds-QGY94489.1	CDS	COG2190	583481	583966	+	[G] Phosphotransferase system IIA components  
+330
+	cds-QGY94490.1	CDS	ROG0375	584085	584351	+	NA
+331
+	cds-QGY94491.1	CDS	COG0778	584423	585079	+	[C] Nitroreductase     
+332
+	cds-QGY94492.1	CDS	COG1253	585182	586540	+	[R] Hemolysins and related proteins containing CBS
+333
+	hpt	CDS	COG0634	586647	587216	+	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+334
+	cds-QGY94494.1	CDS	COG3976	587389	589158	+	[S] Uncharacterized protein conserved in bacteria 
+335
+	cds-E6A57_03115	CDS	ROG0485	589238	590069	-	NA
+336
+	cds-QGY94495.1	CDS	COG1053	590392	592272	+	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+337
+	cds-QGY94496.1	CDS	COG0531	592324	593625	-	[E] Amino acid transporters   
+338
+	cds-QGY94497.1	CDS	COG3757	593734	594441	+	[M] Lyzozyme M1 (1,4-beta-N-acetylmuramidase)   
+	cds-QGY94498.1	CDS	COG0513	594444	595679	+	[LKJ] Superfamily II DNA and RNA helicases
+	cds-QGY94499.1	CDS	COG1455	595676	597004	+	[G] Phosphotransferase system cellobiose-specific component IIC 
+	rna-E6A57_03145	tRNA	NA	597054	597126	+	NA
+339
+	cds-QGY95756.1	CDS	NA	597197	597385	-	NA
+340
+	cds-QGY94500.1	CDS	COG0381	597491	598633	+	[M] UDP-N-acetylglucosamine 2-epimerase    
+341
+	cds-QGY94501.1	CDS	COG2246	598652	599179	-	[S] Predicted membrane protein   
+	cds-QGY94502.1	CDS	COG0716	599172	599618	-	[C] Flavodoxins     
+342
+	map	CDS	COG0024	599831	600658	+	[J] Methionine aminopeptidase    
+	cds-QGY94504.1	CDS	COG1295	600667	601590	+	[S] Predicted membrane protein   
+	galU	CDS	COG1210	601651	602553	+	[M] UDP-glucose pyrophosphorylase    
+343
+	cds-QGY94506.1	CDS	COG0183	602664	603827	+	[I] Acetyl-CoA acetyltransferase    
+	cds-QGY94507.1	CDS	COG1257	603824	605035	+	[I] Hydroxymethylglutaryl-CoA reductase    
+	cds-QGY94508.1	CDS	COG3425	605035	606201	+	[I] 3-hydroxy-3-methylglutaryl CoA synthase   
+344
+	cds-QGY94509.1	CDS	NA	606228	606512	-	NA
+345
+	cds-QGY95757.1	CDS	COG1073	606819	607526	+	[R] Hydrolases of the alpha/beta superfamily 
+346
+	rlmD_2	CDS	COG2265	607966	609354	-	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+347
+	recX	CDS	COG2137	609479	610291	+	[R] Uncharacterized protein conserved in bacteria 
+	cds-QGY94512.1	CDS	NA	610300	610782	+	NA
+348
+	cds-QGY94513.1	CDS	NA	610783	611244	-	NA
+349
+	cds-QGY94514.1	CDS	COG1253	611347	612213	+	[R] Hemolysins and related proteins containing CBS
+	cds-QGY94515.1	CDS	COG4108	612213	613784	+	[J] Peptide chain release factor RF-3 
+	cds-QGY94516.1	CDS	ROG1754	613799	614608	+	NA
+350
+	cds-QGY94517.1	CDS	COG4988	614710	616278	+	[CO] ABC-type transport system involved in cytochrome
+351
+	cds-QGY94518.1	CDS	ROG4390	616809	619379	+	NA
+	cds-QGY94519.1	CDS	NA	619354	620271	+	NA
+	cds-QGY94520.1	CDS	ROG0096	620249	621166	+	NA
+	cds-QGY94521.1	CDS	COG1944	621156	622448	+	[S] Uncharacterized conserved protein   
+	cds-QGY94522.1	CDS	NA	622462	623520	+	NA
+352
+	cds-QGY94523.1	CDS	NA	623887	624051	+	NA
+	cds-E6A57_03280	CDS	COG3666	624103	624620	+	[L] Transposase and inactivated derivatives  
+353
+	cds-QGY94524.1	CDS	ROG1955	624884	625165	-	NA
+354
+	cds-QGY94525.1	CDS	COG0542	625311	627503	-	[O] ATPases with chaperone activity, ATP-binding subunit
+355
+	cds-QGY94526.1	CDS	ROG2180	627696	627890	+	NA
+356
+	cds-QGY94527.1	CDS	COG1925	628003	628269	+	[G] Phosphotransferase system, HPr-related proteins  
+	ptsP	CDS	COG1080	628269	630002	+	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+357
+	spxA	CDS	COG1393	630226	630624	+	[P] Arsenate reductase and related proteins, glutaredoxin
+	cds-QGY94530.1	CDS	COG4862	630729	631475	+	[OTN] Negative regulator of genetic competence, sporulation
+	cds-QGY94531.1	CDS	COG4469	631547	632395	+	[R] Competence protein    
+358
+	cds-QGY94532.1	CDS	COG1651	632403	633020	-	[O] Protein-disulfide isomerase    
+359
+	cds-QGY94533.1	CDS	COG4116	633107	633715	-	[S] Uncharacterized protein conserved in bacteria 
+360
+	cds-QGY94534.1	CDS	COG2357	633792	634424	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94535.1	CDS	COG0061	634421	635224	+	[G] Predicted sugar kinase   
+	cds-QGY94536.1	CDS	COG0564	635217	636122	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+361
+	cds-QGY94537.1	CDS	COG4716	636228	638003	+	[S] Myosin-crossreactive antigen    
+362
+	cds-QGY94538.1	CDS	COG0398	638038	638730	-	[S] Uncharacterized conserved protein   
+363
+	cds-QGY94539.1	CDS	COG2706	638842	639870	-	[G] 3-carboxymuconate cyclase    
+364
+	cds-QGY94540.1	CDS	COG3731	640050	640430	+	[G] Phosphotransferase system sorbitol-specific component IIA 
+	cds-QGY94541.1	CDS	COG0628	640447	641634	+	[R] Predicted permease    
+365
+	cds-QGY94542.1	CDS	COG0219	641697	642257	+	[J] Predicted rRNA methylase (SpoU class) 
+	cds-QGY94543.1	CDS	COG4835	642257	642652	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94544.1	CDS	COG1674	642665	645088	+	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+	cds-QGY94545.1	CDS	COG0612	645075	646289	+	[R] Predicted Zn-dependent peptidases   
+	cds-QGY94546.1	CDS	COG0612	646286	647530	+	[R] Predicted Zn-dependent peptidases   
+	cds-QGY94547.1	CDS	COG1028	647544	648272	+	[IQR] Dehydrogenases with different specificities (related to
+366
+	cds-QGY94548.1	CDS	COG1426	648340	649419	+	[S] Uncharacterized protein conserved in bacteria 
+	pgsA	CDS	COG0558	649437	649997	+	[I] Phosphatidylglycerophosphate synthase    
+	recA	CDS	COG0468	650188	651288	+	[L] RecA/RadA recombinase    
+	rny	CDS	COG1418	651404	653041	+	[R] Predicted HD superfamily hydrolase  
+367
+	cds-QGY94552.1	CDS	COG0472	653146	654303	+	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+368
+	cds-QGY94553.1	CDS	COG1739	654338	655000	-	[S] Uncharacterized conserved protein   
+369
+	cds-QGY94554.1	CDS	COG4098	655046	656326	+	[L] Superfamily II DNA/RNA helicase required for
+	cds-QGY94555.1	CDS	COG1040	656323	657018	+	[R] Predicted amidophosphoribosyltransferases    
+	raiA	CDS	COG1544	657099	657644	+	[J] Ribosome-associated protein Y (PSrp-1)  
+	secA	CDS	COG0653	657786	660185	+	[U] Preprotein translocase subunit SecA (ATPase, RNA
+370
+	cds-QGY94558.1	CDS	NA	660250	660321	+	NA
+	cds-QGY94558.1_2	CDS	COG1186	660323	661366	+	[J] Protein chain release factor B 
+	cds-QGY94559.1	CDS	ROG3899	661375	661647	+	NA
+	cds-QGY94560.1	CDS	COG1493	661662	662630	+	[T] Serine kinase of the HPr protein,
+	cds-QGY94561.1	CDS	COG0682	662623	663462	+	[M] Prolipoprotein diacylglyceryltransferase    
+	cds-QGY94562.1	CDS	COG0240	663503	664522	+	[C] Glycerol-3-phosphate dehydrogenase    
+371
+	trxB	CDS	COG0492	664604	665542	+	[O] Thioredoxin reductase    
+372
+	cds-QGY94564.1	CDS	COG1109	665709	667433	+	[G] Phosphomannomutase     
+	uvrB	CDS	COG0556	667536	669581	+	[L] Helicase subunit of the DNA excision
+	uvrA	CDS	COG0178	669571	672411	+	[L] Excinuclease ATPase subunit   
+373
+	cds-QGY94567.1	CDS	COG3247	672484	673026	+	[S] Uncharacterized conserved protein   
+374
+	rapZ	CDS	COG1660	673120	674001	+	[R] Predicted P-loop-containing kinase   
+	cds-QGY94569.1	CDS	COG0391	674012	675055	+	[S] Uncharacterized conserved protein   
+	whiA	CDS	COG1481	675048	675983	+	[S] Uncharacterized protein conserved in bacteria 
+375
+	clpP	CDS	COG0740	676048	676632	-	[OU] Protease subunit of ATP-dependent Clp proteases
+376
+	cds-QGY94571.1	CDS	NA	676827	678455	+	NA
+377
+	cds-QGY94572.1	CDS	COG4619	678564	679202	+	[R] ABC-type uncharacterized transport system, ATPase component
+	fetB_2	CDS	COG0390	679199	679957	+	[R] ABC-type uncharacterized transport system, permease component
+378
+	cds-QGY94574.1	CDS	ROG1002	680204	680764	-	NA
+	cds-QGY94575.1	CDS	COG2814	680765	682237	-	[G] Arabinose efflux permease   
+379
+	cds-QGY94576.1	CDS	COG0789	682398	682835	+	[K] Predicted transcriptional regulators   
+380
+	cds-QGY94577.1	CDS	NA	682919	683704	+	NA
+381
+	cds-QGY94578.1	CDS	COG0531	683771	685204	-	[E] Amino acid transporters   
+382
+	cds-QGY94579.1	CDS	NA	685373	686905	+	NA
+383
+	rna-E6A57_03570	tRNA	NA	687001	687072	-	NA
+384
+	cds-QGY95759.1	CDS	COG2390	687320	688351	+	[K] Transcriptional regulator, contains sigma factor-related N-terminal
+	gap	CDS	COG0057	688404	689420	+	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+	cds-QGY94581.1	CDS	COG0126	689535	690746	+	[G] 3-phosphoglycerate kinase    
+	cds-QGY94582.1	CDS	COG0149	690771	691529	+	[G] Triosephosphate isomerase    
+385
+	cds-QGY94583.1	CDS	ROG6346	692016	692531	-	NA
+	cds-QGY94584.1	CDS	COG0561	692551	693426	-	[R] Predicted hydrolases of the HAD superfamily
+386
+	cds-QGY94585.1	CDS	COG0692	693494	694192	+	[L] Uracil DNA glycosylase   
+	pta	CDS	COG0280	694203	695192	+	[C] Phosphotransacetylase     
+	tsaE	CDS	COG0802	695192	695671	+	[R] Predicted ATPase or kinase  
+387
+	cds-QGY94588.1	CDS	COG0847	695709	696242	-	[L] DNA polymerase III, epsilon subunit and
+388
+	murB	CDS	COG0812	696338	697234	+	[M] UDP-N-acetylmuramate dehydrogenase    
+389
+	cds-QGY94590.1	CDS	COG3842	697301	698398	+	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+	cds-QGY94591.1	CDS	COG1176	698388	699200	+	[E] ABC-type spermidine/putrescine transport system, permease component
+	cds-QGY94592.1	CDS	COG1177	699197	700012	+	[E] ABC-type spermidine/putrescine transport system, permease component
+	cds-QGY94593.1	CDS	COG0687	700009	701082	+	[E] Spermidine/putrescine-binding periplasmic protein   
+	cds-QGY94594.1	CDS	COG1624	701121	701963	+	[S] Uncharacterized conserved protein   
+	cds-QGY94595.1	CDS	COG4856	701960	702919	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94596.1	CDS	COG1109	702942	704294	+	[G] Phosphomannomutase     
+	cds-QGY94597.1	CDS	COG0561	704395	705210	+	[R] Predicted hydrolases of the HAD superfamily
+	cds-QGY94598.1	CDS	COG3682	705241	705681	+	[K] Predicted transcriptional regulator   
+	cds-QGY94599.1	CDS	COG1055	705696	706412	+	[P] Na+/H+ antiporter NhaD and related arsenite
+	cds-QGY94600.1	CDS	COG0394	706412	706867	+	[T] Protein-tyrosine-phosphatase     
+390
+	cds-QGY94601.1	CDS	COG1929	706891	708036	-	[G] Glycerate kinase    
+391
+	cds-QGY94602.1	CDS	COG3711	708246	709079	+	[K] Transcriptional antiterminator    
+	cds-QGY94603.1	CDS	COG2190	709206	711227	+	[G] Phosphotransferase system IIA components  
+	cds-QGY94604.1	CDS	COG2723	711269	712744	+	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+392
+	cds-QGY94605.1	CDS	COG1073	712916	713866	+	[R] Hydrolases of the alpha/beta superfamily 
+393
+	cds-QGY94606.1	CDS	COG0531	713911	715536	-	[E] Amino acid transporters   
+394
+	cds-QGY94607.1	CDS	COG0199	715912	716097	+	[J] Ribosomal protein S14   
+	cds-QGY94608.1	CDS	COG0702	716057	716701	+	[MG] Predicted nucleoside-diphosphate-sugar epimerases   
+395
+	cds-QGY94609.1	CDS	ROG8293	716771	717292	+	NA
+396
+	cds-QGY94610.1	CDS	COG0217	717377	718105	+	[S] Uncharacterized conserved protein   
+397
+	cds-QGY94611.1	CDS	COG2804	718303	719277	+	[NU] Type II secretory pathway, ATPase PulE/Tfp
+	cds-QGY94612.1	CDS	ROG0877	719246	720247	+	NA
+	cds-QGY94613.1	CDS	COG4537	720308	720649	+	[U] Competence protein ComGC   
+	cds-QGY94614.1	CDS	COG4967	720624	721049	+	[NU] Tfp pilus assembly protein PilV 
+	cds-QGY94615.1	CDS	ROG4693	721046	721315	+	NA
+	cds-QGY94616.1	CDS	ROG5504	721269	721796	+	NA
+398
+	cds-QGY94617.1	CDS	COG0827	721991	722992	+	[L] Adenine-specific DNA methylase   
+	cds-QGY94618.1	CDS	COG0282	723037	724221	+	[C] Acetate kinase    
+399
+	cds-QGY95760.1	CDS	ROG2139	724822	725712	+	NA
+	cds-QGY94619.1	CDS	COG1168	725721	726884	+	[E] Bifunctional PLP-dependent enzyme with beta-cystathionase and
+400
+	manA	CDS	COG1482	726977	727939	+	[G] Phosphomannose isomerase    
+	cds-QGY94621.1	CDS	ROG6554	727975	728364	+	NA
+	cds-QGY94622.1	CDS	COG0745	728367	729089	+	[TK] Response regulators consisting of a CheY-like
+	cds-QGY94623.1	CDS	COG0642	729089	730543	+	[T] Signal transduction histidine kinase  
+401
+	cds-QGY94624.1	CDS	COG1368	730587	732767	-	[M] Phosphoglycerol transferase and related proteins, alkaline
+402
+	cds-QGY95761.1	CDS	COG4767	732910	733512	+	[V] Glycopeptide antibiotics resistance protein  
+403
+	cds-QGY94625.1	CDS	COG0166	733600	734937	+	[G] Glucose-6-phosphate isomerase    
+404
+	cds-QGY94626.1	CDS	COG2814	735056	736429	+	[G] Arabinose efflux permease   
+405
+	cds-QGY94627.1	CDS	COG1680	736538	737548	-	[V] Beta-lactamase class C and other penicillin
+406
+	rna-E6A57_03835	tRNA	NA	737630	737701	+	NA
+	rna-E6A57_03840	tRNA	NA	737707	737779	+	NA
+407
+	cds-QGY94628.1	CDS	COG0770	737857	739209	-	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+408
+	cds-QGY94629.1	CDS	COG1435	739345	739944	+	[F] Thymidine kinase    
+	cds-QGY94630.1	CDS	COG0216	739961	741049	+	[J] Protein chain release factor A 
+	prmC	CDS	COG2890	741042	741887	+	[J] Methylase of polypeptide chain release factors
+	cds-QGY94632.1	CDS	COG0009	741890	742894	+	[J] Putative translation factor (SUA5)  
+	cds-QGY94633.1	CDS	COG0035	742979	743608	+	[F] Uracil phosphoribosyltransferase    
+	atpB	CDS	COG0356	743731	744444	+	[C] F0F1-type ATP synthase, subunit a 
+	atpE	CDS	COG0636	744465	744689	+	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+	cds-QGY94636.1	CDS	COG0711	744746	745252	+	[C] F0F1-type ATP synthase, subunit b 
+	cds-QGY94637.1	CDS	COG0712	745252	745800	+	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+	cds-QGY94638.1	CDS	COG0056	745815	747326	+	[C] F0F1-type ATP synthase, alpha subunit 
+	cds-QGY94639.1	CDS	COG0224	747337	748299	+	[C] F0F1-type ATP synthase, gamma subunit 
+	atpD	CDS	COG0055	748322	749761	+	[C] F0F1-type ATP synthase, beta subunit 
+	cds-QGY94641.1	CDS	COG0355	749773	750213	+	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+409
+	cds-QGY94642.1	CDS	COG4836	750280	750510	+	[S] Predicted membrane protein   
+410
+	cds-QGY94643.1	CDS	COG1077	750594	751583	+	[D] Actin-like ATPase involved in cell morphogenesis
+	yidD	CDS	COG0759	751597	751890	+	[S] Uncharacterized conserved protein   
+	cds-QGY94645.1	CDS	NA	751899	752126	+	NA
+	cds-QGY94646.1	CDS	COG0772	752148	753341	+	[D] Bacterial cell division membrane protein 
+411
+	cds-QGY94647.1	CDS	ROG7438	753447	754421	+	NA
+	cds-QGY94648.1	CDS	ROG5354	754437	755408	+	NA
+412
+	cds-QGY94649.1	CDS	COG1472	755438	756601	-	[G] Beta-glucosidase-related glycosidases    
+413
+	cds-QGY94650.1	CDS	ROG5354	757088	758002	+	NA
+	cds-QGY94651.1	CDS	ROG5354	758021	759775	+	NA
+414
+	cds-QGY94652.1	CDS	NA	759878	761584	+	NA
+415
+	cds-QGY95762.1	CDS	ROG3888	761759	762958	+	NA
+416
+	cds-QGY94653.1	CDS	COG0589	763092	763556	-	[T] Universal stress protein UspA and related
+417
+	cds-QGY94654.1	CDS	COG1277	763617	763898	-	[R] ABC-type transport system involved in multi-copper
+418
+	cds-QGY94655.1	CDS	COG2256	764209	765516	-	[L] ATPase related to the helicase subunit
+	cds-QGY94656.1	CDS	COG5506	765517	765984	-	[S] Uncharacterized conserved protein   
+419
+	rpsD	CDS	COG0522	766076	766687	-	[J] Ribosomal protein S4 and related proteins
+420
+	ezrA	CDS	COG4477	766972	768684	+	[D] Negative regulator of septation ring formation
+421
+	cds-QGY94659.1	CDS	COG1104	768772	769932	+	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+	thiI	CDS	COG0301	769932	771149	+	[H] Thiamine biosynthesis ATP pyrophosphatase  
+422
+	cds-QGY94661.1	CDS	NA	771548	772336	+	NA
+423
+	cds-QGY94662.1	CDS	ROG3888	772426	772941	+	NA
+424
+	cds-QGY94663.1	CDS	COG3600	773194	773709	+	[S] Uncharacterized phage-associated protein   
+	cds-QGY94664.1	CDS	NA	773721	774473	+	NA
+425
+	cds-QGY94665.1	CDS	ROG2822	775133	775888	-	NA
+426
+	cds-QGY94666.1	CDS	NA	775998	776282	-	NA
+427
+	cds-QGY94667.1	CDS	COG0328	776348	776791	-	[L] Ribonuclease HI    
+428
+	cds-QGY94668.1	CDS	COG3328	777009	778187	+	[L] Transposase and inactivated derivatives  
+429
+	cds-QGY94669.1	CDS	COG1396	778448	779245	+	[K] Predicted transcriptional regulators   
+	cds-QGY94670.1	CDS	ROG3861	779299	780111	+	NA
+430
+	cds-E6A57_04065	CDS	ROG3888	780350	781207	+	NA
+431
+	cds-QGY94671.1	CDS	COG2865	781334	782590	+	[K] Predicted transcriptional regulator containing an HTH
+432
+	cds-QGY94672.1	CDS	COG1187	782724	783428	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+433
+	cds-QGY94673.1	CDS	ROG5716	783529	784386	+	NA
+434
+	cds-QGY94674.1	CDS	COG2246	784571	784990	+	[S] Predicted membrane protein   
+	cds-QGY94675.1	CDS	COG0463	784990	785919	+	[M] Glycosyltransferases involved in cell wall biogenesis
+435
+	cds-E6A57_04095	CDS	ROG4117	786067	786579	+	NA
+	cds-QGY94676.1	CDS	NA	786576	786851	+	NA
+	cds-QGY94677.1	CDS	ROG5716	786885	787115	+	NA
+436
+	cds-QGY94678.1	CDS	COG0474	787321	789936	+	[P] Cation transport ATPase   
+437
+	cds-QGY94679.1	CDS	NA	790029	790958	+	NA
+	cds-QGY94680.1	CDS	ROG5317	790962	791306	+	NA
+438
+	cds-QGY94681.1	CDS	COG4295	791367	792134	-	[S] Uncharacterized protein conserved in bacteria 
+439
+	cds-QGY94682.1	CDS	COG2189	792282	794183	+	[L] Adenine specific DNA methylase Mod 
+	cds-QGY94683.1	CDS	COG3587	794188	797163	+	[V] Restriction endonuclease    
+440
+	cds-QGY94684.1	CDS	COG2207	797378	798265	-	[K] AraC-type DNA-binding domain-containing proteins  
+441
+	cds-QGY94685.1	CDS	COG1053	798396	799907	+	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+	cds-QGY94686.1	CDS	COG3104	799891	801090	+	[E] Dipeptide/tripeptide permease    
+442
+	cds-QGY94687.1	CDS	COG4679	801305	801670	+	[S] Phage-related protein    
+	cds-QGY94688.1	CDS	COG1396	801670	801939	+	[K] Predicted transcriptional regulators   
+	cds-QGY94689.1	CDS	NA	801968	802654	+	NA
+443
+	cds-QGY94690.1	CDS	COG0525	803033	805672	+	[J] Valyl-tRNA synthetase    
+	cds-QGY94691.1	CDS	COG0285	805673	806956	+	[H] Folylpolyglutamate synthase    
+	cds-QGY94692.1	CDS	COG0637	806934	807611	+	[R] Predicted phosphatase/phosphohexomutase    
+	cds-QGY94693.1	CDS	COG2003	807647	808279	+	[L] DNA repair proteins   
+	cds-QGY94694.1	CDS	COG1077	808365	809369	+	[D] Actin-like ATPase involved in cell morphogenesis
+	mreC	CDS	COG1792	809415	810266	+	[M] Cell shape-determining protein   
+	mreD	CDS	ROG0238	810266	810805	+	NA
+444
+	cds-QGY94697.1	CDS	NA	810847	810972	-	NA
+445
+	cds-QGY94698.1	CDS	ROG3078	811066	811395	+	NA
+446
+	cds-QGY94699.1	CDS	COG2001	811566	811997	+	[S] Uncharacterized protein conserved in bacteria 
+	rsmH	CDS	COG0275	812003	812950	+	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+	ftsL	CDS	ROG2031	812964	813326	+	NA
+	cds-QGY94702.1	CDS	COG0768	813326	815485	+	[M] Cell division protein FtsI/penicillin-binding protein 2
+	cds-QGY94703.1	CDS	COG0472	815492	816460	+	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+	cds-QGY94704.1	CDS	COG0771	816468	817847	+	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+	murG	CDS	COG0707	817849	818955	+	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+	cds-QGY94706.1	CDS	COG1589	818972	819829	+	[M] Cell division septal protein  
+	ftsA	CDS	COG0849	819892	821253	+	[D] Actin-like ATPase involved in cell division
+	ftsZ	CDS	COG0206	821268	822611	+	[D] Cell division GTPase   
+	cds-QGY94709.1	CDS	COG1799	822629	823066	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94710.1	CDS	COG0762	823066	823368	+	[S] Predicted integral membrane protein  
+	cds-QGY94711.1	CDS	COG2302	823368	824168	+	[S] Uncharacterized conserved protein, contains S4-like domain
+	cds-QGY94712.1	CDS	COG3599	824144	824968	+	[D] Cell division initiation protein  
+	ileS	CDS	COG0060	825196	827982	+	[J] Isoleucyl-tRNA synthetase    
+	cds-QGY94714.1	CDS	COG1278	827982	828185	+	[K] Cold shock proteins   
+	cds-QGY94715.1	CDS	COG0494	828201	828770	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	cds-QGY94716.1	CDS	COG3548	828773	829087	+	[S] Predicted integral membrane protein  
+	cds-QGY94717.1	CDS	COG0775	829106	829801	+	[F] Nucleoside phosphorylase    
+	cds-QGY94718.1	CDS	COG1104	829804	830961	+	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+	cds-QGY94719.1	CDS	ROG0499	831009	831350	+	NA
+	mnmA	CDS	COG0482	831358	832485	+	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+447
+	cds-QGY94721.1	CDS	COG0406	832578	833237	+	[G] Fructose-2,6-bisphosphatase     
+	cds-QGY94722.1	CDS	COG0457	833237	833887	+	[R] FOG: TPR repeat   
+	cds-QGY94723.1	CDS	COG0507	833880	836249	+	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+448
+	cds-QGY94724.1	CDS	ROG1271	836356	837993	+	NA
+449
+	cds-QGY94725.1	CDS	COG1597	838019	838966	-	[IR] Sphingosine kinase and enzymes related to
+	cds-QGY94726.1	CDS	COG0595	839013	840692	-	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+	cds-QGY94727.1	CDS	COG5503	840699	840920	-	[S] Uncharacterized conserved small protein  
+450
+	cds-QGY94728.1	CDS	NA	841044	841250	-	NA
+	cds-QGY94729.1	CDS	COG0242	841251	841805	-	[J] N-formylmethionyl-tRNA deformylase    
+451
+	typA	CDS	COG1217	842058	843902	+	[T] Predicted membrane GTPase involved in stress
+452
+	cds-QGY94731.1	CDS	COG0772	844002	845186	+	[D] Bacterial cell division membrane protein 
+	cds-QGY94732.1	CDS	COG4471	845183	845527	+	[S] Uncharacterized protein conserved in bacteria 
+	rsmD	CDS	COG0742	845524	846072	+	[L] N6-adenine-specific methylase    
+	coaD	CDS	COG0669	846075	846560	+	[H] Phosphopantetheine adenylyltransferase    
+	cds-QGY94735.1	CDS	COG3480	846553	847596	+	[T] Predicted secreted protein containing a PDZ
+453
+	cds-QGY94736.1	CDS	COG1555	847672	848361	+	[L] DNA uptake protein and related DNA-binding
+	cds-QGY94737.1	CDS	COG2333	848330	850618	+	[R] Predicted hydrolase (metallo-beta-lactamase superfamily)  
+	holA	CDS	COG1466	850615	851601	+	[L] DNA polymerase III, delta subunit 
+454
+	cds-QGY94739.1	CDS	COG0268	851665	851922	-	[J] Ribosomal protein S20   
+455
+	rpsO	CDS	COG0184	852124	852393	+	[J] Ribosomal protein S15P/S13E   
+	cds-QGY94741.1	CDS	COG0595	852551	854341	+	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+	cds-QGY94742.1	CDS	ROG1882	854344	855177	+	NA
+456
+	tuf	CDS	COG0050	855367	856557	+	[J] GTPases - translation elongation factors 
+	cds-QGY94744.1	CDS	COG0544	856703	858034	+	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+	clpX	CDS	COG1219	858163	859428	+	[O] ATP-dependent protease Clp, ATPase subunit 
+	cds-QGY94746.1	CDS	COG0218	859418	860008	+	[R] Predicted GTPase    
+457
+	yjeM	CDS	COG0531	860130	861337	+	[E] Amino acid transporters   
+458
+	cds-QGY94747.1	CDS	COG0253	861381	862385	-	[E] Diaminopimelate epimerase    
+	cds-QGY94748.1	CDS	COG0527	862394	863749	-	[E] Aspartokinases     
+459
+	lysA	CDS	COG0019	864208	865518	+	[E] Diaminopimelate decarboxylase    
+	dapD	CDS	COG2171	865533	866240	+	[E] Tetrahydrodipicolinate N-succinyltransferase    
+	cds-QGY94751.1	CDS	COG1473	866242	867396	+	[R] Metal-dependent amidase/aminoacylase/carboxypeptidase    
+	dapA	CDS	COG0329	867398	868324	+	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+	cds-QGY94753.1	CDS	COG0289	868331	869110	+	[E] Dihydrodipicolinate reductase    
+	cds-QGY94754.1	CDS	COG0436	869122	870297	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+	cds-QGY94755.1	CDS	COG0136	870297	871355	+	[E] Aspartate-semialdehyde dehydrogenase    
+460
+	cds-QGY95763.1	CDS	COG1680	871518	872561	+	[V] Beta-lactamase class C and other penicillin
+461
+	cds-QGY94756.1	CDS	ROG1487	872604	874211	-	NA
+462
+	cds-QGY94757.1	CDS	COG3976	874548	874814	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94758.1	CDS	ROG6085	874824	875339	+	NA
+463
+	cds-QGY94759.1	CDS	COG1957	875365	876291	-	[F] Inosine-uridine nucleoside N-ribohydrolase   
+464
+	cds-QGY94760.1	CDS	COG4912	876423	877079	+	[L] Predicted DNA alkylation repair enzyme 
+465
+	cds-QGY94761.1	CDS	COG2723	877144	878592	-	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+	cds-QGY94762.1	CDS	COG2188	878679	879383	-	[K] Transcriptional regulators    
+466
+	cds-QGY94763.1	CDS	COG1440	879749	880087	+	[G] Phosphotransferase system cellobiose-specific component IIB 
+	cds-QGY94764.1	CDS	COG1447	880128	880499	+	[G] Phosphotransferase system cellobiose-specific component IIA 
+467
+	cds-QGY94765.1	CDS	ROG2833	880669	881079	-	NA
+468
+	cds-QGY94766.1	CDS	COG2723	881182	882663	-	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+	cds-QGY94767.1	CDS	COG2188	882673	883395	-	[K] Transcriptional regulators    
+469
+	cds-QGY94768.1	CDS	NA	883517	883759	-	NA
+	cds-QGY94769.1	CDS	COG1455	883778	885193	-	[G] Phosphotransferase system cellobiose-specific component IIC 
+	cds-QGY94770.1	CDS	COG2723	885193	886575	-	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+	cds-QGY94771.1	CDS	COG1940	886744	887604	-	[KG] Transcriptional regulator/sugar kinase   
+470
+	cds-E6A57_04590	CDS	NA	887723	888204	+	NA
+471
+	cds-QGY94772.1	CDS	ROG3888	888311	888958	+	NA
+472
+	cds-QGY94773.1	CDS	COG0148	889038	890324	-	[G] Enolase     
+473
+	cds-QGY94774.1	CDS	COG1307	890539	891372	+	[S] Uncharacterized protein conserved in bacteria 
+474
+	cds-QGY94775.1	CDS	COG0671	891412	891987	-	[I] Membrane-associated phospholipid phosphatase   
+475
+	cds-QGY94776.1	CDS	COG3049	892091	893068	-	[M] Penicillin V acylase and related amidases
+476
+	rna-E6A57_04620	tRNA	NA	893196	893284	-	NA
+477
+	cds-QGY94777.1	CDS	COG2855	893465	894496	+	[S] Predicted membrane protein   
+478
+	cds-QGY94778.1	CDS	COG0783	894624	895091	+	[P] DNA-binding ferritin-like protein (oxidative damage protectant)
+479
+	cds-QGY94779.1	CDS	COG0454	895184	895396	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	cds-E6A57_04640	CDS	COG2081	895362	896343	+	[R] Predicted flavoproteins    
+480
+	cds-QGY95764.1	CDS	ROG1688	896226	896411	-	NA
+481
+	cds-QGY94780.1	CDS	COG1011	896632	897228	+	[R] Predicted hydrolase (HAD superfamily)  
+482
+	cds-QGY94781.1	CDS	ROG5437	897388	898134	+	NA
+483
+	cds-QGY95765.1	CDS	COG0454	898905	899372	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+484
+	cds-QGY94782.1	CDS	COG0534	899552	900901	+	[V] Na+-driven multidrug efflux pump  
+485
+	cds-E6A57_04670	CDS	ROG0004	901268	902125	+	NA
+	cds-QGY94783.1	CDS	COG4644	902149	902967	+	[L] Transposase and inactivated derivatives, TnpA family
+486
+	cds-QGY94784.1	CDS	NA	903084	903935	+	NA
+	cds-QGY94785.1	CDS	ROG6978	903940	904083	+	NA
+	cds-QGY94786.1	CDS	COG1215	904076	905383	+	[M] Glycosyltransferases, probably involved in cell wall
+	cds-QGY94787.1	CDS	ROG5571	905383	906480	+	NA
+487
+	cds-E6A57_04700	CDS	COG2826	906847	907269	+	[L] Transposase and inactivated derivatives, IS30 family
+	cds-E6A57_04705	CDS	NA	907265	907411	+	NA
+488
+	cds-E6A57_04710	CDS	COG3344	907752	908271	+	[L] Retron-type reverse transcriptase   
+489
+	cds-QGY94788.1	CDS	COG0054	908349	908813	-	[H] Riboflavin synthase beta-chain   
+	ribA	CDS	COG0807	908828	910006	-	[H] GTP cyclohydrolase II   
+	cds-QGY94790.1	CDS	COG0307	910008	910604	-	[H] Riboflavin synthase alpha chain  
+	ribD	CDS	COG0117	910597	911655	-	[H] Pyrimidine deaminase    
+490
+	cds-QGY94792.1	CDS	COG0300	912082	912876	+	[R] Short-chain dehydrogenases of various substrate specificities
+491
+	cds-QGY94793.1	CDS	ROG2030	912940	913353	-	NA
+	cds-QGY94794.1	CDS	COG3279	913355	913792	-	[KT] Response regulator of the LytR/AlgR family
+492
+	cds-QGY94795.1	CDS	COG0583	913951	914814	-	[K] Transcriptional regulator    
+493
+	cds-QGY95766.1	CDS	COG4814	915116	915520	+	[R] Uncharacterized protein with an alpha/beta hydrolase
+494
+	abc-f	CDS	COG0488	915780	917291	+	[R] ATPase components of ABC transporters with
+495
+	cds-QGY94797.1	CDS	COG3548	917594	918277	-	[S] Predicted integral membrane protein  
+496
+	cds-QGY94798.1	CDS	COG4292	918440	918901	+	[S] Predicted membrane protein   
+	cds-QGY94799.1	CDS	COG1051	918888	919511	+	[F] ADP-ribose pyrophosphatase    
+497
+	brnQ	CDS	COG1114	919895	921271	+	[E] Branched-chain amino acid permeases  
+498
+	cds-QGY95767.1	CDS	ROG0016	922582	923127	+	NA
+499
+	cds-QGY94801.1	CDS	COG2077	923184	923678	-	[O] Peroxiredoxin     
+500
+	cds-QGY94802.1	CDS	COG2826	923814	924863	-	[L] Transposase and inactivated derivatives, IS30 family
+501
+	cds-E6A57_04800	CDS	NA	925284	925568	-	NA
+502
+	cds-E6A57_04805	CDS	NA	925552	926298	+	NA
+503
+	cds-QGY94803.1	CDS	COG2141	926391	927473	+	[C] Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and
+	cds-QGY94804.1	CDS	COG0454	927563	928054	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	cds-QGY94805.1	CDS	ROG8476	928056	928712	+	NA
+504
+	cds-QGY94806.1	CDS	NA	929152	929391	+	NA
+505
+	cds-E6A57_04830	CDS	COG4987	929613	931207	+	[CO] ABC-type transport system involved in cytochrome
+	cds-QGY94807.1	CDS	COG4988	931204	932787	+	[CO] ABC-type transport system involved in cytochrome
+506
+	cds-QGY94808.1	CDS	COG1113	932917	934308	+	[E] Gamma-aminobutyrate permease and related permeases 
+	cds-QGY94809.1	CDS	COG0207	934424	935380	+	[F] Thymidylate synthase    
+	cds-QGY94810.1	CDS	COG0262	935390	935899	+	[H] Dihydrofolate reductase    
+	cds-QGY94811.1	CDS	COG2217	935985	938387	+	[P] Cation transport ATPase   
+507
+	cds-QGY94812.1	CDS	ROG0661	938429	939370	-	NA
+508
+	cds-QGY94813.1	CDS	COG1464	939789	940643	+	[P] ABC-type metal ion transport system, periplasmic
+	cds-QGY94814.1	CDS	COG1135	940656	941720	+	[P] ABC-type metal ion transport system, ATPase
+	cds-QGY94815.1	CDS	COG2011	941713	942414	+	[P] ABC-type metal ion transport system, permease
+509
+	cds-QGY94816.1	CDS	COG0114	942545	943948	+	[C] Fumarase     
+	cds-QGY94817.1	CDS	COG1053	943961	945337	+	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+	cds-QGY94818.1	CDS	COG0039	945534	946463	+	[C] Malate/lactate dehydrogenases    
+510
+	cds-QGY94819.1	CDS	COG3579	946599	947915	+	[E] Aminopeptidase C    
+511
+	cds-QGY94820.1	CDS	COG0684	948168	948866	+	[H] Demethylmenaquinone methyltransferase    
+	cds-QGY94821.1	CDS	COG0471	948883	950352	+	[P] Di- and tricarboxylate transporters  
+512
+	cds-QGY94822.1	CDS	COG0596	950434	951225	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+513
+	citC	CDS	COG3053	951306	952361	+	[C] Citrate lyase synthetase   
+	citD	CDS	COG3052	952351	952644	+	[C] Citrate lyase, gamma subunit  
+	citE	CDS	COG2301	952645	953559	+	[G] Citrate lyase beta subunit  
+	citF	CDS	COG3051	953549	955090	+	[C] Citrate lyase, alpha subunit  
+514
+	cds-QGY94827.1	CDS	COG2707	955426	955881	+	[S] Predicted membrane protein   
+515
+	cds-QGY94828.1	CDS	COG0619	956090	956923	-	[P] ABC-type cobalt transport system, permease component
+	cds-QGY94829.1	CDS	COG1122	956916	958625	-	[P] ABC-type cobalt transport system, ATPase component
+	cds-QGY94830.1	CDS	COG4720	958629	959186	-	[S] Predicted membrane protein   
+516
+	cds-QGY94831.1	CDS	ROG3265	959344	959724	+	NA
+517
+	cds-QGY94832.1	CDS	NA	960025	960351	-	NA
+	cds-QGY94833.1	CDS	COG2390	960399	961337	-	[K] Transcriptional regulator, contains sigma factor-related N-terminal
+518
+	cds-QGY94834.1	CDS	COG2966	961501	962847	+	[S] Uncharacterized conserved protein   
+519
+	cds-QGY94835.1	CDS	COG2606	963242	963751	-	[S] Uncharacterized conserved protein   
+520
+	cds-QGY94836.1	CDS	COG2264	963812	964756	+	[J] Ribosomal protein L11 methylase  
+	cds-QGY94837.1	CDS	NA	964812	965174	+	NA
+	cds-QGY94838.1	CDS	COG0317	965189	967429	+	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+	cds-QGY94839.1	CDS	COG1490	967429	967866	+	[J] D-Tyr-tRNAtyr deacylase    
+521
+	cds-QGY94840.1	CDS	COG0124	968162	969448	+	[J] Histidyl-tRNA synthetase    
+	aspS	CDS	COG0173	969463	971307	+	[J] Aspartyl-tRNA synthetase    
+522
+	cds-QGY94841.1	CDS	COG0436	971373	972557	-	[E] Aspartate/tyrosine/aromatic aminotransferase    
+523
+	cds-QGY95769.1	CDS	NA	972676	972933	-	NA
+524
+	coaBC	CDS	COG0452	973037	974227	+	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+525
+	cds-QGY94843.1	CDS	COG0656	974741	975577	+	[R] Aldo/keto reductases, related to diketogulonate reductase
+	cds-QGY94844.1	CDS	COG0561	975626	976438	+	[R] Predicted hydrolases of the HAD superfamily
+526
+	cds-QGY94845.1	CDS	COG1052	976505	977470	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+527
+	cds-QGY94846.1	CDS	COG0531	977537	978922	-	[E] Amino acid transporters   
+528
+	cds-QGY94847.1	CDS	COG0586	979020	979634	-	[S] Uncharacterized membrane-associated protein   
+529
+	uvrC	CDS	COG0322	979774	981576	+	[L] Nuclease subunit of the excinuclease complex
+530
+	obgE	CDS	COG0536	981655	982959	+	[R] Predicted GTPase    
+	cds-QGY94850.1	CDS	COG1835	982975	984891	+	[I] Predicted acyltransferases    
+	rnz	CDS	COG1234	984909	985847	+	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+	cds-QGY94852.1	CDS	COG0300	985844	986638	+	[R] Short-chain dehydrogenases of various substrate specificities
+	cds-QGY94853.1	CDS	ROG2137	986645	986893	+	NA
+531
+	rpmF	CDS	COG0333	986996	987184	+	[J] Ribosomal protein L32   
+	cds-QGY94855.1	CDS	COG0737	987244	988800	+	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+532
+	cds-QGY94856.1	CDS	ROG2858	988862	989080	-	NA
+533
+	cds-QGY94857.1	CDS	COG0587	989196	992303	+	[L] DNA polymerase III, alpha subunit 
+	pfkA	CDS	COG0205	992471	993433	+	[G] 6-phosphofructokinase     
+	pyk	CDS	COG0469	993467	995236	+	[G] Pyruvate kinase    
+534
+	cds-QGY94860.1	CDS	COG2996	995363	996256	+	[S] Uncharacterized protein conserved in bacteria 
+	xerD	CDS	COG4974	996243	997148	+	[L] Site-specific recombinase XerD   
+	cds-QGY94862.1	CDS	ROG0764	997157	997519	+	NA
+	cds-QGY94863.1	CDS	COG1354	997506	998246	+	[S] Uncharacterized conserved protein   
+	scpB	CDS	COG1386	998236	998826	+	[K] Predicted transcriptional regulator containing the HTH
+	cds-QGY94865.1	CDS	COG1187	998830	999546	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+535
+	cds-QGY94866.1	CDS	COG3601	999764	1000453	+	[S] Predicted membrane protein   
+536
+	cds-QGY94867.1	CDS	COG1388	1000555	1001016	+	[M] FOG: LysM repeat   
+	cds-QGY94868.1	CDS	COG0283	1001068	1001739	+	[F] Cytidylate kinase    
+	rpsA	CDS	COG0539	1001812	1003020	+	[J] Ribosomal protein S1   
+	cds-QGY94870.1	CDS	COG1160	1003091	1004398	+	[R] Predicted GTPases    
+	cds-QGY94871.1	CDS	COG0776	1004557	1004832	+	[L] Bacterial nucleoid DNA-binding protein  
+	cds-QGY94872.1	CDS	COG0457	1004913	1006160	+	[R] FOG: TPR repeat   
+537
+	cls_2	CDS	COG1502	1006201	1007691	-	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+538
+	cds-QGY94874.1	CDS	COG4988	1007853	1009433	-	[CO] ABC-type transport system involved in cytochrome
+539
+	cds-QGY94875.1	CDS	COG4218	1009572	1009907	+	[H] Tetrahydromethanopterin S-methyltransferase, subunit F  
+540
+	cds-QGY94876.1	CDS	COG1670	1009960	1010499	-	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+	cds-QGY94877.1	CDS	ROG4343	1010503	1010961	-	NA
+541
+	cds-QGY94878.1	CDS	ROG0754	1011119	1011928	+	NA
+	cds-QGY94879.1	CDS	NA	1011940	1012242	+	NA
+	cds-QGY95770.1	CDS	ROG7510	1012235	1012591	+	NA
+	cds-QGY94880.1	CDS	COG0531	1012592	1012798	+	[E] Amino acid transporters   
+	cds-QGY94881.1	CDS	COG2365	1012811	1013599	+	[T] Protein tyrosine/serine phosphatase   
+542
+	glsA	CDS	COG2066	1013713	1014633	+	[E] Glutaminase     
+	cds-QGY94883.1	CDS	NA	1014683	1016065	+	NA
+543
+	cds-QGY94884.1	CDS	COG1670	1016322	1016843	+	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+	cds-QGY94885.1	CDS	COG0596	1016883	1017665	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	cds-QGY94886.1	CDS	ROG2472	1017685	1018155	+	NA
+	cds-QGY94887.1	CDS	ROG7507	1018079	1018861	+	NA
+	cds-QGY94888.1	CDS	COG0295	1018851	1019252	+	[F] Cytidine deaminase    
+	cds-QGY94889.1	CDS	COG1478	1019249	1019962	+	[S] Uncharacterized conserved protein   
+	cds-QGY95771.1	CDS	ROG1576	1019988	1020488	+	NA
+	cds-QGY94890.1	CDS	ROG2351	1020538	1021299	+	NA
+	cds-QGY94891.1	CDS	COG0813	1021331	1022095	+	[F] Purine-nucleoside phosphorylase    
+544
+	cds-QGY94892.1	CDS	COG2746	1022137	1022952	-	[V] Aminoglycoside N3'-acetyltransferase    
+545
+	cds-QGY94893.1	CDS	COG0531	1023238	1024548	-	[E] Amino acid transporters   
+546
+	cds-QGY94894.1	CDS	NA	1024774	1025274	+	NA
+547
+	cds-QGY94895.1	CDS	COG1284	1025318	1026202	-	[S] Uncharacterized conserved protein   
+548
+	cds-QGY94896.1	CDS	COG0617	1026291	1027490	+	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+549
+	cds-QGY94897.1	CDS	COG1272	1027527	1028192	-	[R] Predicted membrane protein, hemolysin III homolog
+550
+	cds-QGY94898.1	CDS	COG1307	1028306	1029157	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94899.1	CDS	COG4479	1029160	1029390	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-E6A57_05320	CDS	COG0025	1029439	1030905	+	[P] NhaP-type Na+/H+ and K+/H+ antiporters 
+	ylqF	CDS	COG1161	1030926	1031765	+	[R] Predicted GTPases    
+	cds-QGY94901.1	CDS	COG0164	1031762	1032514	+	[L] Ribonuclease HII    
+	dprA	CDS	COG0758	1032576	1033424	+	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+	topA	CDS	COG0550	1033494	1035605	+	[L] Topoisomerase IA    
+	cds-QGY94904.1	CDS	COG1206	1035628	1036944	+	[J] NAD(FAD)-utilizing enzyme possibly involved in translation
+	cds-QGY94905.1	CDS	COG4974	1036944	1037852	+	[L] Site-specific recombinase XerD   
+	hslV	CDS	COG5405	1037861	1038385	+	[O] ATP-dependent protease HslVU (ClpYQ), peptidase subunit
+	hslU	CDS	COG1220	1038397	1039794	+	[O] ATP-dependent protease HslVU (ClpYQ), ATPase subunit
+551
+	cds-QGY94908.1	CDS	ROG5896	1040007	1040903	+	NA
+	cds-E6A57_05370	CDS	NA	1040921	1041647	+	NA
+552
+	cds-QGY94909.1	CDS	ROG7992	1041935	1042627	+	NA
+553
+	cds-QGY94910.1	CDS	NA	1042724	1043539	-	NA
+554
+	cds-QGY94911.1	CDS	COG0239	1043804	1044202	+	[D] Integral membrane protein possibly involved in
+	crcB	CDS	COG0239	1044199	1044576	+	[D] Integral membrane protein possibly involved in
+	cds-E6A57_05395	CDS	COG2040	1044587	1044817	+	[E] Homocysteine/selenocysteine methylase (S-methylmethionine-dependent)   
+	cds-QGY94913.1	CDS	COG0833	1044811	1045587	+	[E] Amino acid transporters   
+555
+	pepV	CDS	COG0624	1045689	1047095	-	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+556
+	cds-QGY94915.1	CDS	COG5015	1047282	1047788	+	[S] Uncharacterized conserved protein   
+557
+	cds-QGY94916.1	CDS	COG0531	1047836	1049308	-	[E] Amino acid transporters   
+558
+	cds-QGY94917.1	CDS	COG1982	1049541	1051628	+	[E] Arginine/lysine/ornithine decarboxylases    
+	cds-QGY94918.1	CDS	COG4100	1051639	1052898	+	[P] Cystathionine beta-lyase family protein involved in
+559
+	recQ	CDS	COG0514	1053018	1054787	+	[L] Superfamily II DNA helicase  
+560
+	cds-QGY94920.1	CDS	COG0716	1054868	1055320	+	[C] Flavodoxins     
+561
+	cds-QGY94921.1	CDS	ROG0004	1055629	1056456	-	NA
+562
+	cds-QGY94922.1	CDS	ROG3888	1056631	1057224	+	NA
+563
+	cds-QGY94923.1	CDS	NA	1057248	1058264	-	NA
+	cds-QGY94924.1	CDS	ROG0004	1058289	1059146	-	NA
+564
+	cds-E6A57_05460	CDS	ROG2150	1059209	1060014	+	NA
+565
+	cds-QGY94925.1	CDS	COG0178	1060219	1062732	+	[L] Excinuclease ATPase subunit   
+566
+	mmuM	CDS	COG2040	1062883	1063872	+	[E] Homocysteine/selenocysteine methylase (S-methylmethionine-dependent)   
+567
+	cds-QGY94927.1	CDS	COG2826	1063958	1065004	-	[L] Transposase and inactivated derivatives, IS30 family
+568
+	cds-QGY94928.1	CDS	NA	1065030	1065302	+	NA
+569
+	cds-E6A57_05485	CDS	NA	1065334	1065881	-	NA
+570
+	cds-QGY94929.1	CDS	ROG2592	1065977	1066426	+	NA
+	cds-QGY94930.1	CDS	COG0110	1066443	1067057	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+571
+	cds-QGY95772.1	CDS	COG1680	1067203	1068309	+	[V] Beta-lactamase class C and other penicillin
+572
+	cds-QGY95773.1	CDS	COG2240	1068375	1069205	+	[H] Pyridoxal/pyridoxine/pyridoxamine kinase    
+	cds-QGY94931.1	CDS	ROG3191	1069208	1069774	+	NA
+573
+	cds-QGY94932.1	CDS	ROG2219	1069849	1071054	+	NA
+574
+	cds-QGY94933.1	CDS	COG0454	1071501	1071956	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	pepT	CDS	COG2195	1071969	1073252	+	[E] Di- and tripeptidases   
+575
+	cds-QGY94935.1	CDS	COG2256	1073605	1074867	-	[L] ATPase related to the helicase subunit
+576
+	cds-QGY94936.1	CDS	COG1393	1075007	1075408	+	[P] Arsenate reductase and related proteins, glutaredoxin
+577
+	cds-E6A57_05540	CDS	COG0366	1075639	1076979	+	[G] Glycosidases     
+578
+	cds-QGY94937.1	CDS	NA	1077157	1077594	+	NA
+579
+	cds-QGY94938.1	CDS	COG1653	1077862	1079139	-	[G] ABC-type sugar transport system, periplasmic component
+580
+	cds-QGY94939.1	CDS	COG3576	1079501	1079866	+	[R] Predicted flavin-nucleotide-binding protein structurally related to
+581
+	cds-QGY94940.1	CDS	COG1409	1079970	1081196	+	[R] Predicted phosphohydrolases    
+582
+	cds-QGY94941.1	CDS	NA	1081763	1081921	+	NA
+583
+	cds-QGY94942.1	CDS	COG1266	1082287	1083075	+	[R] Predicted metal-dependent membrane protease  
+584
+	cds-QGY94943.1	CDS	COG0610	1083248	1086346	+	[V] Type I site-specific restriction-modification system, R
+	cds-QGY94944.1	CDS	COG0286	1086359	1087999	+	[V] Type I restriction-modification system methyltransferase subunit
+	cds-QGY94945.1	CDS	NA	1087992	1089218	+	NA
+585
+	cds-QGY94946.1	CDS	COG0582	1089258	1090190	-	[L] Integrase     
+586
+	cds-QGY94947.1	CDS	COG3328	1090606	1091784	-	[L] Transposase and inactivated derivatives  
+	cds-QGY95774.1	CDS	COG0732	1091859	1092752	-	[V] Restriction endonuclease S subunits  
+587
+	cds-QGY94948.1	CDS	COG1715	1092817	1093734	+	[V] Restriction endonuclease    
+	cds-QGY94949.1	CDS	ROG2406	1093757	1094983	+	NA
+588
+	cds-QGY94950.1	CDS	NA	1095057	1095305	+	NA
+589
+	cds-QGY94951.1	CDS	NA	1095369	1095695	+	NA
+590
+	cds-QGY94952.1	CDS	NA	1095813	1096502	+	NA
+	cds-QGY94953.1	CDS	COG0790	1096518	1097093	+	[R] FOG: TPR repeat, SEL1 subfamily 
+591
+	cds-QGY94954.1	CDS	ROG1509	1097168	1097614	+	NA
+592
+	cds-QGY94955.1	CDS	NA	1097659	1097862	-	NA
+593
+	cds-QGY94956.1	CDS	ROG3888	1098037	1099065	+	NA
+	cds-QGY94957.1	CDS	COG4639	1099067	1099639	+	[R] Predicted kinase    
+594
+	cds-E6A57_05655	CDS	ROG4412	1099936	1100073	+	NA
+595
+	cds-QGY94958.1	CDS	NA	1100199	1100534	+	NA
+	cds-QGY94959.1	CDS	COG2759	1100534	1102210	+	[F] Formyltetrahydrofolate synthetase    
+	cds-QGY94960.1	CDS	COG0597	1102216	1102680	+	[MU] Lipoprotein signal peptidase   
+	cds-QGY94961.1	CDS	COG0564	1102673	1103584	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+	cds-QGY94962.1	CDS	COG0505	1103589	1104644	+	[EF] Carbamoylphosphate synthase small subunit  
+	cds-QGY94963.1	CDS	COG0458	1104649	1107843	+	[EF] Carbamoylphosphate synthase large subunit (split gene
+596
+	cds-QGY94964.1	CDS	COG1293	1107918	1109609	-	[K] Predicted RNA-binding protein homologous to eukaryotic
+597
+	cds-QGY94965.1	CDS	ROG4489	1109892	1110308	+	NA
+598
+	cds-QGY94966.1	CDS	COG1307	1110378	1111256	+	[S] Uncharacterized protein conserved in bacteria 
+599
+	cds-QGY94967.1	CDS	COG1193	1111592	1113469	+	[L] Mismatch repair ATPase (MutS family) 
+600
+	xerS	CDS	COG4974	1113523	1114590	-	[L] Site-specific recombinase XerD   
+601
+	cds-QGY94969.1	CDS	NA	1115093	1115551	+	NA
+602
+	cds-QGY94970.1	CDS	ROG3031	1115596	1116207	-	NA
+603
+	cds-E6A57_05725	CDS	ROG7262	1116357	1117521	-	NA
+604
+	cds-QGY94971.1	CDS	COG2261	1117879	1118139	+	[S] Predicted membrane protein   
+605
+	cds-QGY94972.1	CDS	COG3619	1119504	1120211	-	[S] Predicted membrane protein   
+606
+	cds-QGY95775.1	CDS	COG1396	1120507	1120866	+	[K] Predicted transcriptional regulators   
+607
+	cds-QGY94973.1	CDS	COG0652	1120908	1121507	-	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+608
+	cds-QGY94974.1	CDS	COG1227	1121593	1122528	-	[C] Inorganic pyrophosphatase/exopolyphosphatase    
+	cds-QGY94975.1	CDS	COG0583	1122558	1123532	-	[K] Transcriptional regulator    
+609
+	parC	CDS	COG0188	1123680	1126136	-	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	parE	CDS	COG0187	1126155	1128101	-	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+610
+	plsY	CDS	COG0344	1128200	1128835	+	[S] Predicted membrane protein   
+611
+	cds-E6A57_05775	CDS	COG0553	1128953	1132252	-	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+612
+	cds-QGY94979.1	CDS	ROG0937	1132409	1132645	-	NA
+613
+	cds-QGY94980.1	CDS	COG1335	1132879	1133430	-	[Q] Amidases related to nicotinamidase  
+	cds-QGY94981.1	CDS	ROG1794	1133442	1134197	-	NA
+	cds-QGY94982.1	CDS	NA	1134244	1134900	-	NA
+	cds-QGY94983.1	CDS	COG1241	1134926	1135534	-	[L] Predicted ATPase involved in replication control,
+614
+	cds-QGY94984.1	CDS	NA	1135632	1135988	-	NA
+615
+	cds-QGY94985.1	CDS	ROG3141	1136118	1136351	+	NA
+616
+	cds-QGY94986.1	CDS	COG0127	1136772	1137395	+	[F] Xanthosine triphosphate pyrophosphatase   
+617
+	cds-QGY94987.1	CDS	NA	1137537	1137974	-	NA
+	cds-QGY94988.1	CDS	COG1409	1138024	1139256	-	[R] Predicted phosphohydrolases    
+	cds-QGY94989.1	CDS	COG0116	1139260	1140384	-	[L] Predicted N6-adenine-specific DNA methylase  
+618
+	cds-QGY94990.1	CDS	COG3599	1140845	1141255	-	[D] Cell division initiation protein  
+	cds-QGY94991.1	CDS	COG4474	1141349	1141918	-	[S] Uncharacterized protein conserved in bacteria 
+619
+	recU	CDS	COG3331	1141987	1142616	+	[R] Penicillin-binding protein-related factor A, putative recombinase
+	cds-QGY94993.1	CDS	COG0744	1142619	1144931	+	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+620
+	nth	CDS	COG0177	1145086	1145715	-	[L] Predicted EndoIII-related endonuclease   
+	cds-QGY94995.1	CDS	COG3935	1145718	1146362	-	[L] Putative primosome component and related proteins
+621
+	asnS	CDS	COG0017	1146441	1147739	-	[J] Aspartyl/asparaginyl-tRNA synthetases    
+622
+	cds-QGY94997.1	CDS	COG5353	1147793	1148290	-	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY94998.1	CDS	COG1199	1148293	1151073	-	[KL] Rad3-related DNA helicases   
+	addA	CDS	COG1074	1151089	1154697	-	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+	rexB	CDS	COG3857	1154700	1158179	-	[L] ATP-dependent nuclease, subunit B  
+623
+	mvk	CDS	COG1577	1158258	1159166	+	[I] Mevalonate kinase    
+	mvaD	CDS	COG3407	1159166	1160128	+	[I] Mevalonate pyrophosphate decarboxylase   
+	cds-QGY95003.1	CDS	COG1577	1160171	1161253	+	[I] Mevalonate kinase    
+	cds-QGY95004.1	CDS	COG0069	1161265	1162281	+	[E] Glutamate synthase domain 2  
+624
+	cds-QGY95005.1	CDS	COG0561	1162334	1163125	-	[R] Predicted hydrolases of the HAD superfamily
+	cds-QGY95006.1	CDS	COG0144	1163122	1164495	-	[J] tRNA and rRNA cytosine-C5-methylases  
+	cds-QGY95007.1	CDS	ROG5563	1164476	1165453	-	NA
+	cds-QGY95008.1	CDS	ROG1395	1165443	1166195	-	NA
+625
+	lepB	CDS	COG0681	1166278	1166841	+	[U] Signal peptidase I   
+626
+	cds-QGY95010.1	CDS	ROG6762	1166912	1167100	+	NA
+627
+	cds-QGY95011.1	CDS	ROG6174	1167159	1167977	-	NA
+	cds-E6A57_05950	CDS	NA	1167998	1168806	-	NA
+	cds-QGY95012.1	CDS	ROG6174	1168816	1169646	-	NA
+	cds-QGY95013.1	CDS	COG4555	1169646	1170353	-	[CP] ABC-type Na+ transport system, ATPase component
+	cds-QGY95014.1	CDS	COG1725	1170346	1170720	-	[K] Predicted transcriptional regulators   
+628
+	pepT_2	CDS	COG2195	1171027	1172268	-	[E] Di- and tripeptidases   
+	cds-QGY95016.1	CDS	COG0327	1172287	1173084	-	[S] Uncharacterized conserved protein   
+	cds-QGY95017.1	CDS	COG2384	1173081	1173764	-	[R] Predicted SAM-dependent methyltransferase   
+629
+	cds-QGY95018.1	CDS	COG1051	1173865	1174305	+	[F] ADP-ribose pyrophosphatase    
+	cds-QGY95019.1	CDS	COG2190	1174305	1174979	+	[G] Phosphotransferase system IIA components  
+630
+	rpoD	CDS	COG0568	1175026	1176138	-	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+	cds-QGY95021.1	CDS	COG0358	1176154	1177974	-	[L] DNA primase (bacterial type)  
+	cds-QGY95022.1	CDS	COG0751	1178004	1180067	-	[J] Glycyl-tRNA synthetase, beta subunit  
+	glyQ	CDS	COG0752	1180060	1180977	-	[J] Glycyl-tRNA synthetase, alpha subunit  
+631
+	recO	CDS	COG1381	1181237	1181992	-	[L] Recombinational DNA repair protein (RecF pathway)
+632
+	cds-QGY95025.1	CDS	COG0675	1182228	1183529	-	[L] Transposase and inactivated derivatives  
+633
+	cds-QGY95776.1	CDS	NA	1183803	1183895	-	NA
+634
+	cds-QGY95026.1	CDS	COG1159	1185432	1186334	-	[R] GTPase     
+	ybeY	CDS	COG0319	1186334	1186858	-	[R] Predicted metal-dependent hydrolase   
+	cds-QGY95028.1	CDS	COG1702	1186861	1187820	-	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+	cds-QGY95029.1	CDS	COG1610	1187846	1188289	-	[S] Uncharacterized conserved protein   
+	cds-QGY95030.1	CDS	COG0828	1188450	1188626	-	[J] Ribosomal protein S21   
+635
+	cds-QGY95031.1	CDS	COG1806	1188854	1189690	+	[S] Uncharacterized protein conserved in bacteria 
+636
+	cds-QGY95032.1	CDS	COG3464	1189791	1190603	+	[L] Transposase and inactivated derivatives  
+637
+	cds-E6A57_06065	CDS	COG0551	1190652	1190912	-	[L] Zn-finger domain associated with topoisomerase type
+	cds-E6A57_06070	CDS	NA	1190946	1191078	-	NA
+	erm(B)	CDS	COG0030	1191075	1191821	-	[J] Dimethyladenosine transferase (rRNA methylation)  
+638
+	cds-QGY95777.1	CDS	NA	1191946	1192029	-	NA
+	cds-QGY95034.1	CDS	ROG3505	1192078	1192317	-	NA
+639
+	cds-QGY95035.1	CDS	COG3464	1192566	1193837	+	[L] Transposase and inactivated derivatives  
+640
+	cds-QGY95778.1	CDS	NA	1193908	1201479	-	NA
+641
+	cds-E6A57_06100	CDS	COG3464	1202233	1202394	+	[L] Transposase and inactivated derivatives  
+642
+	cds-QGY95036.1	CDS	COG0664	1202380	1203015	-	[T] cAMP-binding proteins - catabolite gene activator
+	cds-QGY95037.1	CDS	ROG2081	1203035	1203580	-	NA
+	cds-QGY95038.1	CDS	COG2608	1203580	1203810	-	[P] Copper chaperone    
+	cadA	CDS	COG2217	1203886	1205739	-	[P] Cation transport ATPase   
+643
+	cds-QGY95040.1	CDS	ROG8105	1206388	1206945	-	NA
+644
+	cds-QGY95041.1	CDS	COG0739	1208610	1209233	+	[M] Membrane proteins related to metalloendopeptidases 
+645
+	cds-QGY95042.1	CDS	COG0225	1209304	1209870	-	[O] Peptide methionine sulfoxide reductase  
+646
+	cds-QGY95043.1	CDS	COG1284	1211691	1212569	-	[S] Uncharacterized conserved protein   
+647
+	cds-QGY95044.1	CDS	NA	1213021	1213878	-	NA
+648
+	cds-QGY95045.1	CDS	ROG7262	1213990	1214877	-	NA
+	cds-QGY95046.1	CDS	COG1189	1214937	1215269	-	[J] Predicted rRNA methylase   
+	cds-QGY95047.1	CDS	ROG2011	1215272	1215502	-	NA
+649
+	cds-QGY95048.1	CDS	ROG6936	1216029	1216421	-	NA
+	cds-QGY95049.1	CDS	ROG0981	1216433	1219270	-	NA
+	cds-QGY95050.1	CDS	ROG1628	1219271	1219474	-	NA
+	cds-QGY95051.1	CDS	NA	1219486	1221744	-	NA
+	cds-QGY95052.1	CDS	COG4722	1221744	1222562	-	[S] Phage-related protein    
+	cds-QGY95053.1	CDS	COG5283	1222566	1225793	-	[S] Phage-related tail protein   
+	cds-QGY95054.1	CDS	NA	1225793	1226098	-	NA
+650
+	cds-QGY95055.1	CDS	ROG4314	1226242	1226565	-	NA
+651
+	cds-QGY95056.1	CDS	ROG5308	1226647	1227225	-	NA
+	cds-QGY95057.1	CDS	ROG8129	1227245	1227646	-	NA
+652
+	cds-QGY95058.1	CDS	ROG5264	1228334	1228729	-	NA
+	cds-QGY95059.1	CDS	NA	1228726	1229031	-	NA
+	cds-QGY95060.1	CDS	ROG4718	1229021	1229383	-	NA
+	cds-QGY95061.1	CDS	NA	1229416	1230315	-	NA
+	cds-QGY95062.1	CDS	ROG2727	1230360	1231040	-	NA
+653
+	cds-QGY95063.1	CDS	ROG3483	1231188	1232138	-	NA
+	cds-QGY95064.1	CDS	ROG0305	1232116	1233504	-	NA
+654
+	cds-QGY95065.1	CDS	ROG1302	1233751	1234989	-	NA
+	cds-QGY95066.1	CDS	COG3728	1235008	1235583	-	[L] Phage terminase, small subunit  
+655
+	cds-QGY95067.1	CDS	NA	1235636	1235995	+	NA
+656
+	cds-QGY95068.1	CDS	ROG4723	1236678	1237157	-	NA
+	cds-QGY95069.1	CDS	NA	1237159	1237587	-	NA
+	cds-QGY95070.1	CDS	ROG3286	1237605	1238261	-	NA
+657
+	cds-QGY95071.1	CDS	COG5545	1238396	1239718	-	[R] Predicted P-loop ATPase and inactivated derivatives
+658
+	cds-QGY95072.1	CDS	NA	1239804	1240688	-	NA
+659
+	cds-QGY95073.1	CDS	ROG1975	1240795	1241505	-	NA
+660
+	cds-QGY95074.1	CDS	NA	1241590	1242279	-	NA
+661
+	cds-QGY95075.1	CDS	NA	1242374	1242826	-	NA
+	cds-QGY95076.1	CDS	NA	1242863	1243150	-	NA
+662
+	cds-QGY95077.1	CDS	COG1476	1243249	1243476	-	[K] Predicted transcriptional regulators   
+663
+	cds-QGY95078.1	CDS	ROG5128	1243646	1244044	+	NA
+	cds-QGY95079.1	CDS	COG4342	1244105	1245253	+	[S] Uncharacterized protein conserved in archaea 
+664
+	cds-QGY95080.1	CDS	NA	1245465	1246070	+	NA
+665
+	cds-QGY95081.1	CDS	COG0083	1246097	1246960	-	[E] Homoserine kinase    
+	cds-QGY95082.1	CDS	COG0460	1246977	1248212	-	[E] Homoserine dehydrogenase    
+666
+	cds-QGY95083.1	CDS	COG0498	1248324	1249814	+	[E] Threonine synthase    
+	cds-QGY95084.1	CDS	COG0527	1249834	1251201	+	[E] Aspartokinases     
+667
+	cds-QGY95085.1	CDS	COG0406	1251292	1251852	-	[G] Fructose-2,6-bisphosphatase     
+668
+	cds-QGY95086.1	CDS	NA	1252025	1254340	+	NA
+669
+	cds-E6A57_06360	CDS	ROG3271	1254388	1254626	-	NA
+	cds-QGY95087.1	CDS	ROG1035	1254620	1255087	-	NA
+670
+	cds-QGY95088.1	CDS	NA	1255163	1255402	+	NA
+671
+	cds-QGY95089.1	CDS	NA	1255791	1256510	+	NA
+672
+	cds-QGY95090.1	CDS	COG2274	1256554	1258137	-	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+	cds-QGY95779.1	CDS	COG4988	1258134	1259675	-	[CO] ABC-type transport system involved in cytochrome
+673
+	cds-QGY95091.1	CDS	NA	1259908	1260945	-	NA
+674
+	cds-QGY95092.1	CDS	COG1359	1261516	1262178	-	[S] Uncharacterized conserved protein   
+675
+	cds-QGY95093.1	CDS	ROG3888	1262274	1262822	-	NA
+676
+	cds-QGY95094.1	CDS	NA	1262912	1263529	-	NA
+677
+	cds-QGY95095.1	CDS	COG4552	1263696	1264862	-	[R] Predicted acetyltransferase involved in intracellular survival
+678
+	citX	CDS	COG3697	1264978	1265514	-	[HI] Phosphoribosyl-dephospho-CoA transferase (holo-ACP synthetase)  
+	cds-QGY95780.1	CDS	COG0078	1265528	1266430	-	[E] Ornithine carbamoyltransferase    
+	cds-E6A57_06425	CDS	COG0078	1266391	1266822	-	[E] Ornithine carbamoyltransferase    
+	arcA	CDS	COG2235	1266833	1268062	-	[E] Arginine deiminase    
+679
+	cds-QGY95098.1	CDS	COG0583	1268136	1268984	-	[K] Transcriptional regulator    
+680
+	cds-QGY95099.1	CDS	COG2217	1269113	1271386	+	[P] Cation transport ATPase   
+681
+	cds-E6A57_06445	CDS	NA	1271454	1271725	-	NA
+	cds-QGY95781.1	CDS	COG0670	1271786	1272301	-	[R] Integral membrane protein, interacts with FtsH
+682
+	cds-E6A57_06455	CDS	COG3589	1272584	1273669	+	[S] Uncharacterized conserved protein   
+683
+	cds-QGY95782.1	CDS	COG1249	1273713	1275032	-	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+684
+	cds-E6A57_06465	CDS	COG0747	1277375	1277981	+	[E] ABC-type dipeptide transport system, periplasmic component
+685
+	cds-QGY95100.1	CDS	COG0503	1278064	1278591	-	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+	recJ	CDS	COG0608	1278696	1280969	-	[L] Single-stranded DNA-specific exonuclease   
+686
+	cds-QGY95102.1	CDS	COG3764	1281093	1281779	-	[M] Sortase (surface protein transpeptidase)  
+	lepA	CDS	COG0481	1281782	1283620	-	[M] Membrane GTPase LepA   
+687
+	cds-QGY95783.1	CDS	COG2816	1283728	1284183	+	[L] NTP pyrophosphohydrolases containing a Zn-finger, probably
+688
+	dnaJ	CDS	COG0484	1284243	1285394	-	[O] DnaJ-class molecular chaperone with C-terminal Zn
+	dnaK	CDS	COG0443	1285477	1287330	-	[O] Molecular chaperone    
+	grpE	CDS	COG0576	1287347	1287931	-	[O] Molecular chaperone GrpE (heat shock protein)
+	hrcA	CDS	COG1420	1287944	1288993	-	[K] Transcriptional regulator of heat shock gene
+689
+	ribF	CDS	COG0196	1289131	1290066	-	[H] FAD synthase    
+	truB	CDS	COG0130	1290087	1290980	-	[J] Pseudouridine synthase    
+	cds-QGY95110.1	CDS	COG0858	1291036	1291401	-	[J] Ribosome-binding factor A   
+	infB	CDS	COG0532	1291421	1294024	-	[J] Translation initiation factor 2 (IF-2; GTPase)
+	cds-QGY95112.1	CDS	COG1358	1294029	1294340	-	[J] Ribosomal protein HS6-type (S12/L30/L7a)  
+	cds-QGY95113.1	CDS	COG2740	1294343	1294639	-	[K] Predicted nucleic-acid-binding protein implicated in transcription
+	nusA	CDS	COG0195	1294648	1295841	-	[K] Transcription elongation factor   
+	rimP	CDS	COG0779	1295861	1296337	-	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY95116.1	CDS	COG2176	1296448	1300758	-	[L] DNA polymerase III, alpha subunit (gram-positive
+	cds-QGY95117.1	CDS	COG0442	1300764	1302461	-	[J] Prolyl-tRNA synthetase    
+	rseP	CDS	COG0750	1302489	1303745	-	[M] Predicted membrane-associated Zn-dependent proteases 1 
+	cds-QGY95119.1	CDS	COG0575	1303758	1304573	-	[I] CDP-diglyceride synthetase    
+	cds-QGY95120.1	CDS	COG0020	1304576	1305310	-	[I] Undecaprenyl pyrophosphate synthase   
+	cds-QGY95121.1	CDS	COG0233	1305313	1305870	-	[J] Ribosome recycling factor   
+	cds-QGY95122.1	CDS	COG0528	1305870	1306595	-	[F] Uridylate kinase    
+	cds-QGY95123.1	CDS	COG0264	1306740	1307765	-	[J] Translation elongation factor Ts  
+	rpsB	CDS	COG0052	1307799	1308572	-	[J] Ribosomal protein S2   
+690
+	cds-QGY95125.1	CDS	COG4123	1308737	1309768	-	[R] Predicted O-methyltransferase    
+691
+	cds-QGY95126.1	CDS	COG0204	1309842	1310456	+	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+692
+	cds-QGY95127.1	CDS	COG2230	1310569	1311747	+	[M] Cyclopropane fatty acid synthase and related
+693
+	cds-QGY95128.1	CDS	COG3590	1311807	1313750	-	[O] Predicted metalloendopeptidase    
+694
+	cds-QGY95784.1	CDS	COG1132	1313844	1315529	-	[V] ABC-type multidrug transport system, ATPase and
+	cds-QGY95129.1	CDS	COG1132	1315636	1317402	-	[V] ABC-type multidrug transport system, ATPase and
+695
+	cds-QGY95130.1	CDS	COG3763	1317483	1317701	-	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY95785.1	CDS	COG4224	1317771	1318019	-	[S] Uncharacterized protein conserved in bacteria 
+696
+	lexA	CDS	COG1974	1318194	1318820	+	[KT] SOS-response transcriptional repressors (RecA-mediated autopeptidases) 
+697
+	cds-QGY95132.1	CDS	COG2755	1318859	1319638	-	[E] Lysophospholipase L1 and related esterases 
+	cds-QGY95133.1	CDS	COG1573	1319631	1320290	-	[L] Uracil-DNA glycosylase    
+698
+	cds-QGY95134.1	CDS	ROG8476	1320639	1321763	-	NA
+699
+	cds-QGY95135.1	CDS	COG0335	1321875	1322222	-	[J] Ribosomal protein L19   
+	trmD	CDS	COG0336	1322336	1323055	-	[J] tRNA-(guanine-N1)-methyltransferase     
+	rimM	CDS	COG0806	1323045	1323560	-	[J] RimM protein, required for 16S rRNA
+	rpsP	CDS	COG0228	1323627	1323899	-	[J] Ribosomal protein S16   
+	cds-QGY95139.1	CDS	COG0541	1323986	1325416	-	[U] Signal recognition particle GTPase  
+	cds-QGY95140.1	CDS	COG2739	1325420	1325761	-	[S] Uncharacterized protein conserved in bacteria 
+700
+	cds-QGY95141.1	CDS	COG0531	1325934	1327364	+	[E] Amino acid transporters   
+701
+	cds-QGY95142.1	CDS	NA	1327421	1329247	-	NA
+	cds-QGY95143.1	CDS	COG1136	1329262	1330008	-	[V] ABC-type antimicrobial peptide transport system, ATPase
+702
+	cds-E6A57_06705	CDS	NA	1330140	1330488	-	NA
+703
+	cds-QGY95144.1	CDS	COG4690	1330554	1331975	-	[E] Dipeptidase     
+	ftsY	CDS	COG0552	1332020	1333318	-	[U] Signal recognition particle GTPase  
+	smc	CDS	COG1196	1333319	1336888	-	[D] Chromosome segregation ATPases   
+	cds-QGY95147.1	CDS	COG0571	1336901	1337590	-	[K] dsRNA-specific ribonuclease    
+704
+	cds-QGY95148.1	CDS	COG0747	1337697	1339466	-	[E] ABC-type dipeptide transport system, periplasmic component
+705
+	cds-QGY95149.1	CDS	ROG0160	1339607	1341013	-	NA
+706
+	cds-E6A57_06740	CDS	COG0747	1341270	1343039	-	[E] ABC-type dipeptide transport system, periplasmic component
+	cds-QGY95150.1	CDS	COG1173	1343254	1344183	-	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+	cds-QGY95151.1	CDS	COG0601	1344198	1345157	-	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+	cds-QGY95152.1	CDS	COG4608	1345160	1346146	-	[E] ABC-type oligopeptide transport system, ATPase component
+	cds-QGY95153.1	CDS	COG0444	1346150	1347166	-	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+707
+	acpP	CDS	COG0236	1347285	1347527	-	[IQ] Acyl carrier protein   
+	plsX	CDS	COG0416	1347558	1348559	-	[I] Fatty acid/phospholipid biosynthesis enzyme  
+	recG	CDS	COG1200	1348579	1350615	-	[LK] RecG-like helicase    
+	cds-QGY95157.1	CDS	COG1461	1350618	1352279	-	[R] Predicted kinase related to dihydroxyacetone kinase
+	cds-QGY95158.1	CDS	COG1302	1352301	1352663	-	[S] Uncharacterized protein conserved in bacteria 
+708
+	cds-QGY95159.1	CDS	COG0227	1352831	1353016	+	[J] Ribosomal protein L28   
+709
+	cds-E6A57_06795	CDS	COG3464	1353248	1354528	+	[L] Transposase and inactivated derivatives  
+710
+	cds-QGY95160.1	CDS	NA	1354610	1356355	-	NA
+711
+	cds-QGY95161.1	CDS	ROG1429	1356441	1357499	-	NA
+	cds-QGY95162.1	CDS	NA	1357474	1358097	-	NA
+712
+	cds-QGY95163.1	CDS	ROG0160	1358421	1359827	-	NA
+713
+	cds-QGY95164.1	CDS	COG3328	1359950	1361098	+	[L] Transposase and inactivated derivatives  
+714
+	cds-E6A57_06825	CDS	COG3464	1361487	1362767	+	[L] Transposase and inactivated derivatives  
+715
+	cds-QGY95165.1	CDS	NA	1362855	1363064	-	NA
+716
+	cds-QGY95166.1	CDS	COG1564	1363200	1363874	-	[H] Thiamine pyrophosphokinase    
+	rpe	CDS	COG0036	1363874	1364524	-	[G] Pentose-5-phosphate-3-epimerase     
+	rsgA	CDS	COG1162	1364537	1365427	-	[R] Predicted GTPases    
+	pknB	CDS	COG0515	1365428	1367458	-	[RTKL] Serine/threonine protein kinase   
+	cds-QGY95170.1	CDS	COG0631	1367448	1368203	-	[T] Serine/threonine protein phosphatase   
+	rsmB	CDS	COG0144	1368208	1369569	-	[J] tRNA and rRNA cytosine-C5-methylases  
+	cds-QGY95172.1	CDS	COG0223	1369520	1370464	-	[J] Methionyl-tRNA formyltransferase    
+	priA	CDS	COG1198	1370477	1372876	-	[L] Primosomal protein N' (replication factor Y)
+	cds-QGY95174.1	CDS	COG1758	1372927	1373151	-	[K] DNA-directed RNA polymerase, subunit K/omega 
+	cds-QGY95175.1	CDS	COG0194	1373157	1373771	-	[F] Guanylate kinase    
+717
+	cds-QGY95176.1	CDS	COG4405	1373879	1374316	-	[S] Uncharacterized protein conserved in bacteria 
+	recN	CDS	COG0497	1374309	1375991	-	[L] ATPase involved in DNA repair 
+	cds-QGY95178.1	CDS	COG1189	1376002	1376814	-	[J] Predicted rRNA methylase   
+	cds-QGY95179.1	CDS	COG0142	1376815	1377684	-	[H] Geranylgeranyl pyrophosphate synthase   
+	cds-QGY95180.1	CDS	COG1722	1377687	1377929	-	[L] Exonuclease VII small subunit  
+	cds-QGY95181.1	CDS	COG1570	1377910	1379277	-	[L] Exonuclease VII, large subunit  
+	cds-QGY95182.1	CDS	COG0190	1379264	1380115	-	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+	nusB	CDS	COG0781	1380172	1380567	-	[K] Transcription termination factor   
+	cds-QGY95184.1	CDS	COG1302	1380567	1380998	-	[S] Uncharacterized protein conserved in bacteria 
+	efp	CDS	COG0231	1381017	1381586	-	[J] Translation elongation factor P (EF-P)/translation initiation
+	cds-QGY95186.1	CDS	COG0006	1381667	1382776	-	[E] Xaa-Pro aminopeptidase    
+718
+	cds-QGY95187.1	CDS	COG0211	1382893	1383183	-	[J] Ribosomal protein L27   
+	rplU	CDS	COG0261	1383202	1383513	-	[J] Ribosomal protein L21   
+719
+	cds-QGY95189.1	CDS	COG1284	1383672	1384508	-	[S] Uncharacterized conserved protein   
+720
+	cds-QGY95190.1	CDS	ROG1545	1384592	1385968	-	NA
+721
+	cds-QGY95191.1	CDS	NA	1386127	1386336	-	NA
+	cds-E6A57_06965	CDS	NA	1386333	1386552	-	NA
+722
+	cds-QGY95192.1	CDS	COG1942	1386654	1386833	-	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+	cds-QGY95193.1	CDS	ROG1462	1386881	1388674	-	NA
+	cds-QGY95786.1	CDS	COG1073	1388678	1389553	-	[R] Hydrolases of the alpha/beta superfamily 
+723
+	cds-QGY95194.1	CDS	ROG7262	1389713	1390951	-	NA
+724
+	rna-E6A57_06990	tRNA	NA	1391214	1391287	-	NA
+725
+	cds-QGY95195.1	CDS	COG0657	1391444	1392340	+	[I] Esterase/lipase     
+	cds-QGY95196.1	CDS	COG1393	1392353	1392709	+	[P] Arsenate reductase and related proteins, glutaredoxin
+726
+	cds-QGY95197.1	CDS	COG2274	1392755	1394335	-	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+	cds-QGY95198.1	CDS	COG4988	1394335	1395915	-	[CO] ABC-type transport system involved in cytochrome
+727
+	cds-QGY95199.1	CDS	COG0561	1396249	1397064	-	[R] Predicted hydrolases of the HAD superfamily
+	cds-QGY95200.1	CDS	ROG7222	1397124	1397450	-	NA
+728
+	cds-QGY95201.1	CDS	ROG2318	1397572	1397832	-	NA
+729
+	cds-E6A57_07030	CDS	COG4814	1397955	1398251	-	[R] Uncharacterized protein with an alpha/beta hydrolase
+730
+	cds-QGY95202.1	CDS	ROG0664	1398348	1400729	+	NA
+731
+	cds-QGY95203.1	CDS	NA	1400795	1401769	-	NA
+	cds-QGY95204.1	CDS	COG2854	1401807	1403300	-	[Q] ABC-type transport system involved in resistance
+732
+	cds-QGY95205.1	CDS	COG0229	1403469	1403906	-	[O] Conserved domain frequently associated with peptide
+	cds-QGY95206.1	CDS	NA	1403954	1404235	-	NA
+733
+	cds-QGY95207.1	CDS	COG4975	1404357	1405220	-	[G] Putative glucose uptake permease  
+734
+	cds-QGY95208.1	CDS	COG3666	1405331	1407031	-	[L] Transposase and inactivated derivatives  
+735
+	cds-QGY95209.1	CDS	COG3093	1407287	1407499	+	[R] Plasmid maintenance system antidote protein 
+736
+	carB	CDS	COG0458	1407551	1410739	-	[EF] Carbamoylphosphate synthase large subunit (split gene
+	carA	CDS	COG0505	1410732	1411817	-	[EF] Carbamoylphosphate synthase small subunit  
+	cds-QGY95212.1	CDS	COG0044	1411817	1413094	-	[F] Dihydroorotase and related cyclic amidohydrolases 
+	cds-QGY95213.1	CDS	COG0540	1413094	1414050	-	[F] Aspartate carbamoyltransferase, catalytic chain  
+	pyrR_2	CDS	COG2065	1414191	1414733	-	[F] Pyrimidine operon attenuation protein/uracil phosphoribosyltransferase 
+	cds-QGY95215.1	CDS	COG0167	1414902	1415825	-	[F] Dihydroorotate dehydrogenase    
+737
+	pyrF	CDS	COG0284	1416076	1416780	+	[F] Orotidine-5'-phosphate decarboxylase    
+	cds-QGY95217.1	CDS	COG0461	1416782	1417420	+	[F] Orotate phosphoribosyltransferase    
+738
+	cds-QGY95218.1	CDS	COG0038	1417497	1418018	+	[P] Chloride channel protein EriC  
+739
+	cds-QGY95219.1	CDS	COG0488	1418289	1419791	+	[R] ATPase components of ABC transporters with
+740
+	cds-QGY95220.1	CDS	ROG3381	1419844	1420137	-	NA
+741
+	cds-QGY95221.1	CDS	COG1760	1420266	1420928	+	[E] L-serine deaminase    
+	sdaAA	CDS	COG1760	1420943	1421824	+	[E] L-serine deaminase    
+	cds-QGY95223.1	CDS	COG2151	1421833	1422147	+	[R] Predicted metal-sulfur cluster biosynthetic enzyme 
+742
+	cds-E6A57_07145	CDS	COG0624	1422195	1423260	-	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+743
+	cds-QGY95224.1	CDS	COG1304	1423411	1424691	-	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+744
+	cds-QGY95225.1	CDS	COG0282	1424976	1426175	+	[C] Acetate kinase    
+745
+	yjeM_2	CDS	COG0531	1426252	1427727	-	[E] Amino acid transporters   
+746
+	cds-QGY95227.1	CDS	NA	1428006	1429712	-	NA
+747
+	cds-QGY95228.1	CDS	COG3654	1429881	1430603	-	[R] Prophage maintenance system killer protein 
+748
+	cds-QGY95229.1	CDS	NA	1430698	1432197	-	NA
+749
+	cds-QGY95230.1	CDS	NA	1432343	1433095	-	NA
+	cds-QGY95231.1	CDS	COG3152	1433147	1433659	-	[S] Predicted membrane protein   
+	cds-QGY95232.1	CDS	COG1765	1433663	1434067	-	[O] Predicted redox protein, regulator of disulfide
+	cds-QGY95233.1	CDS	NA	1434077	1435249	-	NA
+	cds-QGY95234.1	CDS	COG5002	1435297	1436574	-	[T] Signal transduction histidine kinase  
+	cds-QGY95235.1	CDS	COG0745	1436583	1437248	-	[TK] Response regulators consisting of a CheY-like
+	cds-QGY95787.1	CDS	COG2357	1437248	1437814	-	[S] Uncharacterized protein conserved in bacteria 
+750
+	gtfA_2	CDS	NA	1438040	1439482	-	NA
+	cds-QGY95237.1	CDS	COG3345	1439492	1441693	-	[G] Alpha-galactosidase     
+	cds-QGY95238.1	CDS	COG2190	1441704	1443641	-	[G] Phosphotransferase system IIA components  
+751
+	cds-QGY95239.1	CDS	COG2207	1443864	1444697	+	[K] AraC-type DNA-binding domain-containing proteins  
+752
+	cds-QGY95240.1	CDS	NA	1444749	1446104	-	NA
+753
+	cds-QGY95241.1	CDS	COG2017	1446209	1447204	-	[G] Galactose mutarotase and related enzymes 
+	cds-QGY95242.1	CDS	COG4468	1447324	1448787	-	[G] Galactose-1-phosphate uridyltransferase    
+	cds-QGY95243.1	CDS	COG0153	1448809	1449975	-	[G] Galactokinase     
+754
+	cds-E6A57_07255	CDS	COG1228	1450150	1450320	-	[Q] Imidazolonepropionase and related amidohydrolases  
+755
+	cds-QGY95244.1	CDS	COG1874	1450541	1452547	-	[G] Beta-galactosidase     
+	cds-QGY95245.1	CDS	COG2211	1452558	1454477	-	[G] Na+/melibiose symporter and related transporters 
+756
+	cds-QGY95246.1	CDS	COG1609	1454670	1455677	-	[K] Transcriptional regulators    
+757
+	cds-QGY95247.1	CDS	COG3250	1455903	1457783	+	[G] Beta-galactosidase/beta-glucuronidase     
+	cds-QGY95248.1	CDS	COG3250	1457767	1458717	+	[G] Beta-galactosidase/beta-glucuronidase     
+	galE	CDS	COG1087	1458821	1459813	+	[M] UDP-glucose 4-epimerase    
+758
+	cds-QGY95250.1	CDS	COG0580	1459996	1460703	-	[G] Glycerol uptake facilitator and related permeases
+	dhaM	CDS	COG3412	1460719	1461090	-	[S] Uncharacterized protein conserved in bacteria 
+	dhaL	CDS	COG2376	1461087	1461671	-	[G] Dihydroxyacetone kinase    
+	dhaK	CDS	COG2376	1461685	1462680	-	[G] Dihydroxyacetone kinase    
+759
+	cds-QGY95254.1	CDS	COG1404	1462930	1467645	-	[O] Subtilisin-like serine proteases   
+760
+	cds-QGY95255.1	CDS	COG0389	1467916	1469235	+	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+	cds-QGY95788.1	CDS	ROG1612	1469222	1469596	+	NA
+761
+	cds-QGY95256.1	CDS	COG1982	1469930	1472026	-	[E] Arginine/lysine/ornithine decarboxylases    
+762
+	cds-QGY95257.1	CDS	COG3328	1472144	1473334	+	[L] Transposase and inactivated derivatives  
+763
+	cds-QGY95258.1	CDS	COG2826	1473531	1474577	-	[L] Transposase and inactivated derivatives, IS30 family
+764
+	cds-E6A57_07340	CDS	COG0531	1474794	1475873	+	[E] Amino acid transporters   
+765
+	cds-QGY95259.1	CDS	COG3328	1475995	1477173	+	[L] Transposase and inactivated derivatives  
+766
+	cds-E6A57_07350	CDS	COG0531	1477229	1477618	+	[E] Amino acid transporters   
+767
+	cds-E6A57_07355	CDS	ROG0004	1477878	1478704	+	NA
+768
+	cds-QGY95260.1	CDS	NA	1478953	1479228	-	NA
+	cds-QGY95261.1	CDS	NA	1479238	1479456	-	NA
+	cds-QGY95262.1	CDS	COG4226	1479504	1479839	-	[S] Uncharacterized protein encoded in hypervariable junctions
+	cds-QGY95263.1	CDS	ROG0369	1479839	1480084	-	NA
+769
+	cds-QGY95264.1	CDS	ROG3888	1480486	1481475	-	NA
+770
+	cds-QGY95265.1	CDS	ROG5561	1481620	1482534	-	NA
+771
+	glnA	CDS	COG0174	1482824	1484161	-	[E] Glutamine synthetase    
+772
+	cds-QGY95267.1	CDS	COG4100	1484297	1485547	-	[P] Cystathionine beta-lyase family protein involved in
+	miaA	CDS	COG0324	1485540	1486460	-	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+773
+	cds-QGY95268.1	CDS	COG0607	1486538	1486939	-	[P] Rhodanese-related sulfurtransferase    
+774
+	cds-QGY95269.1	CDS	COG4483	1486998	1487237	-	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY95270.1	CDS	COG0705	1487237	1487923	-	[R] Uncharacterized membrane protein (homolog of Drosophila
+	cds-QGY95271.1	CDS	COG0212	1487957	1488520	-	[H] 5-formyltetrahydrofolate cyclo-ligase    
+	rpmG_2	CDS	COG0267	1488575	1488724	-	[J] Ribosomal protein L33   
+	cds-QGY95273.1	CDS	COG0768	1488800	1490908	-	[M] Cell division protein FtsI/penicillin-binding protein 2
+775
+	cds-QGY95274.1	CDS	COG4485	1490996	1493635	+	[S] Predicted membrane protein   
+776
+	cds-QGY95275.1	CDS	COG2971	1493698	1494621	+	[G] Predicted N-acetylglucosamine kinase   
+777
+	cds-QGY95276.1	CDS	COG3077	1494889	1495137	+	[L] DNA-damage-inducible protein J   
+	cds-QGY95277.1	CDS	COG3041	1495140	1495433	+	[S] Uncharacterized protein conserved in bacteria 
+778
+	cds-QGY95278.1	CDS	COG0776	1496181	1496465	+	[L] Bacterial nucleoid DNA-binding protein  
+779
+	cds-QGY95279.1	CDS	COG1120	1496511	1497284	-	[PH] ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components
+	cds-E6A57_07465	CDS	COG4606	1497277	1497408	-	[P] ABC-type enterochelin transport system, permease component
+	cds-QGY95280.1	CDS	COG1473	1497441	1498712	-	[R] Metal-dependent amidase/aminoacylase/carboxypeptidase    
+780
+	cds-QGY95281.1	CDS	COG1228	1498908	1500113	-	[Q] Imidazolonepropionase and related amidohydrolases  
+	cds-QGY95282.1	CDS	COG4166	1500124	1501755	-	[E] ABC-type oligopeptide transport system, periplasmic component
+781
+	cds-QGY95283.1	CDS	COG0561	1502155	1502970	-	[R] Predicted hydrolases of the HAD superfamily
+782
+	cds-E6A57_07490	CDS	COG2132	1503199	1504752	+	[Q] Putative multicopper oxidases   
+783
+	cds-QGY95284.1	CDS	COG1464	1505313	1506164	+	[P] ABC-type metal ion transport system, periplasmic
+784
+	cds-QGY95285.1	CDS	COG0039	1506229	1507140	-	[C] Malate/lactate dehydrogenases    
+	greA_2	CDS	COG0782	1507203	1507679	-	[K] Transcription elongation factor   
+	cds-QGY95287.1	CDS	COG0072	1507758	1510178	-	[J] Phenylalanyl-tRNA synthetase beta subunit  
+	pheS	CDS	COG0016	1510182	1511231	-	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+785
+	cds-QGY95289.1	CDS	COG0834	1511516	1512382	-	[ET] ABC-type amino acid transport/signal transduction systems,
+	cds-QGY95290.1	CDS	COG1126	1512392	1513132	-	[E] ABC-type polar amino acid transport system,
+	cds-QGY95291.1	CDS	COG0765	1513142	1513813	-	[E] ABC-type amino acid transport system, permease
+	cds-QGY95292.1	CDS	COG0765	1513794	1514453	-	[E] ABC-type amino acid transport system, permease
+786
+	cds-QGY95293.1	CDS	COG1733	1514754	1515104	-	[K] Predicted transcriptional regulators   
+787
+	cds-QGY95294.1	CDS	COG0566	1515212	1515979	-	[J] rRNA methylases    
+788
+	cds-QGY95295.1	CDS	COG1254	1516079	1516351	+	[C] Acylphosphatases     
+	yidC	CDS	COG0706	1516395	1517360	+	[U] Preprotein translocase subunit YidC  
+	cds-QGY95297.1	CDS	COG3760	1517407	1517895	+	[S] Uncharacterized conserved protein   
+789
+	cds-QGY95298.1	CDS	NA	1517907	1518779	-	NA
+790
+	cds-QGY95299.1	CDS	NA	1518939	1520120	-	NA
+791
+	cds-QGY95790.1	CDS	NA	1520189	1521145	-	NA
+792
+	cds-QGY95300.1	CDS	COG2205	1521606	1523177	-	[T] Osmosensitive K+ channel histidine kinase 
+	cds-QGY95301.1	CDS	COG0745	1523155	1523871	-	[TK] Response regulators consisting of a CheY-like
+793
+	cds-QGY95302.1	CDS	COG1399	1524040	1524603	-	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+	cds-QGY95303.1	CDS	COG1323	1524606	1525757	-	[R] Predicted nucleotidyltransferase    
+	rsfS	CDS	COG0799	1525761	1526108	-	[S] Uncharacterized homolog of plant Iojap protein
+	cds-QGY95305.1	CDS	COG1713	1526126	1526719	-	[H] Predicted HD superfamily hydrolase involved in
+	cds-QGY95306.1	CDS	COG1057	1526700	1527347	-	[H] Nicotinic acid mononucleotide adenylyltransferase  
+	yqeH	CDS	COG1161	1527359	1528468	-	[R] Predicted GTPases    
+	cds-QGY95308.1	CDS	COG2179	1528461	1528985	-	[R] Predicted hydrolase of the HAD superfamily
+794
+	cds-QGY95309.1	CDS	COG0675	1529176	1530327	-	[L] Transposase and inactivated derivatives  
+795
+	cds-QGY95310.1	CDS	COG1816	1530609	1531610	+	[F] Adenosine deaminase    
+796
+	rplT	CDS	COG0292	1531658	1532014	-	[J] Ribosomal protein L20   
+	rpmI	CDS	COG0291	1532059	1532259	-	[J] Ribosomal protein L35   
+	infC	CDS	COG0290	1532281	1532814	-	[J] Translation initiation factor 3 (IF-3) 
+797
+	cds-E6A57_07650	CDS	NA	1533022	1533551	-	NA
+	cds-QGY95314.1	CDS	ROG4207	1533582	1534346	-	NA
+	cds-QGY95791.1	CDS	COG4555	1534346	1535269	-	[CP] ABC-type Na+ transport system, ATPase component
+	cds-QGY95315.1	CDS	ROG2030	1535275	1535706	-	NA
+	cds-QGY95316.1	CDS	COG3279	1535703	1536137	-	[KT] Response regulator of the LytR/AlgR family
+798
+	cds-QGY95317.1	CDS	COG1733	1536316	1536663	+	[K] Predicted transcriptional regulators   
+799
+	cds-E6A57_07680	CDS	COG3328	1536849	1537961	+	[L] Transposase and inactivated derivatives  
+800
+	cds-QGY95792.1	CDS	COG1808	1538009	1539268	-	[S] Predicted membrane protein   
+801
+	cds-QGY95318.1	CDS	ROG3888	1539364	1539900	-	NA
+802
+	thrS	CDS	COG0441	1540100	1542034	-	[J] Threonyl-tRNA synthetase    
+803
+	dnaI	CDS	COG1484	1542321	1543229	-	[L] DNA replication protein   
+	cds-QGY95321.1	CDS	COG3611	1543249	1544583	-	[L] Replication initiation/membrane attachment protein  
+	nrdR	CDS	COG1327	1544586	1545053	-	[K] Predicted transcriptional regulator, consists of a
+	cds-QGY95323.1	CDS	COG0237	1545056	1545658	-	[H] Dephospho-CoA kinase    
+	mutM	CDS	COG0266	1545655	1546485	-	[L] Formamidopyrimidine-DNA glycosylase    
+	polA	CDS	COG0749	1546494	1549157	-	[L] DNA polymerase I - 3'-5' exonuclease
+804
+	cds-QGY95793.1	CDS	NA	1549577	1549813	-	NA
+805
+	cds-QGY95326.1	CDS	ROG3443	1550012	1550386	-	NA
+806
+	cds-QGY95327.1	CDS	COG0732	1550637	1552073	-	[V] Restriction endonuclease S subunits  
+	cds-QGY95328.1	CDS	COG0286	1552073	1553551	-	[V] Type I restriction-modification system methyltransferase subunit
+	cds-QGY95329.1	CDS	COG4096	1553565	1555868	-	[V] Type I site-specific restriction-modification system, R
+807
+	cds-QGY95330.1	CDS	NA	1556023	1556778	-	NA
+	cds-QGY95331.1	CDS	NA	1556811	1557533	-	NA
+808
+	cds-QGY95332.1	CDS	NA	1557617	1557976	-	NA
+	cds-QGY95333.1	CDS	ROG7315	1557989	1558798	-	NA
+809
+	cds-QGY95334.1	CDS	NA	1558878	1559213	-	NA
+	cds-E6A57_07780	CDS	COG4880	1559266	1559595	-	[R] Secreted protein containing C-terminal beta-propeller domain
+810
+	purD	CDS	COG0151	1560133	1561776	-	[F] Phosphoribosylamine-glycine ligase    
+811
+	cds-QGY95335.1	CDS	COG0330	1561918	1562799	-	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+	cds-QGY95336.1	CDS	COG3077	1562817	1563131	-	[L] DNA-damage-inducible protein J   
+812
+	cds-QGY95337.1	CDS	NA	1563536	1564513	-	NA
+813
+	cds-QGY95794.1	CDS	NA	1564671	1565522	+	NA
+814
+	cds-QGY95338.1	CDS	NA	1565621	1566598	+	NA
+815
+	cds-QGY95339.1	CDS	COG0534	1566706	1568040	+	[V] Na+-driven multidrug efflux pump  
+816
+	cds-QGY95340.1	CDS	COG0773	1568097	1569410	-	[M] UDP-N-acetylmuramate-alanine ligase    
+817
+	cds-QGY95341.1	CDS	COG0073	1569698	1570345	-	[R] EMAP domain    
+	cds-QGY95342.1	CDS	ROG0471	1570365	1570685	-	NA
+818
+	cds-E6A57_07835	CDS	COG3152	1570775	1571176	-	[S] Predicted membrane protein   
+819
+	trmB	CDS	COG0220	1571406	1572062	-	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+	cds-QGY95344.1	CDS	COG4473	1572072	1573283	-	[U] Predicted ABC-type exoprotein transport system, permease
+	cds-QGY95345.1	CDS	COG4555	1573276	1574019	-	[CP] ABC-type Na+ transport system, ATPase component
+820
+	cds-QGY95346.1	CDS	COG0537	1574110	1574541	+	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	cds-QGY95347.1	CDS	COG1511	1574551	1574907	+	[S] Predicted membrane protein   
+821
+	cds-QGY95348.1	CDS	COG0760	1575026	1575922	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+822
+	cds-QGY95349.1	CDS	COG0800	1576032	1576505	-	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+823
+	cds-QGY95350.1	CDS	COG0675	1576823	1578115	-	[L] Transposase and inactivated derivatives  
+	cds-QGY95351.1	CDS	COG2452	1578146	1578760	-	[L] Predicted site-specific integrase-resolvase   
+	cds-QGY95352.1	CDS	NA	1578790	1580280	-	NA
+824
+	cds-QGY95353.1	CDS	ROG3265	1580642	1581421	-	NA
+	cds-QGY95354.1	CDS	NA	1581446	1581931	-	NA
+825
+	cds-QGY95355.1	CDS	COG3481	1582048	1583025	-	[R] Predicted HD-superfamily hydrolase   
+	cds-QGY95356.1	CDS	COG4717	1583018	1585513	-	[S] Uncharacterized conserved protein   
+	cds-QGY95357.1	CDS	COG0420	1585494	1586711	-	[L] DNA repair exonuclease   
+	cds-QGY95358.1	CDS	COG3679	1586720	1587070	-	[S] Uncharacterized conserved protein   
+	cds-QGY95359.1	CDS	COG0744	1587087	1589144	-	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+826
+	cds-QGY95360.1	CDS	COG0564	1589232	1590089	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+827
+	ppsA	CDS	COG0574	1590144	1592516	-	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+	cds-QGY95362.1	CDS	COG0406	1592533	1593138	-	[G] Fructose-2,6-bisphosphatase     
+828
+	cds-QGY95363.1	CDS	COG0580	1593570	1594322	+	[G] Glycerol uptake facilitator and related permeases
+829
+	cds-QGY95364.1	CDS	COG3666	1594332	1596038	-	[L] Transposase and inactivated derivatives  
+830
+	cds-QGY95365.1	CDS	COG1767	1596374	1597192	-	[H] Triphosphoribosyl-dephospho-CoA synthetase    
+831
+	cds-QGY95366.1	CDS	NA	1597298	1598416	+	NA
+832
+	cds-QGY95367.1	CDS	ROG0304	1598413	1599522	-	NA
+833
+	cds-E6A57_07965	CDS	COG1373	1599678	1600918	-	[R] Predicted ATPase (AAA+ superfamily)  
+834
+	cds-QGY95368.1	CDS	COG3328	1601001	1602179	-	[L] Transposase and inactivated derivatives  
+835
+	cds-QGY95369.1	CDS	ROG0521	1602325	1602612	-	NA
+836
+	cds-QGY95370.1	CDS	ROG0431	1602769	1603092	-	NA
+837
+	cds-QGY95371.1	CDS	COG1575	1603161	1604072	-	[H] 1,4-dihydroxy-2-naphthoate octaprenyltransferase    
+838
+	cds-QGY95372.1	CDS	COG1051	1604351	1604881	-	[F] ADP-ribose pyrophosphatase    
+839
+	cds-QGY95373.1	CDS	COG0191	1604952	1605863	-	[G] Fructose/tagatose bisphosphate aldolase   
+	cds-QGY95374.1	CDS	COG0018	1605974	1607659	-	[J] Arginyl-tRNA synthetase    
+840
+	cds-QGY95375.1	CDS	ROG2219	1608023	1608709	-	NA
+841
+	cds-QGY95376.1	CDS	COG0063	1608835	1609683	-	[G] Predicted sugar kinase   
+	cds-QGY95377.1	CDS	COG1686	1609686	1610987	-	[M] D-alanyl-D-alanine carboxypeptidase    
+842
+	rna-E6A57_08020	tRNA	NA	1611076	1611162	+	NA
+843
+	cds-QGY95795.1	CDS	COG1983	1611291	1611617	+	[KT] Putative stress-responsive transcriptional regulator  
+844
+	cds-QGY95378.1	CDS	COG2244	1612005	1613651	-	[R] Membrane protein involved in the export
+845
+	cds-QGY95379.1	CDS	COG0495	1613745	1616159	-	[J] Leucyl-tRNA synthetase    
+846
+	cds-QGY95380.1	CDS	COG0671	1616449	1617114	+	[I] Membrane-associated phospholipid phosphatase   
+847
+	cds-QGY95381.1	CDS	COG0583	1617157	1618080	-	[K] Transcriptional regulator    
+	cds-QGY95382.1	CDS	ROG6819	1618141	1618815	-	NA
+	cds-E6A57_08055	CDS	NA	1618799	1618867	-	NA
+848
+	cds-E6A57_08060	CDS	COG2801	1618847	1618945	+	[L] Transposase and inactivated derivatives  
+849
+	cds-QGY95383.1	CDS	COG1252	1619015	1620235	-	[C] NADH dehydrogenase, FAD-containing subunit  
+	cds-QGY95384.1	CDS	COG1575	1620250	1621149	-	[H] 1,4-dihydroxy-2-naphthoate octaprenyltransferase    
+850
+	cds-QGY95385.1	CDS	COG0142	1621209	1622198	+	[H] Geranylgeranyl pyrophosphate synthase   
+851
+	ubiE	CDS	COG2226	1622195	1622896	-	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+	cydC	CDS	COG4987	1622906	1624654	-	[CO] ABC-type transport system involved in cytochrome
+	cydD	CDS	COG4988	1624644	1626362	-	[CO] ABC-type transport system involved in cytochrome
+	cydB	CDS	COG1294	1626362	1627378	-	[C] Cytochrome bd-type quinol oxidase, subunit 2
+	cds-QGY95390.1	CDS	COG1271	1627380	1628810	-	[C] Cytochrome bd-type quinol oxidase, subunit 1
+852
+	cds-QGY95391.1	CDS	COG1737	1629137	1629982	-	[K] Transcriptional regulators    
+	cds-QGY95796.1	CDS	COG3589	1630000	1631037	-	[S] Uncharacterized conserved protein   
+	murQ	CDS	COG2103	1631097	1631996	-	[R] Predicted sugar phosphate isomerase  
+	cds-QGY95393.1	CDS	COG2190	1632020	1633990	-	[G] Phosphotransferase system IIA components  
+853
+	cds-QGY95394.1	CDS	COG0477	1634226	1635686	-	[GEPR] Permeases of the major facilitator superfamily
+	cds-QGY95395.1	CDS	COG0192	1635710	1636909	-	[H] S-adenosylmethionine synthetase    
+854
+	rna-E6A57_08135	tRNA	NA	1637067	1637139	-	NA
+	rna-E6A57_08140	tRNA	NA	1637142	1637216	-	NA
+855
+	cds-E6A57_08145	CDS	COG0803	1637368	1638274	-	[P] ABC-type metal ion transport system, periplasmic
+856
+	rna-E6A57_08150	tRNA	NA	1638363	1638453	-	NA
+	rna-E6A57_08155	tRNA	NA	1638464	1638536	-	NA
+	rrf_5	rRNA	NA	1638550	1638666	-	NA
+	rna-E6A57_08165	rRNA	NA	1638736	1641647	-	NA
+	cds-E6A57_08170	CDS	NA	1641645	1641832	-	NA
+	rna-E6A57_08175	rRNA	NA	1641842	1643414	-	NA
+857
+	cds-E6A57_08180	CDS	COG1030	1644128	1645216	-	[O] Membrane-bound serine protease (ClpP class) 
+858
+	cds-QGY95396.1	CDS	NA	1645379	1647124	-	NA
+	cds-QGY95397.1	CDS	NA	1647148	1647492	-	NA
+	cds-QGY95398.1	CDS	ROG0150	1647543	1648031	-	NA
+859
+	serS	CDS	COG0172	1648190	1649497	-	[J] Seryl-tRNA synthetase    
+860
+	cds-QGY95400.1	CDS	COG1670	1649728	1650279	-	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+	cds-QGY95401.1	CDS	COG0398	1650279	1650884	-	[S] Uncharacterized conserved protein   
+861
+	cds-QGY95402.1	CDS	COG0657	1651042	1651836	+	[I] Esterase/lipase     
+	cds-QGY95403.1	CDS	COG0457	1651839	1652699	+	[R] FOG: TPR repeat   
+862
+	cds-QGY95404.1	CDS	COG3613	1652727	1653230	-	[F] Nucleoside 2-deoxyribosyltransferase    
+863
+	cds-QGY95405.1	CDS	COG1012	1653397	1654779	+	[C] NAD-dependent aldehyde dehydrogenases   
+864
+	cds-QGY95406.1	CDS	ROG7447	1654846	1655862	-	NA
+865
+	cds-QGY95407.1	CDS	COG2409	1655976	1659656	-	[R] Predicted drug exporters of the RND
+	cds-QGY95408.1	CDS	ROG6516	1659661	1660236	-	NA
+866
+	cds-QGY95409.1	CDS	NA	1660369	1661313	-	NA
+	cds-QGY95410.1	CDS	COG0598	1661329	1662246	-	[P] Mg2+ and Co2+ transporters  
+867
+	cds-QGY95411.1	CDS	COG1653	1662365	1663666	-	[G] ABC-type sugar transport system, periplasmic component
+	cds-QGY95412.1	CDS	COG0595	1663720	1665015	-	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+	cds-QGY95413.1	CDS	COG0395	1664999	1665823	-	[G] ABC-type sugar transport system, permease component
+	cds-QGY95414.1	CDS	COG1175	1665827	1666693	-	[G] ABC-type sugar transport systems, permease components
+	cds-QGY95415.1	CDS	COG3842	1666693	1667781	-	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+868
+	cds-QGY95416.1	CDS	COG4690	1668038	1669465	-	[E] Dipeptidase     
+	cds-QGY95417.1	CDS	ROG8511	1669522	1670376	-	NA
+	cds-QGY95418.1	CDS	COG2176	1670386	1671342	-	[L] DNA polymerase III, alpha subunit (gram-positive
+	cds-QGY95419.1	CDS	NA	1671358	1672179	-	NA
+	cds-QGY95420.1	CDS	COG2323	1672181	1672828	-	[S] Predicted membrane protein   
+	cds-QGY95421.1	CDS	ROG1134	1672828	1673277	-	NA
+869
+	cds-QGY95422.1	CDS	COG3201	1673380	1674120	-	[H] Nicotinamide mononucleotide transporter   
+870
+	cds-QGY95423.1	CDS	NA	1674375	1674686	+	NA
+871
+	cds-QGY95424.1	CDS	COG2461	1674730	1675470	-	[S] Uncharacterized conserved protein   
+872
+	cds-QGY95425.1	CDS	COG4988	1675619	1677223	-	[CO] ABC-type transport system involved in cytochrome
+873
+	cds-QGY95426.1	CDS	COG0596	1677345	1678262	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	cds-QGY95427.1	CDS	COG0745	1678320	1679039	+	[TK] Response regulators consisting of a CheY-like
+	cds-QGY95428.1	CDS	COG2205	1679017	1680360	+	[T] Osmosensitive K+ channel histidine kinase 
+874
+	cds-QGY95429.1	CDS	COG3212	1680479	1681027	+	[S] Predicted membrane protein   
+	cds-QGY95430.1	CDS	COG3212	1681045	1681656	+	[S] Predicted membrane protein   
+875
+	cds-QGY95431.1	CDS	COG0454	1681718	1682242	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	cds-QGY95432.1	CDS	ROG7539	1682242	1682697	-	NA
+876
+	cds-QGY95433.1	CDS	COG4988	1682794	1684413	-	[CO] ABC-type transport system involved in cytochrome
+	cds-QGY95434.1	CDS	COG4166	1684533	1686179	-	[E] ABC-type oligopeptide transport system, periplasmic component
+877
+	cds-QGY95435.1	CDS	COG3759	1686480	1686875	+	[S] Predicted membrane protein   
+878
+	cds-QGY95436.1	CDS	COG3212	1687002	1687589	+	[S] Predicted membrane protein   
+879
+	efp_2	CDS	COG0231	1687636	1688211	-	[J] Translation elongation factor P (EF-P)/translation initiation
+880
+	cds-QGY95438.1	CDS	COG1072	1688327	1689241	-	[H] Panthothenate kinase    
+881
+	cds-QGY95439.1	CDS	COG2755	1689301	1689858	+	[E] Lysophospholipase L1 and related esterases 
+882
+	cds-QGY95440.1	CDS	COG2153	1689855	1690304	-	[R] Predicted acyltransferase    
+	cds-QGY95441.1	CDS	COG0834	1690306	1691121	-	[ET] ABC-type amino acid transport/signal transduction systems,
+	cds-QGY95442.1	CDS	COG1126	1691125	1691745	-	[E] ABC-type polar amino acid transport system,
+	cds-QGY95443.1	CDS	COG3666	1691759	1694131	-	[L] Transposase and inactivated derivatives  
+883
+	cds-QGY95444.1	CDS	COG3973	1694647	1696953	-	[R] Superfamily I DNA and RNA helicases
+884
+	cds-QGY95445.1	CDS	COG5549	1697106	1697798	+	[O] Predicted Zn-dependent protease   
+885
+	cds-QGY95446.1	CDS	COG0406	1697859	1698509	+	[G] Fructose-2,6-bisphosphatase     
+886
+	cds-QGY95447.1	CDS	COG4640	1698652	1699923	-	[S] Predicted membrane protein   
+887
+	cds-QGY95448.1	CDS	NA	1700064	1700750	+	NA
+888
+	cds-QGY95449.1	CDS	COG0474	1700930	1703581	+	[P] Cation transport ATPase   
+889
+	cds-QGY95450.1	CDS	COG2893	1703631	1704029	-	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+	cds-QGY95451.1	CDS	NA	1704085	1704378	-	NA
+890
+	cds-QGY95452.1	CDS	COG0252	1704659	1705651	-	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+	cds-QGY95453.1	CDS	COG1737	1705663	1706436	-	[K] Transcriptional regulators    
+	cds-QGY95454.1	CDS	COG1486	1706568	1707905	-	[G] Alpha-galactosidases/6-phospho-beta-glucosidases, family 4 of glycosyl hydrolases
+891
+	cds-QGY95455.1	CDS	NA	1708727	1709560	+	NA
+892
+	cds-QGY95456.1	CDS	NA	1710018	1710560	+	NA
+893
+	hpt_2	CDS	COG0634	1710586	1711119	-	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+894
+	cds-QGY95458.1	CDS	COG1672	1711363	1712760	+	[R] Predicted ATPase (AAA+ superfamily)  
+895
+	cds-QGY95797.1	CDS	COG0454	1712811	1713374	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	cds-QGY95459.1	CDS	NA	1713395	1715542	-	NA
+896
+	cds-QGY95460.1	CDS	COG3049	1715735	1715947	+	[M] Penicillin V acylase and related amidases
+	cds-QGY95461.1	CDS	COG3049	1715925	1716746	+	[M] Penicillin V acylase and related amidases
+897
+	cds-QGY95462.1	CDS	COG1404	1716808	1721844	-	[O] Subtilisin-like serine proteases   
+898
+	cds-QGY95463.1	CDS	COG3883	1722119	1722718	-	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY95464.1	CDS	NA	1722747	1723256	-	NA
+899
+	cds-E6A57_08535	CDS	NA	1723399	1723518	-	NA
+900
+	cds-QGY95465.1	CDS	COG3328	1723842	1725020	-	[L] Transposase and inactivated derivatives  
+901
+	cds-QGY95466.1	CDS	COG2604	1725763	1726074	-	[S] Uncharacterized protein conserved in bacteria 
+902
+	cds-QGY95467.1	CDS	ROG6912	1726307	1726681	-	NA
+	cds-QGY95468.1	CDS	NA	1726678	1727256	-	NA
+	cds-E6A57_08560	CDS	COG4226	1727317	1727516	-	[S] Uncharacterized protein encoded in hypervariable junctions
+903
+	cds-E6A57_08565	CDS	NA	1727768	1727839	-	NA
+904
+	cds-E6A57_08570	CDS	COG3328	1727911	1728771	+	[L] Transposase and inactivated derivatives  
+905
+	cds-QGY95798.1	CDS	ROG1478	1728903	1730438	-	NA
+906
+	cds-QGY95469.1	CDS	COG1349	1730806	1731072	+	[KG] Transcriptional regulators of sugar metabolism 
+907
+	cds-QGY95470.1	CDS	ROG4525	1731180	1732232	-	NA
+	cds-QGY95471.1	CDS	COG4637	1732222	1733931	-	[R] Predicted ATPase    
+908
+	cds-QGY95472.1	CDS	COG0272	1734010	1734831	-	[L] NAD-dependent DNA ligase (contains BRCT domain
+	cds-E6A57_08600	CDS	NA	1734892	1734975	-	NA
+909
+	cds-E6A57_08605	CDS	COG2826	1734989	1736038	+	[L] Transposase and inactivated derivatives, IS30 family
+910
+	rfbD	CDS	COG1091	1736219	1737205	-	[M] dTDP-4-dehydrorhamnose reductase    
+	rfbC	CDS	COG1898	1737222	1737830	-	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+	rfbA	CDS	COG1209	1737856	1738740	-	[M] dTDP-glucose pyrophosphorylase    
+	rfbB	CDS	COG1088	1738743	1739780	-	[M] dTDP-D-glucose 4,6-dehydratase    
+	cds-QGY95477.1	CDS	COG0500	1739864	1741036	-	[QR] SAM-dependent methyltransferases    
+911
+	cds-QGY95478.1	CDS	ROG2602	1741491	1741814	-	NA
+912
+	cds-E6A57_08640	CDS	NA	1742251	1744118	-	NA
+913
+	cds-QGY95479.1	CDS	NA	1744295	1746187	-	NA
+914
+	cds-E6A57_08650	CDS	COG3547	1746761	1747042	+	[L] Transposase and inactivated derivatives  
+915
+	cds-QGY95480.1	CDS	ROG0476	1747139	1748734	-	NA
+916
+	cds-QGY95481.1	CDS	NA	1749488	1750438	-	NA
+917
+	cds-QGY95482.1	CDS	ROG3508	1750634	1751230	-	NA
+	cds-QGY95483.1	CDS	COG0732	1751278	1753119	-	[V] Restriction endonuclease S subunits  
+918
+	cds-QGY95484.1	CDS	ROG3888	1753276	1753806	-	NA
+919
+	cds-E6A57_08680	CDS	COG1210	1753929	1754152	-	[M] UDP-glucose pyrophosphorylase    
+920
+	cds-QGY95485.1	CDS	NA	1754263	1754769	-	NA
+921
+	cds-QGY95486.1	CDS	COG2244	1755033	1756496	-	[R] Membrane protein involved in the export
+	cds-QGY95487.1	CDS	COG0438	1756514	1757608	-	[M] Glycosyltransferase     
+	cds-QGY95488.1	CDS	NA	1757648	1758874	-	NA
+	cds-QGY95489.1	CDS	COG1216	1758871	1759749	-	[R] Predicted glycosyltransferases    
+	cds-QGY95490.1	CDS	COG0438	1759760	1760953	-	[M] Glycosyltransferase     
+	cds-QGY95491.1	CDS	COG0463	1760960	1761919	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	cds-QGY95492.1	CDS	COG0438	1761920	1762981	-	[M] Glycosyltransferase     
+	cds-QGY95493.1	CDS	NA	1762986	1763861	-	NA
+	cds-QGY95494.1	CDS	COG0438	1763863	1765017	-	[M] Glycosyltransferase     
+	cds-QGY95495.1	CDS	COG0438	1765017	1766183	-	[M] Glycosyltransferase     
+	cds-QGY95496.1	CDS	COG2148	1766217	1766870	-	[M] Sugar transferases involved in lipopolysaccharide synthesis
+	cds-QGY95497.1	CDS	COG4464	1766975	1767745	-	[GM] Capsular polysaccharide biosynthesis protein  
+	cds-QGY95498.1	CDS	COG0455	1767745	1768530	-	[D] ATPases involved in chromosome partitioning 
+	cds-QGY95499.1	CDS	COG3944	1768545	1769423	-	[M] Capsular polysaccharide biosynthesis protein  
+	cds-QGY95500.1	CDS	COG1316	1769446	1770498	-	[K] Transcriptional regulator    
+922
+	cds-QGY95501.1	CDS	COG3077	1770731	1770991	-	[L] DNA-damage-inducible protein J   
+923
+	hflX	CDS	COG2262	1771371	1772636	+	[R] GTPases     
+	cds-QGY95503.1	CDS	NA	1772654	1773682	+	NA
+924
+	cds-E6A57_08780	CDS	NA	1774066	1774484	-	NA
+925
+	cds-QGY95799.1	CDS	COG0791	1774905	1775801	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+	cds-QGY95504.1	CDS	COG0791	1775968	1776711	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+	cds-QGY95505.1	CDS	COG0791	1776980	1777531	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+926
+	cds-QGY95506.1	CDS	COG0194	1777704	1778246	-	[F] Guanylate kinase    
+927
+	cds-QGY95507.1	CDS	ROG1680	1778342	1778644	+	NA
+928
+	cds-QGY95508.1	CDS	ROG7077	1778730	1780238	+	NA
+929
+	cds-QGY95509.1	CDS	ROG4645	1780292	1780915	-	NA
+930
+	cds-QGY95510.1	CDS	COG0675	1781103	1782254	-	[L] Transposase and inactivated derivatives  
+931
+	nrdI	CDS	COG1780	1782547	1782993	+	[F] Protein involved in ribonucleotide reduction 
+	cds-QGY95512.1	CDS	COG0208	1782996	1783931	+	[F] Ribonucleotide reductase, beta subunit  
+932
+	cds-QGY95513.1	CDS	ROG2881	1783971	1784501	-	NA
+933
+	cds-QGY95514.1	CDS	ROG0160	1784780	1786186	-	NA
+934
+	cds-QGY95800.1	CDS	COG4990	1786350	1786937	+	[S] Uncharacterized protein conserved in bacteria 
+935
+	cds-QGY95515.1	CDS	COG3610	1787134	1787619	-	[S] Uncharacterized conserved protein   
+	cds-QGY95516.1	CDS	COG2966	1787622	1788392	-	[S] Uncharacterized conserved protein   
+	cds-QGY95517.1	CDS	COG0488	1788403	1789944	-	[R] ATPase components of ABC transporters with
+	cds-QGY95518.1	CDS	ROG4594	1789959	1790339	-	NA
+936
+	cds-QGY95519.1	CDS	COG1670	1790457	1791035	+	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+937
+	cds-QGY95801.1	CDS	NA	1791524	1791892	+	NA
+938
+	cds-QGY95520.1	CDS	COG1811	1791889	1792578	-	[R] Uncharacterized membrane protein, possible Na+ channel
+939
+	cds-QGY95521.1	CDS	COG1316	1792644	1793876	-	[K] Transcriptional regulator    
+940
+	pepF	CDS	COG1164	1794043	1795839	+	[E] Oligoendopeptidase F    
+941
+	cds-E6A57_08895	CDS	COG2963	1796144	1796518	-	[L] Transposase and inactivated derivatives  
+942
+	cds-QGY95523.1	CDS	COG3547	1796785	1798011	+	[L] Transposase and inactivated derivatives  
+943
+	cds-QGY95524.1	CDS	NA	1798509	1799042	-	NA
+944
+	cds-QGY95525.1	CDS	ROG0160	1799183	1800589	-	NA
+945
+	cds-QGY95802.1	CDS	ROG1506	1800833	1802203	-	NA
+946
+	cds-QGY95526.1	CDS	COG1108	1802491	1803285	-	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+	cds-QGY95527.1	CDS	COG1121	1803285	1803932	-	[P] ABC-type Mn/Zn transport systems, ATPase component
+	cds-QGY95528.1	CDS	COG0803	1803960	1804853	-	[P] ABC-type metal ion transport system, periplasmic
+947
+	cds-QGY95803.1	CDS	COG0640	1805107	1805385	-	[K] Predicted transcriptional regulators   
+948
+	cds-QGY95529.1	CDS	COG1299	1805603	1807600	-	[G] Phosphotransferase system, fructose-specific IIC component 
+	pfkB	CDS	COG1105	1807621	1808535	-	[G] Fructose-1-phosphate kinase and related fructose-6-phosphate kinase
+	cds-QGY95804.1	CDS	COG1349	1808537	1809292	-	[KG] Transcriptional regulators of sugar metabolism 
+949
+	cds-QGY95531.1	CDS	COG1668	1809600	1810823	-	[CP] ABC-type Na+ efflux pump, permease component
+	cds-QGY95532.1	CDS	COG4152	1810807	1811703	-	[R] ABC-type uncharacterized transport system, ATPase component
+	cds-QGY95533.1	CDS	ROG7161	1811742	1811978	-	NA
+950
+	cds-QGY95534.1	CDS	ROG6645	1812119	1812220	-	NA
+	cds-QGY95535.1	CDS	ROG6863	1812239	1812661	-	NA
+	cds-QGY95536.1	CDS	NA	1812695	1812889	-	NA
+951
+	cds-QGY95537.1	CDS	COG3655	1813022	1813231	-	[K] Predicted transcriptional regulator   
+	cds-QGY95538.1	CDS	NA	1813246	1813785	-	NA
+	cds-QGY95539.1	CDS	NA	1813790	1813930	-	NA
+952
+	cds-QGY95540.1	CDS	ROG3399	1814137	1814352	-	NA
+953
+	cds-E6A57_09005	CDS	NA	1814422	1814616	-	NA
+	cds-QGY95541.1	CDS	COG2826	1814634	1815668	-	[L] Transposase and inactivated derivatives, IS30 family
+954
+	cds-QGY95542.1	CDS	NA	1816069	1816293	-	NA
+955
+	cds-QGY95543.1	CDS	ROG7027	1816545	1816763	-	NA
+	cds-QGY95544.1	CDS	COG2237	1816814	1817077	-	[S] Predicted membrane protein   
+	cds-QGY95545.1	CDS	ROG1688	1817089	1817493	-	NA
+956
+	cds-QGY95546.1	CDS	NA	1817667	1817879	-	NA
+	cds-QGY95547.1	CDS	COG3279	1817903	1818703	-	[KT] Response regulator of the LytR/AlgR family
+	cds-QGY95548.1	CDS	COG3290	1818696	1820039	-	[T] Signal transduction histidine kinase regulating citrate/malate
+957
+	cds-QGY95549.1	CDS	COG1266	1820324	1821535	-	[R] Predicted metal-dependent membrane protease  
+	cds-QGY95550.1	CDS	COG1266	1821995	1823194	-	[R] Predicted metal-dependent membrane protease  
+958
+	cds-QGY95551.1	CDS	NA	1823331	1823549	-	NA
+	cds-QGY95552.1	CDS	NA	1823565	1823972	-	NA
+959
+	cds-QGY95553.1	CDS	ROG3884	1824104	1824289	-	NA
+960
+	cds-QGY95554.1	CDS	COG1501	1824454	1826760	-	[G] Alpha-glucosidases, family 31 of glycosyl hydrolases
+961
+	cds-QGY95555.1	CDS	COG0277	1826907	1828310	-	[C] FAD/FMN-containing dehydrogenases    
+962
+	cds-QGY95556.1	CDS	NA	1828518	1828703	-	NA
+	cds-QGY95557.1	CDS	NA	1828718	1828909	-	NA
+963
+	cds-QGY95558.1	CDS	ROG0533	1828985	1829209	-	NA
+964
+	cds-QGY95559.1	CDS	NA	1829358	1829681	-	NA
+965
+	cds-QGY95560.1	CDS	COG1794	1829823	1830572	-	[M] Aspartate racemase    
+	cds-QGY95561.1	CDS	COG0769	1830582	1832153	-	[M] UDP-N-acetylmuramyl tripeptide synthase   
+	cds-QGY95562.1	CDS	COG0642	1832206	1833360	-	[T] Signal transduction histidine kinase  
+	cds-QGY95563.1	CDS	COG0745	1833362	1834048	-	[TK] Response regulators consisting of a CheY-like
+966
+	cds-QGY95564.1	CDS	ROG3505	1834236	1834529	+	NA
+967
+	cds-QGY95565.1	CDS	COG0675	1834740	1835981	-	[L] Transposase and inactivated derivatives  
+968
+	cds-QGY95805.1	CDS	COG1132	1836235	1838088	-	[V] ABC-type multidrug transport system, ATPase and
+	cds-QGY95566.1	CDS	COG1132	1838110	1839834	-	[V] ABC-type multidrug transport system, ATPase and
+969
+	cds-QGY95806.1	CDS	NA	1839885	1839959	+	NA
+970
+	cds-QGY95567.1	CDS	COG4858	1839981	1840766	-	[S] Uncharacterized membrane-bound protein conserved in bacteria
+	ychF	CDS	COG0012	1840775	1841875	-	[J] Predicted GTPase, probable translation factor 
+	cds-QGY95569.1	CDS	COG4481	1841929	1842192	-	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY95570.1	CDS	COG1475	1842185	1843072	-	[K] Predicted transcriptional regulators   
+	cds-QGY95571.1	CDS	COG1192	1843050	1843829	-	[D] ATPases involved in chromosome partitioning 
+	noc	CDS	COG1475	1843848	1844684	-	[K] Predicted transcriptional regulators   
+	rsmG	CDS	COG0357	1844702	1845424	-	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+971
+	cds-QGY95574.1	CDS	COG1286	1845586	1846122	+	[R] Uncharacterized membrane protein, required for colicin
+972
+	cds-QGY95807.1	CDS	NA	1846309	1846446	+	NA
+973
+	cds-QGY95575.1	CDS	COG1477	1846539	1847468	-	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+	cds-QGY95576.1	CDS	COG2365	1847471	1848262	-	[T] Protein tyrosine/serine phosphatase   
+974
+	cds-QGY95577.1	CDS	COG0431	1848354	1848902	-	[R] Predicted flavoprotein    
+	cds-QGY95578.1	CDS	COG0431	1848916	1849455	-	[R] Predicted flavoprotein    
+975
+	cds-QGY95579.1	CDS	ROG6516	1849602	1850225	-	NA
+976
+	cds-QGY95580.1	CDS	NA	1850353	1850595	-	NA
+977
+	cds-QGY95581.1	CDS	COG4690	1850704	1852116	+	[E] Dipeptidase     
+978
+	cds-QGY95582.1	CDS	COG1136	1852149	1852823	-	[V] ABC-type antimicrobial peptide transport system, ATPase
+	cds-QGY95583.1	CDS	NA	1852825	1853886	-	NA
+	cds-QGY95584.1	CDS	COG1309	1853889	1854413	-	[K] Transcriptional regulator    
+979
+	cds-QGY95585.1	CDS	COG0406	1854530	1855129	-	[G] Fructose-2,6-bisphosphatase     
+980
+	cds-QGY95586.1	CDS	COG1073	1855258	1856013	+	[R] Hydrolases of the alpha/beta superfamily 
+981
+	yaaA_2	CDS	COG3022	1856010	1856771	-	[S] Uncharacterized protein conserved in bacteria 
+982
+	cds-QGY95588.1	CDS	NA	1856830	1857474	+	NA
+983
+	cds-QGY95589.1	CDS	COG1085	1857558	1858355	-	[C] Galactose-1-phosphate uridylyltransferase    
+984
+	cds-QGY95590.1	CDS	ROG2219	1858513	1859715	+	NA
+985
+	cds-QGY95591.1	CDS	ROG1561	1859807	1859998	+	NA
+986
+	cds-QGY95592.1	CDS	COG0675	1860180	1861511	+	[L] Transposase and inactivated derivatives  
+987
+	cds-QGY95593.1	CDS	ROG4553	1861675	1862448	-	NA
+	cds-QGY95594.1	CDS	COG3279	1862451	1862900	-	[KT] Response regulator of the LytR/AlgR family
+988
+	cds-QGY95595.1	CDS	ROG1659	1863041	1863322	-	NA
+	cds-QGY95596.1	CDS	COG3104	1863381	1864874	-	[E] Dipeptide/tripeptide permease    
+	cds-QGY95597.1	CDS	COG0308	1864989	1867526	-	[E] Aminopeptidase N    
+989
+	cds-QGY95598.1	CDS	ROG7992	1867740	1868102	+	NA
+990
+	cds-QGY95599.1	CDS	NA	1868174	1869157	-	NA
+991
+	cds-QGY95600.1	CDS	NA	1869310	1870557	+	NA
+992
+	cds-QGY95601.1	CDS	COG2452	1870695	1871309	+	[L] Predicted site-specific integrase-resolvase   
+	cds-E6A57_09330	CDS	COG0675	1871340	1872666	+	[L] Transposase and inactivated derivatives  
+993
+	cds-QGY95602.1	CDS	NA	1872774	1872956	+	NA
+994
+	cds-QGY95603.1	CDS	COG2110	1872900	1873403	-	[R] Predicted phosphatase homologous to the C-terminal
+995
+	cds-QGY95604.1	CDS	NA	1873577	1873906	+	NA
+	cds-QGY95605.1	CDS	NA	1873911	1874267	+	NA
+996
+	cds-QGY95606.1	CDS	ROG1746	1874449	1874898	-	NA
+	cds-QGY95607.1	CDS	NA	1874924	1875193	-	NA
+997
+	cds-QGY95608.1	CDS	ROG6867	1875330	1876151	-	NA
+998
+	cds-QGY95609.1	CDS	COG3833	1876261	1877118	-	[G] ABC-type maltose transport systems, permease component
+	cds-QGY95610.1	CDS	COG1175	1877121	1878479	-	[G] ABC-type sugar transport systems, permease components
+	cds-QGY95611.1	CDS	COG2182	1878554	1879780	-	[G] Maltose-binding periplasmic proteins/domains   
+	cds-QGY95612.1	CDS	COG3839	1879895	1881001	-	[G] ABC-type sugar transport systems, ATPase components
+	pgmB	CDS	COG0637	1881023	1881685	-	[R] Predicted phosphatase/phosphohexomutase    
+	cds-QGY95614.1	CDS	COG1554	1881678	1883942	-	[G] Trehalose and maltose hydrolases (possible phosphorylases)
+	cds-QGY95615.1	CDS	COG3280	1884114	1885835	-	[G] Maltooligosyl trehalose synthase   
+	cds-QGY95616.1	CDS	COG0366	1885839	1887500	-	[G] Glycosidases     
+999
+	cds-QGY95617.1	CDS	COG2461	1887613	1888041	-	[S] Uncharacterized conserved protein   
+	cds-QGY95618.1	CDS	COG0282	1888042	1889220	-	[C] Acetate kinase    
+	cds-QGY95619.1	CDS	COG1609	1889364	1890314	-	[K] Transcriptional regulators    
+	cds-QGY95620.1	CDS	COG2365	1890322	1891095	-	[T] Protein tyrosine/serine phosphatase   
+	cds-QGY95621.1	CDS	COG0554	1891151	1892650	-	[C] Glycerol kinase    
+1000
+	thiD	CDS	COG0351	1892775	1893590	+	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+1001
+	cds-QGY95623.1	CDS	NA	1893966	1894199	-	NA
+1002
+	cds-QGY95624.1	CDS	NA	1894297	1895070	-	NA
+1003
+	cds-QGY95625.1	CDS	COG0675	1895299	1896591	-	[L] Transposase and inactivated derivatives  
+	cds-QGY95626.1	CDS	COG2452	1896622	1897236	-	[L] Predicted site-specific integrase-resolvase   
+1004
+	cds-QGY95627.1	CDS	COG4115	1897441	1897698	-	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY95628.1	CDS	COG2161	1897695	1897970	-	[D] Antitoxin of toxin-antitoxin stability system 
+1005
+	cds-QGY95629.1	CDS	NA	1898164	1899390	-	NA
+1006
+	cds-QGY95630.1	CDS	COG4988	1899618	1901222	-	[CO] ABC-type transport system involved in cytochrome
+1007
+	cds-QGY95631.1	CDS	COG3077	1901417	1901827	+	[L] DNA-damage-inducible protein J   
+	cds-QGY95808.1	CDS	ROG5352	1901833	1902126	+	NA
+1008
+	cds-QGY95632.1	CDS	COG3442	1902196	1902882	+	[R] Predicted glutamine amidotransferase   
+1009
+	cds-QGY95633.1	CDS	COG0791	1902927	1903412	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+1010
+	cds-QGY95634.1	CDS	NA	1903607	1903957	+	NA
+1011
+	cds-E6A57_09505	CDS	NA	1904078	1904945	+	NA
+1012
+	cds-QGY95635.1	CDS	NA	1905221	1905538	+	NA
+	cds-QGY95636.1	CDS	NA	1905528	1905809	+	NA
+1013
+	cds-QGY95637.1	CDS	COG0697	1905830	1906759	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+	cds-QGY95638.1	CDS	COG0697	1906838	1907758	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+	cds-QGY95639.1	CDS	COG0697	1907841	1908506	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+1014
+	cds-QGY95640.1	CDS	NA	1908572	1909216	-	NA
+	cds-QGY95641.1	CDS	NA	1909231	1909863	-	NA
+1015
+	cds-QGY95642.1	CDS	COG1434	1909975	1911006	+	[S] Uncharacterized conserved protein   
+1016
+	cds-QGY95643.1	CDS	COG0488	1911185	1912582	+	[R] ATPase components of ABC transporters with
+1017
+	cds-QGY95644.1	CDS	ROG6819	1912608	1913102	-	NA
+1018
+	cds-QGY95645.1	CDS	ROG4094	1913207	1913566	-	NA
+1019
+	cds-QGY95646.1	CDS	COG5294	1913656	1913997	-	[S] Uncharacterized protein conserved in bacteria 
+1020
+	purB	CDS	COG0015	1914096	1915394	-	[F] Adenylosuccinate lyase    
+	cds-QGY95648.1	CDS	COG0104	1915398	1916687	-	[F] Adenylosuccinate synthase    
+1021
+	cds-QGY95649.1	CDS	COG0516	1916885	1917877	+	[F] IMP dehydrogenase/GMP reductase   
+1022
+	rna-E6A57_09585	tRNA	NA	1918075	1918148	+	NA
+	rna-E6A57_09590	tRNA	NA	1918157	1918230	+	NA
+1023
+	cds-QGY95650.1	CDS	COG3589	1918307	1919365	-	[S] Uncharacterized conserved protein   
+1024
+	cds-QGY95651.1	CDS	COG2502	1919801	1920814	+	[E] Asparagine synthetase A   
+1025
+	cds-QGY95652.1	CDS	COG0531	1920879	1922270	-	[E] Amino acid transporters   
+	cds-QGY95653.1	CDS	COG2071	1922283	1923011	-	[R] Predicted glutamine amidotransferases   
+1026
+	cds-E6A57_09615	CDS	COG1113	1923218	1924590	-	[E] Gamma-aminobutyrate permease and related permeases 
+	cds-QGY95654.1	CDS	COG1113	1924663	1926012	-	[E] Gamma-aminobutyrate permease and related permeases 
+1027
+	lepB_2	CDS	COG0681	1926175	1926807	-	[U] Signal peptidase I   
+1028
+	cds-QGY95656.1	CDS	COG4988	1926894	1928480	-	[CO] ABC-type transport system involved in cytochrome
+1029
+	cds-QGY95657.1	CDS	COG0542	1928846	1930972	-	[O] ATPases with chaperone activity, ATP-binding subunit
+1030
+	cds-QGY95658.1	CDS	COG4814	1931303	1932193	-	[R] Uncharacterized protein with an alpha/beta hydrolase
+	cds-QGY95659.1	CDS	COG1455	1932174	1933481	-	[G] Phosphotransferase system cellobiose-specific component IIC 
+1031
+	cds-QGY95809.1	CDS	COG1136	1933575	1934276	+	[V] ABC-type antimicrobial peptide transport system, ATPase
+	cds-E6A57_09655	CDS	NA	1934277	1936827	+	NA
+	cds-QGY95660.1	CDS	NA	1936874	1937110	+	NA
+1032
+	cds-QGY95661.1	CDS	COG2244	1937213	1938829	-	[R] Membrane protein involved in the export
+1033
+	cds-QGY95662.1	CDS	ROG7262	1939119	1940069	+	NA
+1034
+	cds-QGY95663.1	CDS	COG5523	1940141	1940857	-	[S] Predicted integral membrane protein  
+1035
+	cds-QGY95664.1	CDS	COG1680	1941173	1942114	-	[V] Beta-lactamase class C and other penicillin
+	dltD	CDS	COG3966	1942114	1943400	-	[M] Protein involved in D-alanine esterification of
+	dltC	CDS	ROG6101	1943393	1943632	-	NA
+	dltB	CDS	COG1696	1943691	1944929	-	[M] Predicted membrane protein involved in D-alanine
+	dltA	CDS	COG1020	1944929	1946443	-	[Q] Non-ribosomal peptide synthetase modules and related
+	cds-QGY95669.1	CDS	ROG7624	1946459	1946611	-	NA
+1036
+	cds-QGY95670.1	CDS	NA	1946760	1947056	-	NA
+	cds-QGY95671.1	CDS	COG3391	1947082	1948218	-	[S] Uncharacterized conserved protein   
+1037
+	cds-QGY95672.1	CDS	NA	1948617	1948820	-	NA
+1038
+	cds-QGY95673.1	CDS	COG1125	1948801	1949271	+	[E] ABC-type proline/glycine betaine transport systems, ATPase
+1039
+	cadA_2	CDS	COG2217	1949400	1951262	+	[P] Cation transport ATPase   
+1040
+	cds-QGY95675.1	CDS	ROG1903	1951420	1952076	+	NA
+1041
+	cds-QGY95676.1	CDS	NA	1952117	1952236	-	NA
+1042
+	cds-QGY95677.1	CDS	COG0475	1952231	1953400	+	[P] Kef-type K+ transport systems, membrane components
+1043
+	cds-QGY95678.1	CDS	COG4988	1953440	1954999	-	[CO] ABC-type transport system involved in cytochrome
+1044
+	cds-QGY95679.1	CDS	COG3595	1955345	1955962	-	[S] Uncharacterized conserved protein   
+1045
+	cds-QGY95680.1	CDS	NA	1956057	1956917	+	NA
+1046
+	cds-QGY95681.1	CDS	NA	1956995	1957351	-	NA
+1047
+	cds-QGY95682.1	CDS	NA	1957580	1958848	-	NA
+1048
+	cds-QGY95683.1	CDS	NA	1958955	1959824	+	NA
+1049
+	cds-QGY95684.1	CDS	COG1266	1959853	1960506	-	[R] Predicted metal-dependent membrane protease  
+1050
+	cds-QGY95685.1	CDS	COG1434	1960598	1961701	+	[S] Uncharacterized conserved protein   
+	cds-QGY95686.1	CDS	COG1136	1961716	1964055	+	[V] ABC-type antimicrobial peptide transport system, ATPase
+1051
+	cds-QGY95687.1	CDS	COG2352	1964163	1966901	+	[C] Phosphoenolpyruvate carboxylase    
+1052
+	cds-QGY95688.1	CDS	COG4684	1966992	1967597	-	[S] Predicted membrane protein   
+1053
+	cds-QGY95689.1	CDS	COG1744	1967903	1968997	+	[R] Uncharacterized ABC-type transport system, periplasmic component/surface
+	cds-QGY95690.1	CDS	COG1744	1969140	1970225	+	[R] Uncharacterized ABC-type transport system, periplasmic component/surface
+	cds-QGY95691.1	CDS	COG3845	1970307	1971845	+	[R] ABC-type uncharacterized transport systems, ATPase components
+	cds-QGY95692.1	CDS	COG4603	1971838	1972986	+	[R] ABC-type uncharacterized transport system, permease component
+	cds-QGY95693.1	CDS	COG1079	1972986	1973942	+	[R] Uncharacterized ABC-type transport system, permease component
+1054
+	cds-QGY95694.1	CDS	COG0667	1974047	1974874	-	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+1055
+	nagB	CDS	COG0363	1975001	1975720	+	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+1056
+	cds-QGY95696.1	CDS	COG1428	1976015	1976662	+	[F] Deoxynucleoside kinases    
+	cds-QGY95697.1	CDS	COG1428	1976680	1977366	+	[F] Deoxynucleoside kinases    
+1057
+	cds-QGY95698.1	CDS	ROG1842	1977479	1977937	+	NA
+1058
+	cds-QGY95699.1	CDS	COG0561	1977985	1978785	-	[R] Predicted hydrolases of the HAD superfamily
+1059
+	cds-QGY95700.1	CDS	COG2252	1979014	1980321	+	[R] Permeases     
+1060
+	cds-E6A57_09865	CDS	COG1373	1980384	1980518	-	[R] Predicted ATPase (AAA+ superfamily)  
+1061
+	cds-QGY95701.1	CDS	NA	1980801	1981103	+	NA
+	cds-QGY95702.1	CDS	COG1266	1981106	1982293	+	[R] Predicted metal-dependent membrane protease  
+1062
+	cds-QGY95703.1	CDS	COG0789	1982378	1983103	-	[K] Predicted transcriptional regulators   
+1063
+	cds-QGY95704.1	CDS	COG2252	1983287	1984597	+	[R] Permeases     
+1064
+	cds-QGY95705.1	CDS	COG3077	1984764	1985030	+	[L] DNA-damage-inducible protein J   
+	cds-QGY95706.1	CDS	ROG0748	1985020	1985352	+	NA
+1065
+	cds-E6A57_09900	CDS	COG0300	1985534	1985692	+	[R] Short-chain dehydrogenases of various substrate specificities
+	cds-QGY95707.1	CDS	NA	1985737	1986342	+	NA
+	cds-QGY95708.1	CDS	COG2207	1986346	1986723	+	[K] AraC-type DNA-binding domain-containing proteins  
+1066
+	cds-QGY95709.1	CDS	COG1373	1986813	1988066	+	[R] Predicted ATPase (AAA+ superfamily)  
+1067
+	cds-QGY95710.1	CDS	COG0561	1988104	1988877	-	[R] Predicted hydrolases of the HAD superfamily
+1068
+	cds-QGY95711.1	CDS	COG2252	1989031	1990341	+	[R] Permeases     
+1069
+	cds-E6A57_09930	CDS	COG3307	1990441	1990695	+	[M] Lipid A core - O-antigen ligase
+1070
+	cds-E6A57_09935	CDS	COG1476	1990838	1990972	+	[K] Predicted transcriptional regulators   
+1071
+	cds-E6A57_09940	CDS	NA	1991144	1991345	-	NA
+1072
+	cds-E6A57_09945	CDS	NA	1991302	1991535	+	NA
+1073
+	cds-QGY95712.1	CDS	ROG5177	1991703	1992131	-	NA
+1074
+	lnu(C)	CDS	ROG6552	1992207	1992701	-	NA
+	cds-QGY95714.1	CDS	COG3677	1992725	1993762	-	[L] Transposase and inactivated derivatives  
+1075
+	cds-E6A57_09965	CDS	ROG5177	1993853	1993981	-	NA
+1076
+	ant(9)	CDS	ROG6100	1994181	1994957	-	NA
+	cds-QGY95716.1	CDS	COG2820	1994982	1995752	-	[F] Uridine phosphorylase    
+	cds-E6A57_09980	CDS	COG4235	1995777	1995968	-	[O] Cytochrome c biogenesis factor  
+1077
+	cds-E6A57_09985	CDS	COG2801	1996083	1997237	-	[L] Transposase and inactivated derivatives  
+1078
+	cds-E6A57_09990	CDS	ROG5437	1997329	1997601	+	NA
+1079
+	cds-QGY95717.1	CDS	COG3682	1997718	1998158	+	[K] Predicted transcriptional regulator   
+	cds-QGY95718.1	CDS	COG4633	1998174	1998551	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY95719.1	CDS	COG4633	1998564	1998851	+	[S] Uncharacterized protein conserved in bacteria 
+	cds-QGY95720.1	CDS	COG2217	1998851	2000791	+	[P] Cation transport ATPase   
+1080
+	cds-QGY95721.1	CDS	COG0664	2000783	2001427	-	[T] cAMP-binding proteins - catabolite gene activator
+1081
+	cds-QGY95722.1	CDS	ROG8105	2001520	2002074	+	NA
+1082
+	cds-QGY95723.1	CDS	COG3666	2002071	2003771	-	[L] Transposase and inactivated derivatives  
+1083
+	tet	CDS	COG0480	2003974	2005892	-	[J] Translation elongation factors (GTPases)  
+1084
+	cds-E6A57_10035	CDS	NA	2006255	2006353	-	NA
+1085
+	cds-QGY95724.1	CDS	COG3716	2006547	2006801	+	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+1086
+	cds-QGY95725.1	CDS	COG0477	2007017	2008381	+	[GEPR] Permeases of the major facilitator superfamily
+1087
+	cds-QGY95726.1	CDS	NA	2008438	2008590	-	NA
+	cds-QGY95727.1	CDS	NA	2008651	2009760	-	NA
+1088
+	cds-E6A57_10060	CDS	ROG0004	2009886	2010655	-	NA
+1089
+	cds-E6A57_10065	CDS	COG2932	2010839	2011209	+	[K] Predicted transcriptional regulator   
+	cds-QGY95728.1	CDS	ROG7818	2011187	2011612	+	NA
+1090
+	cds-QGY95729.1	CDS	COG0038	2011722	2013281	-	[P] Chloride channel protein EriC  
+1091
+	gndA	CDS	COG0362	2013383	2014786	-	[G] 6-phosphogluconate dehydrogenase    
+1092
+	cds-QGY95731.1	CDS	COG0760	2015128	2015355	-	[O] Parvulin-like peptidyl-prolyl isomerase   
+1093
+	spxB	CDS	COG3960	2015569	2017377	-	[R] Glyoxylate carboligase    
+1094
+	mnmG	CDS	COG0445	2017746	2019644	-	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+	mnmE	CDS	COG0486	2019652	2021037	-	[R] Predicted GTPase    
+	cds-QGY95735.1	CDS	COG0706	2021148	2022023	-	[U] Preprotein translocase subunit YidC  
+	rnpA	CDS	COG0594	2022025	2022393	-	[J] RNase P protein component  
+	cds-QGY95737.1	CDS	ROG1469	2022445	2022585	-	NA
+1095
+	cds-QGY95810.1	CDS	NA	207	851	-	NA
+	cds-QGY95811.1	CDS	COG0531	908	1186	-	[E] Amino acid transporters   
+	cds-QGY95824.1	CDS	NA	1164	1604	-	NA
+1096
+	cds-QGY95812.1	CDS	NA	2270	2374	+	NA
+1097
+	cds-QGY95813.1	CDS	NA	2581	3609	-	NA
+1098
+	cds-QGY95814.1	CDS	ROG2440	4381	4908	+	NA
+1099
+	cds-QGY95815.1	CDS	ROG1837	5811	6893	-	NA
+1100
+	cds-QGY95816.1	CDS	COG1961	8322	8948	-	[L] Site-specific recombinases, DNA invertase Pin homologs
+1101
+	cds-QGY95817.1	CDS	COG1396	10021	10869	-	[K] Predicted transcriptional regulators   
+1102
+	cds-QGY95818.1	CDS	NA	10966	12240	+	NA
+1103
+	cds-QGY95819.1	CDS	ROG7818	12360	12824	-	NA
+	cds-QGY95820.1	CDS	COG2932	12805	13161	-	[K] Predicted transcriptional regulator   
+1104
+	cds-QGY95821.1	CDS	COG3019	13479	13793	+	[R] Predicted metal-binding protein   
+	cds-QGY95822.1	CDS	NA	13824	14762	+	NA
+1105
+	cds-QGY95823.1	CDS	NA	14870	16078	+	NA
