@@ -1,0 +1,8 @@
+GTDB/GTDB_db/pangenomes.tar.gz filter=lfs diff=lfs merge=lfs -text
+VMGC/VMGC_db/pangenomes.tar.gz filter=lfs diff=lfs merge=lfs -text
+GTDB/GTDB_metadata/bac120_metadata_r214.tsv.gz filter=lfs diff=lfs merge=lfs -text
+cervical_dysplasia/MIDAS3/combined_ref/results_C75.tar.gz filter=lfs diff=lfs merge=lfs -text
+cervical_dysplasia/MIDAS3/combined_ref/results_C90.tar.gz filter=lfs diff=lfs merge=lfs -text
+cervical_dysplasia/microSLAM/NCBI_isolates/BLAST_NCBI_to_C75/l_crispatus_CDS_to_C75.out filter=lfs diff=lfs merge=lfs -text
+cervical_dysplasia/MIDAS3/VMGC_ref/results_C75.tar.gz filter=lfs diff=lfs merge=lfs -text
+cervical_dysplasia/MIDAS3/VMGC_ref/results_C90.tar.gz filter=lfs diff=lfs merge=lfs -text
