@@ -1,5 +1,5 @@
 This repository contains the analysis scripts, notebooks, and subsetted data files necessary to reproduce the findings in this manuscript:
-**Expanding vaginal microbiome pangenomes via a custom MIDAS database reveals Lactobacillus crispatus accessory genes associated with cervical dysplasia:** [https://www.biorxiv.org/content/10.1101/2025.09.11.675634v1.full](https://www.biorxiv.org/content/10.1101/2025.09.11.675634v1.full)
+**Expanding vaginal microbiome pangenomes via a custom MIDAS database reveals *Lactobacillus crispatus* accessory genes associated with cervical dysplasia:** [https://www.biorxiv.org/content/10.1101/2025.09.11.675634v1.full](https://www.biorxiv.org/content/10.1101/2025.09.11.675634v1.full)
 
 ---
 
