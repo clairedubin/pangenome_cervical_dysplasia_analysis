@@ -1,6 +1,1 @@
 compare_VMGC_GTDB/rarefaction/rarefaction_sources
-GTDB/
-VMGC/
-*.tar.gz
-*.tsv.gz
-*.out
