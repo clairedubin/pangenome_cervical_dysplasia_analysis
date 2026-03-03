@@ -1,8 +1,0 @@
-Across samples abundant species merging in subcommand merge_species with args
-{
-    "subcommand": "merge_species",
-    "debug": false,
-    "midas_outdir": ".",
-    "samples_list": "sample_list.tsv",
-    "min_cov": 0.75
-}

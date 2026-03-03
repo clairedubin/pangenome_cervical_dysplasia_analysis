@@ -1,3 +1,0 @@
-seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
-CP058996.1|provirus_981906_1031717	49812	Provirus	981906-1031717	82	11	0.9988	0.0012	10	64.7495	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes
-CP058996.1|provirus_1072132_1115706	43575	Provirus	1072132-1115706	61	11	0.9955	0.0028	8	34.6475	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes

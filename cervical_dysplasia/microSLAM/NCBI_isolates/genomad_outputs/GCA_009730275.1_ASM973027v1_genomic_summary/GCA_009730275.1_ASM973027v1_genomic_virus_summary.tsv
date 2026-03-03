@@ -1,2 +1,0 @@
-seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
-CP046311.1|provirus_2170713_2281468	110756	Provirus	2170713-2281468	146	11	0.9967	0.0033	10	52.5997	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes

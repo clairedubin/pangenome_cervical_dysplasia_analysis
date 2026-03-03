@@ -1,2 +1,0 @@
-seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
-CP039267.1	16343	No terminal repeats	14	11	0.9989	0.0011	0	5.6184	NA	NA
