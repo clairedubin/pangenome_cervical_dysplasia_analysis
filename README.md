@@ -50,8 +50,8 @@ Analyzing the pre-existing GTDB-based pangenome database.
 
 Building and analyzing the VMGC pangenome database.
 
-* Jupyter notebooks for metadata table generation, pangenome counting, and evaluating pangenome sizes across species with $\ge$ 5 genomes.
 * Code to map original VMGC `.info` files (from Huang, et al. 2024) into MIDAS-compatible metadata files.
+* Evaluating pangenome sizes across species with $\ge$ 5 genomes.
 
 ---
 
