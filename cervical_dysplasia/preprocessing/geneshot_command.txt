@@ -1,0 +1,1 @@
+nextflow run /wynton/protected/home/sirota/clairedubin/src/geneshot/modules/preprocess.nf --manifest manifest_pre_qc.csv --host_index /wynton/protected/home/sirota/clairedubin/reference/hg_index.tar.gz -w /wynton/protected/scratch/clairedubin/preprocess2_scratch/ -c /wynton/protected/home/sirota/clairedubin/src/geneshot/nextflow.config --savereads            
