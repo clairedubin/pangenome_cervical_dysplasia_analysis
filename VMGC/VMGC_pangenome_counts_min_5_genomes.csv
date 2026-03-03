@@ -1,712 +1,904 @@
 species_name,VMGC_species_code,cluster_level,VMGC_pangenome_size,num_genomes
-Lactobacillus iners,240891,75,5545,1876
-Lactobacillus iners,240891,80,5742,1876
-Lactobacillus iners,240891,85,6016,1876
-Lactobacillus iners,240891,90,6602,1876
-Lactobacillus iners,240891,95,8443,1876
-Lactobacillus iners,240891,99,28945,1876
-Lactobacillus crispatus,988598,75,8737,856
-Lactobacillus crispatus,988598,80,9071,856
-Lactobacillus crispatus,988598,85,9699,856
-Lactobacillus crispatus,988598,90,10704,856
-Lactobacillus crispatus,988598,95,13044,856
-Lactobacillus crispatus,988598,99,22984,856
-Fannyhessea vaginae,619501,75,4454,786
-Fannyhessea vaginae,619501,80,4719,786
-Fannyhessea vaginae,619501,85,5171,786
-Fannyhessea vaginae,619501,90,6256,786
-Fannyhessea vaginae,619501,95,11859,786
-Fannyhessea vaginae,619501,99,99104,786
-Bifidobacterium vaginale,783244,75,4287,700
-Bifidobacterium vaginale,783244,80,4630,700
-Bifidobacterium vaginale,783244,85,5296,700
-Bifidobacterium vaginale,783244,90,6618,700
-Bifidobacterium vaginale,783244,95,11086,700
-Bifidobacterium vaginale,783244,99,55339,700
-Megasphaera lornae,829633,75,3403,697
-Megasphaera lornae,829633,80,3607,697
-Megasphaera lornae,829633,85,3896,697
-Megasphaera lornae,829633,90,4405,697
-Megasphaera lornae,829633,95,5997,697
-Megasphaera lornae,829633,99,16653,697
-Prevotella_unknown,719869,75,15379,648
-Prevotella_unknown,719869,80,15942,648
-Prevotella_unknown,719869,85,16818,648
-Prevotella_unknown,719869,90,18533,648
-Prevotella_unknown,719869,95,24294,648
-Prevotella_unknown,719869,99,75764,648
-Bifidobacterium swidsinskii,367459,75,4326,566
-Bifidobacterium swidsinskii,367459,80,4620,566
-Bifidobacterium swidsinskii,367459,85,5116,566
-Bifidobacterium swidsinskii,367459,90,6095,566
-Bifidobacterium swidsinskii,367459,95,8997,566
-Bifidobacterium swidsinskii,367459,99,25636,566
-Prevotella amnii,498055,75,5180,513
-Prevotella amnii,498055,80,5407,513
-Prevotella amnii,498055,85,5694,513
-Prevotella amnii,498055,90,6248,513
-Prevotella amnii,498055,95,7533,513
-Prevotella amnii,498055,99,25498,513
-Dialister sp001553355,667712,75,5233,483
-Dialister sp001553355,667712,80,5469,483
-Dialister sp001553355,667712,85,5849,483
-Dialister sp001553355,667712,90,6662,483
-Dialister sp001553355,667712,95,9035,483
-Dialister sp001553355,667712,99,84028,483
-Berryella sp001552935,198418,75,3609,482
-Berryella sp001552935,198418,80,3809,482
-Berryella sp001552935,198418,85,4215,482
-Berryella sp001552935,198418,90,5266,482
-Berryella sp001552935,198418,95,8693,482
-Berryella sp001552935,198418,99,34115,482
-Amygdalobacter indicium (BVAB2),567022,75,2773,473
-Amygdalobacter indicium (BVAB2),567022,80,2852,473
-Amygdalobacter indicium (BVAB2),567022,85,3001,473
-Amygdalobacter indicium (BVAB2),567022,90,3360,473
-Amygdalobacter indicium (BVAB2),567022,95,4541,473
-Amygdalobacter indicium (BVAB2),567022,99,25352,473
-Sneathia vaginalis,988627,75,4189,471
-Sneathia vaginalis,988627,80,4319,471
-Sneathia vaginalis,988627,85,4576,471
-Sneathia vaginalis,988627,90,5155,471
-Sneathia vaginalis,988627,95,7055,471
-Sneathia vaginalis,988627,99,28903,471
-Fannyhessea_unknown,379267,75,7464,465
-Fannyhessea_unknown,379267,80,7912,465
-Fannyhessea_unknown,379267,85,8724,465
-Fannyhessea_unknown,379267,90,10213,465
-Fannyhessea_unknown,379267,95,15718,465
-Fannyhessea_unknown,379267,99,91907,465
-UBA629 sp005465875 (BVAB1),123406,75,4031,461
-UBA629 sp005465875 (BVAB1),123406,80,4157,461
-UBA629 sp005465875 (BVAB1),123406,85,4324,461
-UBA629 sp005465875 (BVAB1),123406,90,4565,461
-UBA629 sp005465875 (BVAB1),123406,95,5317,461
-UBA629 sp005465875 (BVAB1),123406,99,14143,461
-Prevotella timonensis_A,941235,75,12264,417
-Prevotella timonensis_A,941235,80,12839,417
-Prevotella timonensis_A,941235,85,13861,417
-Prevotella timonensis_A,941235,90,15916,417
-Prevotella timonensis_A,941235,95,23120,417
-Prevotella timonensis_A,941235,99,162848,417
-Bifidobacterium piotii,595185,75,3376,361
-Bifidobacterium piotii,595185,80,3626,361
-Bifidobacterium piotii,595185,85,4090,361
-Bifidobacterium piotii,595185,90,5070,361
-Bifidobacterium piotii,595185,95,9063,361
-Bifidobacterium piotii,595185,99,53748,361
-Bifidobacterium vaginale_A,927036,75,3668,357
-Bifidobacterium vaginale_A,927036,80,3906,357
-Bifidobacterium vaginale_A,927036,85,4370,357
-Bifidobacterium vaginale_A,927036,90,5076,357
-Bifidobacterium vaginale_A,927036,95,7095,357
-Bifidobacterium vaginale_A,927036,99,22298,357
-Parvimonas sp001552895,921722,75,4188,334
-Parvimonas sp001552895,921722,80,4299,334
-Parvimonas sp001552895,921722,85,4503,334
-Parvimonas sp001552895,921722,90,4892,334
-Parvimonas sp001552895,921722,95,6121,334
-Parvimonas sp001552895,921722,99,17283,334
-Lactobacillus jensenii,571325,75,2996,327
-Lactobacillus jensenii,571325,80,3074,327
-Lactobacillus jensenii,571325,85,3181,327
-Lactobacillus jensenii,571325,90,3353,327
-Lactobacillus jensenii,571325,95,3738,327
-Lactobacillus jensenii,571325,99,4820,327
-Sneathia sanguinegens,581434,75,3299,292
-Sneathia sanguinegens,581434,80,3405,292
-Sneathia sanguinegens,581434,85,3605,292
-Sneathia sanguinegens,581434,90,4011,292
-Sneathia sanguinegens,581434,95,5106,292
-Sneathia sanguinegens,581434,99,16308,292
-Bifidobacterium vaginale_C,696853,75,4163,292
-Bifidobacterium vaginale_C,696853,80,4529,292
-Bifidobacterium vaginale_C,696853,85,5218,292
-Bifidobacterium vaginale_C,696853,90,6547,292
-Bifidobacterium vaginale_C,696853,95,11003,292
-Bifidobacterium vaginale_C,696853,99,48154,292
-Bifidobacterium_unknown,271650,75,6450,285
-Bifidobacterium_unknown,271650,80,7209,285
-Bifidobacterium_unknown,271650,85,8693,285
-Bifidobacterium_unknown,271650,90,11022,285
-Bifidobacterium_unknown,271650,95,16718,285
-Bifidobacterium_unknown,271650,99,48366,285
-Prevotella sp000758925,382359,75,6093,274
-Prevotella sp000758925,382359,80,6237,274
-Prevotella sp000758925,382359,85,6454,274
-Prevotella sp000758925,382359,90,6817,274
-Prevotella sp000758925,382359,95,7954,274
-Prevotella sp000758925,382359,99,21736,274
-Fannyhessea massiliensis,856589,75,3122,272
-Fannyhessea massiliensis,856589,80,3273,272
-Fannyhessea massiliensis,856589,85,3597,272
-Fannyhessea massiliensis,856589,90,4312,272
-Fannyhessea massiliensis,856589,95,7522,272
-Fannyhessea massiliensis,856589,99,39129,272
-Megasphaera hutchinsoni,320153,75,3265,271
-Megasphaera hutchinsoni,320153,80,3380,271
-Megasphaera hutchinsoni,320153,85,3520,271
-Megasphaera hutchinsoni,320153,90,3769,271
-Megasphaera hutchinsoni,320153,95,4371,271
-Megasphaera hutchinsoni,320153,99,12136,271
+Acinetobacter baumannii,619896,75,4559,5
+Acinetobacter baumannii,619896,80,4592,5
+Acinetobacter baumannii,619896,85,4635,5
+Acinetobacter baumannii,619896,90,4691,5
+Acinetobacter baumannii,619896,95,4939,5
+Acinetobacter baumannii,619896,99,7549,5
+Actinobaculum massiliense,629828,75,1875,5
+Actinobaculum massiliense,629828,80,1880,5
+Actinobaculum massiliense,629828,85,1884,5
+Actinobaculum massiliense,629828,90,1886,5
+Actinobaculum massiliense,629828,95,1889,5
+Actinobaculum massiliense,629828,99,1899,5
+Actinotignum sanguinis,858790,75,1984,5
+Actinotignum sanguinis,858790,80,2004,5
+Actinotignum sanguinis,858790,85,2043,5
+Actinotignum sanguinis,858790,90,2112,5
+Actinotignum sanguinis,858790,95,2282,5
+Actinotignum sanguinis,858790,99,2643,5
 Aerococcus christensenii,542621,75,2555,260
 Aerococcus christensenii,542621,80,2642,260
 Aerococcus christensenii,542621,85,2738,260
 Aerococcus christensenii,542621,90,2933,260
 Aerococcus christensenii,542621,95,3451,260
 Aerococcus christensenii,542621,99,8274,260
-Prevotella bivia,900875,75,6150,255
-Prevotella bivia,900875,80,6363,255
-Prevotella bivia,900875,85,6759,255
-Prevotella bivia,900875,90,7343,255
-Prevotella bivia,900875,95,8566,255
-Prevotella bivia,900875,99,15797,255
-Bifidobacterium vaginale_H,126681,75,3263,222
-Bifidobacterium vaginale_H,126681,80,3575,222
-Bifidobacterium vaginale_H,126681,85,4092,222
-Bifidobacterium vaginale_H,126681,90,4959,222
-Bifidobacterium vaginale_H,126681,95,7240,222
-Bifidobacterium vaginale_H,126681,99,24480,222
-Dialister micraerophilus,226762,75,2868,216
-Dialister micraerophilus,226762,80,2951,216
-Dialister micraerophilus,226762,85,3081,216
-Dialister micraerophilus,226762,90,3302,216
-Dialister micraerophilus,226762,95,3886,216
-Dialister micraerophilus,226762,99,24737,216
-Lactobacillus mulieris,499721,75,3415,206
-Lactobacillus mulieris,499721,80,3479,206
-Lactobacillus mulieris,499721,85,3578,206
-Lactobacillus mulieris,499721,90,3792,206
-Lactobacillus mulieris,499721,95,4320,206
-Lactobacillus mulieris,499721,99,7482,206
-Lactobacillus gasseri,611554,75,4310,202
-Lactobacillus gasseri,611554,80,4427,202
-Lactobacillus gasseri,611554,85,4630,202
-Lactobacillus gasseri,611554,90,5083,202
-Lactobacillus gasseri,611554,95,6101,202
-Lactobacillus gasseri,611554,99,10189,202
-Mobiluncus mulieris,916256,75,4502,188
-Mobiluncus mulieris,916256,80,4647,188
-Mobiluncus mulieris,916256,85,4831,188
-Mobiluncus mulieris,916256,90,5166,188
-Mobiluncus mulieris,916256,95,6197,188
-Mobiluncus mulieris,916256,99,18672,188
-Bifidobacterium vaginale_D,207192,75,2853,181
-Bifidobacterium vaginale_D,207192,80,3114,181
-Bifidobacterium vaginale_D,207192,85,3468,181
-Bifidobacterium vaginale_D,207192,90,4059,181
-Bifidobacterium vaginale_D,207192,95,5478,181
-Bifidobacterium vaginale_D,207192,99,12356,181
-Streptococcus agalactiae,861111,75,4662,178
-Streptococcus agalactiae,861111,80,4770,178
-Streptococcus agalactiae,861111,85,4938,178
-Streptococcus agalactiae,861111,90,5191,178
-Streptococcus agalactiae,861111,95,5785,178
-Streptococcus agalactiae,861111,99,8335,178
-Mageeibacillus indolicus (BVAB3),665829,75,2485,173
-Mageeibacillus indolicus (BVAB3),665829,80,2549,173
-Mageeibacillus indolicus (BVAB3),665829,85,2637,173
-Mageeibacillus indolicus (BVAB3),665829,90,2842,173
-Mageeibacillus indolicus (BVAB3),665829,95,3552,173
-Mageeibacillus indolicus (BVAB3),665829,99,9247,173
-Peptoniphilus_A lacrimalis,879245,75,4105,151
-Peptoniphilus_A lacrimalis,879245,80,4175,151
-Peptoniphilus_A lacrimalis,879245,85,4289,151
-Peptoniphilus_A lacrimalis,879245,90,4596,151
-Peptoniphilus_A lacrimalis,879245,95,5556,151
-Peptoniphilus_A lacrimalis,879245,99,19933,151
-Nanoperiomorbus sp004136275,105986,75,1166,141
-Nanoperiomorbus sp004136275,105986,80,1299,141
-Nanoperiomorbus sp004136275,105986,85,1426,141
-Nanoperiomorbus sp004136275,105986,90,1778,141
-Nanoperiomorbus sp004136275,105986,95,4730,141
-Nanoperiomorbus sp004136275,105986,99,18173,141
-Bifidobacterium vaginale_F,781098,75,2927,129
-Bifidobacterium vaginale_F,781098,80,3140,129
-Bifidobacterium vaginale_F,781098,85,3497,129
-Bifidobacterium vaginale_F,781098,90,4168,129
-Bifidobacterium vaginale_F,781098,95,6189,129
-Bifidobacterium vaginale_F,781098,99,23273,129
-Metamycoplasma hominis,524101,75,919,121
-Metamycoplasma hominis,524101,80,954,121
-Metamycoplasma hominis,524101,85,1005,121
-Metamycoplasma hominis,524101,90,1110,121
-Metamycoplasma hominis,524101,95,1494,121
-Metamycoplasma hominis,524101,99,12185,121
-Gemella asaccharolytica,697687,75,2317,120
-Gemella asaccharolytica,697687,80,2380,120
-Gemella asaccharolytica,697687,85,2486,120
-Gemella asaccharolytica,697687,90,2687,120
-Gemella asaccharolytica,697687,95,3413,120
-Gemella asaccharolytica,697687,99,13201,120
-Cryptobacteroides_unknown,936138,75,5630,112
-Cryptobacteroides_unknown,936138,80,6031,112
-Cryptobacteroides_unknown,936138,85,6238,112
-Cryptobacteroides_unknown,936138,90,6435,112
-Cryptobacteroides_unknown,936138,95,6834,112
-Cryptobacteroides_unknown,936138,99,13626,112
-Peptoniphilus_A vaginalis,309208,75,4093,111
-Peptoniphilus_A vaginalis,309208,80,4176,111
-Peptoniphilus_A vaginalis,309208,85,4329,111
-Peptoniphilus_A vaginalis,309208,90,4791,111
-Peptoniphilus_A vaginalis,309208,95,6761,111
-Peptoniphilus_A vaginalis,309208,99,22953,111
-Prevotella disiens,332460,75,5170,108
-Prevotella disiens,332460,80,5315,108
-Prevotella disiens,332460,85,5538,108
-Prevotella disiens,332460,90,5872,108
-Prevotella disiens,332460,95,6551,108
-Prevotella disiens,332460,99,14109,108
-Berryella_unknown,109652,75,2974,104
-Berryella_unknown,109652,80,3160,104
-Berryella_unknown,109652,85,3491,104
-Berryella_unknown,109652,90,4245,104
-Berryella_unknown,109652,95,6926,104
-Berryella_unknown,109652,99,35639,104
-Peptostreptococcus anaerobius,536396,75,3552,95
-Peptostreptococcus anaerobius,536396,80,3605,95
-Peptostreptococcus anaerobius,536396,85,3702,95
-Peptostreptococcus anaerobius,536396,90,3897,95
-Peptostreptococcus anaerobius,536396,95,4254,95
-Peptostreptococcus anaerobius,536396,99,7833,95
-Anaerococcus tetradius,204857,75,3706,92
-Anaerococcus tetradius,204857,80,3744,92
-Anaerococcus tetradius,204857,85,3826,92
-Anaerococcus tetradius,204857,90,4110,92
-Anaerococcus tetradius,204857,95,5290,92
-Anaerococcus tetradius,204857,99,14692,92
-Porphyromonas uenonis_A,474121,75,3659,83
-Porphyromonas uenonis_A,474121,80,3794,83
-Porphyromonas uenonis_A,474121,85,4029,83
-Porphyromonas uenonis_A,474121,90,4397,83
-Porphyromonas uenonis_A,474121,95,6112,83
-Porphyromonas uenonis_A,474121,99,32937,83
-Bifidobacterium breve,897926,75,5550,82
-Bifidobacterium breve,897926,80,5705,82
-Bifidobacterium breve,897926,85,5889,82
-Bifidobacterium breve,897926,90,6197,82
-Bifidobacterium breve,897926,95,6911,82
-Bifidobacterium breve,897926,99,14853,82
-Lactobacillus paragasseri,223646,75,3372,81
-Lactobacillus paragasseri,223646,80,3446,81
-Lactobacillus paragasseri,223646,85,3608,81
-Lactobacillus paragasseri,223646,90,3906,81
-Lactobacillus paragasseri,223646,95,4703,81
-Lactobacillus paragasseri,223646,99,8705,81
-Enterococcus faecalis,129724,75,5959,76
-Enterococcus faecalis,129724,80,6079,76
-Enterococcus faecalis,129724,85,6215,76
-Enterococcus faecalis,129724,90,6426,76
-Enterococcus faecalis,129724,95,6869,76
-Enterococcus faecalis,129724,99,15063,76
-Mobiluncus curtisii,462889,75,3291,75
-Mobiluncus curtisii,462889,80,3346,75
-Mobiluncus curtisii,462889,85,3464,75
-Mobiluncus curtisii,462889,90,3754,75
-Mobiluncus curtisii,462889,95,4598,75
-Mobiluncus curtisii,462889,99,11137,75
-Nanoperiomorbus_unknown,482453,75,2256,71
-Nanoperiomorbus_unknown,482453,80,2470,71
-Nanoperiomorbus_unknown,482453,85,2706,71
-Nanoperiomorbus_unknown,482453,90,3126,71
-Nanoperiomorbus_unknown,482453,95,5133,71
-Nanoperiomorbus_unknown,482453,99,16605,71
-Prevotella sp000479005,502327,75,4818,66
-Prevotella sp000479005,502327,80,4930,66
-Prevotella sp000479005,502327,85,5095,66
-Prevotella sp000479005,502327,90,5506,66
-Prevotella sp000479005,502327,95,9171,66
-Prevotella sp000479005,502327,99,30770,66
-Streptococcus anginosus,899308,75,3606,62
-Streptococcus anginosus,899308,80,3685,62
-Streptococcus anginosus,899308,85,3777,62
-Streptococcus anginosus,899308,90,3881,62
-Streptococcus anginosus,899308,95,4113,62
-Streptococcus anginosus,899308,99,4892,62
-Neisseria gonorrhoeae,553981,75,2290,59
-Neisseria gonorrhoeae,553981,80,2330,59
-Neisseria gonorrhoeae,553981,85,2413,59
-Neisseria gonorrhoeae,553981,90,2674,59
-Neisseria gonorrhoeae,553981,95,3198,59
-Neisseria gonorrhoeae,553981,99,5586,59
-Stomatobaculum sp002892395,448856,75,3512,56
-Stomatobaculum sp002892395,448856,80,3563,56
-Stomatobaculum sp002892395,448856,85,3642,56
-Stomatobaculum sp002892395,448856,90,3759,56
-Stomatobaculum sp002892395,448856,95,4090,56
-Stomatobaculum sp002892395,448856,99,8739,56
-Escherichia coli,166172,75,10932,55
-Escherichia coli,166172,80,11175,55
-Escherichia coli,166172,85,11543,55
-Escherichia coli,166172,90,12118,55
-Escherichia coli,166172,95,14232,55
-Escherichia coli,166172,99,41963,55
-Porphyromonas_unknown,136202,75,7700,53
-Porphyromonas_unknown,136202,80,8056,53
-Porphyromonas_unknown,136202,85,8543,53
-Porphyromonas_unknown,136202,90,9623,53
-Porphyromonas_unknown,136202,95,12493,53
-Porphyromonas_unknown,136202,99,28451,53
-Arcanobacterium_A sp000758825,738524,75,2159,53
-Arcanobacterium_A sp000758825,738524,80,2178,53
-Arcanobacterium_A sp000758825,738524,85,2190,53
-Arcanobacterium_A sp000758825,738524,90,2233,53
-Arcanobacterium_A sp000758825,738524,95,2364,53
-Arcanobacterium_A sp000758825,738524,99,4674,53
-Peptoniphilus_A harei_A,403858,75,3984,53
-Peptoniphilus_A harei_A,403858,80,4026,53
-Peptoniphilus_A harei_A,403858,85,4118,53
-Peptoniphilus_A harei_A,403858,90,4429,53
-Peptoniphilus_A harei_A,403858,95,6367,53
-Peptoniphilus_A harei_A,403858,99,29673,53
-Limosilactobacillus portuensis,559158,75,2967,51
-Limosilactobacillus portuensis,559158,80,3048,51
-Limosilactobacillus portuensis,559158,85,3153,51
-Limosilactobacillus portuensis,559158,90,3373,51
-Limosilactobacillus portuensis,559158,95,3956,51
-Limosilactobacillus portuensis,559158,99,6150,51
-Chlamydia trachomatis,674974,75,925,51
-Chlamydia trachomatis,674974,80,925,51
-Chlamydia trachomatis,674974,85,928,51
-Chlamydia trachomatis,674974,90,939,51
-Chlamydia trachomatis,674974,95,973,51
-Chlamydia trachomatis,674974,99,1187,51
-Bifidobacterium leopoldii,976363,75,1822,50
-Bifidobacterium leopoldii,976363,80,1864,50
-Bifidobacterium leopoldii,976363,85,1945,50
-Bifidobacterium leopoldii,976363,90,2084,50
-Bifidobacterium leopoldii,976363,95,2436,50
-Bifidobacterium leopoldii,976363,99,5218,50
-Bifidobacterium vaginale_B,998576,75,1874,48
-Bifidobacterium vaginale_B,998576,80,1962,48
-Bifidobacterium vaginale_B,998576,85,2076,48
-Bifidobacterium vaginale_B,998576,90,2356,48
-Bifidobacterium vaginale_B,998576,95,3334,48
-Bifidobacterium vaginale_B,998576,99,11089,48
-Sodaliphilus_unknown,856531,75,3337,48
-Sodaliphilus_unknown,856531,80,3358,48
-Sodaliphilus_unknown,856531,85,3397,48
-Sodaliphilus_unknown,856531,90,3485,48
-Sodaliphilus_unknown,856531,95,3653,48
-Sodaliphilus_unknown,856531,99,7053,48
-Prevotella colorans,845738,75,3741,44
-Prevotella colorans,845738,80,3787,44
-Prevotella colorans,845738,85,3830,44
-Prevotella colorans,845738,90,3936,44
-Prevotella colorans,845738,95,4233,44
-Prevotella colorans,845738,99,13918,44
-Porphyromonas sp001552775,625126,75,2382,40
-Porphyromonas sp001552775,625126,80,2440,40
-Porphyromonas sp001552775,625126,85,2523,40
-Porphyromonas sp001552775,625126,90,2640,40
-Porphyromonas sp001552775,625126,95,2966,40
-Porphyromonas sp001552775,625126,99,8601,40
-Prevotella melaninogenica,681331,75,4109,39
-Prevotella melaninogenica,681331,80,4176,39
-Prevotella melaninogenica,681331,85,4278,39
-Prevotella melaninogenica,681331,90,4414,39
-Prevotella melaninogenica,681331,95,4640,39
-Prevotella melaninogenica,681331,99,6871,39
-Veillonella montpellierensis,674615,75,2853,39
-Veillonella montpellierensis,674615,80,2902,39
-Veillonella montpellierensis,674615,85,2979,39
-Veillonella montpellierensis,674615,90,3149,39
-Veillonella montpellierensis,674615,95,3756,39
-Veillonella montpellierensis,674615,99,12344,39
-Amygdalobacter nucleatus,791236,75,1769,36
-Amygdalobacter nucleatus,791236,80,1790,36
-Amygdalobacter nucleatus,791236,85,1820,36
-Amygdalobacter nucleatus,791236,90,1859,36
-Amygdalobacter nucleatus,791236,95,1941,36
-Amygdalobacter nucleatus,791236,99,2908,36
-Finegoldia magna_H,542611,75,3016,36
-Finegoldia magna_H,542611,80,3051,36
-Finegoldia magna_H,542611,85,3141,36
-Finegoldia magna_H,542611,90,3311,36
-Finegoldia magna_H,542611,95,4353,36
-Finegoldia magna_H,542611,99,18481,36
-UBA629 sp005465875,652998,75,1884,36
-UBA629 sp005465875,652998,80,1902,36
-UBA629 sp005465875,652998,85,1925,36
-UBA629 sp005465875,652998,90,1954,36
-UBA629 sp005465875,652998,95,2041,36
-UBA629 sp005465875,652998,99,3912,36
-Ureaplasma parvum,952860,75,692,31
-Ureaplasma parvum,952860,80,696,31
-Ureaplasma parvum,952860,85,699,31
-Ureaplasma parvum,952860,90,718,31
-Ureaplasma parvum,952860,95,750,31
-Ureaplasma parvum,952860,99,982,31
-KA00274 sp902373515,608480,75,1694,30
-KA00274 sp902373515,608480,80,1705,30
-KA00274 sp902373515,608480,85,1733,30
-KA00274 sp902373515,608480,90,1788,30
-KA00274 sp902373515,608480,95,2010,30
-KA00274 sp902373515,608480,99,5370,30
-Limosilactobacillus vaginalis,158849,75,2633,28
-Limosilactobacillus vaginalis,158849,80,2684,28
-Limosilactobacillus vaginalis,158849,85,2755,28
-Limosilactobacillus vaginalis,158849,90,2885,28
-Limosilactobacillus vaginalis,158849,95,3177,28
-Limosilactobacillus vaginalis,158849,99,3835,28
-Bifidobacterium sp003585735,705861,75,1742,24
-Bifidobacterium sp003585735,705861,80,1804,24
-Bifidobacterium sp003585735,705861,85,1908,24
-Bifidobacterium sp003585735,705861,90,2147,24
-Bifidobacterium sp003585735,705861,95,3025,24
-Bifidobacterium sp003585735,705861,99,8082,24
-Bifidobacterium longum,592117,75,4605,23
-Bifidobacterium longum,592117,80,4699,23
-Bifidobacterium longum,592117,85,4815,23
-Bifidobacterium longum,592117,90,4977,23
-Bifidobacterium longum,592117,95,5385,23
-Bifidobacterium longum,592117,99,8975,23
-Staphylococcus epidermidis,679715,75,3153,23
-Staphylococcus epidermidis,679715,80,3210,23
-Staphylococcus epidermidis,679715,85,3282,23
-Staphylococcus epidermidis,679715,90,3381,23
-Staphylococcus epidermidis,679715,95,3580,23
-Staphylococcus epidermidis,679715,99,7436,23
-Peptoniphilus_C coxii,892290,75,2420,22
-Peptoniphilus_C coxii,892290,80,2442,22
-Peptoniphilus_C coxii,892290,85,2489,22
-Peptoniphilus_C coxii,892290,90,2596,22
-Peptoniphilus_C coxii,892290,95,2979,22
-Peptoniphilus_C coxii,892290,99,10158,22
-Peptococcus niger,632380,75,2650,22
-Peptococcus niger,632380,80,2674,22
-Peptococcus niger,632380,85,2711,22
-Peptococcus niger,632380,90,2771,22
-Peptococcus niger,632380,95,3074,22
-Peptococcus niger,632380,99,12031,22
-Corynebacterium amycolatum_A,235527,75,3901,22
-Corynebacterium amycolatum_A,235527,80,3961,22
-Corynebacterium amycolatum_A,235527,85,4050,22
-Corynebacterium amycolatum_A,235527,90,4314,22
-Corynebacterium amycolatum_A,235527,95,6031,22
-Corynebacterium amycolatum_A,235527,99,17905,22
-Prevotella sp001553265,560284,75,2952,22
-Prevotella sp001553265,560284,80,2983,22
-Prevotella sp001553265,560284,85,3020,22
-Prevotella sp001553265,560284,90,3065,22
-Prevotella sp001553265,560284,95,3165,22
-Prevotella sp001553265,560284,99,3751,22
-Mobiluncus_unknown,102208,75,6489,21
-Mobiluncus_unknown,102208,80,6845,21
-Mobiluncus_unknown,102208,85,7201,21
-Mobiluncus_unknown,102208,90,8074,21
-Mobiluncus_unknown,102208,95,11170,21
-Mobiluncus_unknown,102208,99,19382,21
-Peptostreptococcus sp000758885,534555,75,2315,21
-Peptostreptococcus sp000758885,534555,80,2331,21
-Peptostreptococcus sp000758885,534555,85,2359,21
-Peptostreptococcus sp000758885,534555,90,2396,21
-Peptostreptococcus sp000758885,534555,95,2464,21
-Peptostreptococcus sp000758885,534555,99,3603,21
-Mageeibacillus indolicus,646243,75,1756,20
-Mageeibacillus indolicus,646243,80,1759,20
-Mageeibacillus indolicus,646243,85,1769,20
-Mageeibacillus indolicus,646243,90,1802,20
-Mageeibacillus indolicus,646243,95,1916,20
-Mageeibacillus indolicus,646243,99,3008,20
-Bulleidia_unknown,736944,75,2512,20
-Bulleidia_unknown,736944,80,2528,20
-Bulleidia_unknown,736944,85,2546,20
-Bulleidia_unknown,736944,90,2575,20
-Bulleidia_unknown,736944,95,2630,20
-Bulleidia_unknown,736944,99,4199,20
-Klebsiella pneumoniae,809727,75,8547,20
-Klebsiella pneumoniae,809727,80,8648,20
-Klebsiella pneumoniae,809727,85,8761,20
-Klebsiella pneumoniae,809727,90,8946,20
-Klebsiella pneumoniae,809727,95,9309,20
-Klebsiella pneumoniae,809727,99,14270,20
-ZJ293_unknown,309546,75,1267,20
-ZJ293_unknown,309546,80,1272,20
-ZJ293_unknown,309546,85,1276,20
-ZJ293_unknown,309546,90,1284,20
-ZJ293_unknown,309546,95,1312,20
-ZJ293_unknown,309546,99,2473,20
-Staphylococcus haemolyticus,344406,75,3367,20
-Staphylococcus haemolyticus,344406,80,3411,20
-Staphylococcus haemolyticus,344406,85,3481,20
-Staphylococcus haemolyticus,344406,90,3618,20
-Staphylococcus haemolyticus,344406,95,3962,20
-Staphylococcus haemolyticus,344406,99,7447,20
-Peptoniphilus_B_unknown,664635,75,3287,19
-Peptoniphilus_B_unknown,664635,80,3308,19
-Peptoniphilus_B_unknown,664635,85,3355,19
-Peptoniphilus_B_unknown,664635,90,3402,19
-Peptoniphilus_B_unknown,664635,95,3482,19
-Peptoniphilus_B_unknown,664635,99,4335,19
-Prevotella ihumii,340758,75,3324,19
-Prevotella ihumii,340758,80,3384,19
-Prevotella ihumii,340758,85,3446,19
-Prevotella ihumii,340758,90,3515,19
-Prevotella ihumii,340758,95,3626,19
-Prevotella ihumii,340758,99,4296,19
-Limosilactobacillus coleohominis_A,936016,75,2204,18
-Limosilactobacillus coleohominis_A,936016,80,2244,18
-Limosilactobacillus coleohominis_A,936016,85,2324,18
-Limosilactobacillus coleohominis_A,936016,90,2447,18
-Limosilactobacillus coleohominis_A,936016,95,2790,18
-Limosilactobacillus coleohominis_A,936016,99,4656,18
-Dialister sp900541485,294936,75,2321,18
-Dialister sp900541485,294936,80,2356,18
-Dialister sp900541485,294936,85,2390,18
-Dialister sp900541485,294936,90,2464,18
-Dialister sp900541485,294936,95,2732,18
-Dialister sp900541485,294936,99,9619,18
-Malacoplasma_A girerdii,744675,75,681,18
-Malacoplasma_A girerdii,744675,80,691,18
-Malacoplasma_A girerdii,744675,85,706,18
-Malacoplasma_A girerdii,744675,90,713,18
-Malacoplasma_A girerdii,744675,95,740,18
-Malacoplasma_A girerdii,744675,99,1021,18
-Corynebacterium coyleae,404385,75,3809,17
-Corynebacterium coyleae,404385,80,3871,17
-Corynebacterium coyleae,404385,85,3945,17
-Corynebacterium coyleae,404385,90,4118,17
-Corynebacterium coyleae,404385,95,5018,17
-Corynebacterium coyleae,404385,99,12868,17
-Streptococcus mitis_BF,361681,75,2841,17
-Streptococcus mitis_BF,361681,80,2876,17
-Streptococcus mitis_BF,361681,85,2938,17
-Streptococcus mitis_BF,361681,90,3070,17
-Streptococcus mitis_BF,361681,95,3671,17
-Streptococcus mitis_BF,361681,99,5365,17
-Prevotella corporis,172892,75,3391,17
-Prevotella corporis,172892,80,3473,17
-Prevotella corporis,172892,85,3561,17
-Prevotella corporis,172892,90,3648,17
-Prevotella corporis,172892,95,3759,17
-Prevotella corporis,172892,99,6869,17
-Corynebacterium_unknown,572745,75,8690,17
-Corynebacterium_unknown,572745,80,9191,17
-Corynebacterium_unknown,572745,85,9970,17
-Corynebacterium_unknown,572745,90,10913,17
-Corynebacterium_unknown,572745,95,11806,17
-Corynebacterium_unknown,572745,99,16462,17
-Anaerococcus lactolyticus,978264,75,2802,16
-Anaerococcus lactolyticus,978264,80,2826,16
-Anaerococcus lactolyticus,978264,85,2898,16
-Anaerococcus lactolyticus,978264,90,3087,16
-Anaerococcus lactolyticus,978264,95,3856,16
-Anaerococcus lactolyticus,978264,99,8425,16
-Corynebacterium sp001767255,381691,75,3503,15
-Corynebacterium sp001767255,381691,80,3548,15
-Corynebacterium sp001767255,381691,85,3617,15
-Corynebacterium sp001767255,381691,90,3780,15
-Corynebacterium sp001767255,381691,95,4484,15
-Corynebacterium sp001767255,381691,99,10019,15
-Campylobacter_B_unknown,129333,75,4746,15
-Campylobacter_B_unknown,129333,80,4797,15
-Campylobacter_B_unknown,129333,85,4830,15
-Campylobacter_B_unknown,129333,90,4890,15
-Campylobacter_B_unknown,129333,95,5142,15
-Campylobacter_B_unknown,129333,99,8248,15
-Corynebacterium tuscaniense,928247,75,3154,14
-Corynebacterium tuscaniense,928247,80,3193,14
-Corynebacterium tuscaniense,928247,85,3252,14
-Corynebacterium tuscaniense,928247,90,3380,14
-Corynebacterium tuscaniense,928247,95,3846,14
-Corynebacterium tuscaniense,928247,99,7297,14
-Ezakiella coagulans,122533,75,2779,14
-Ezakiella coagulans,122533,80,2809,14
-Ezakiella coagulans,122533,85,2846,14
-Ezakiella coagulans,122533,90,2945,14
-Ezakiella coagulans,122533,95,3430,14
-Ezakiella coagulans,122533,99,8942,14
-Corynebacterium sp943913645,132191,75,3035,14
-Corynebacterium sp943913645,132191,80,3069,14
-Corynebacterium sp943913645,132191,85,3110,14
-Corynebacterium sp943913645,132191,90,3157,14
-Corynebacterium sp943913645,132191,95,3386,14
-Corynebacterium sp943913645,132191,99,6946,14
-Pauljensenia turicensis,145599,75,2423,13
-Pauljensenia turicensis,145599,80,2441,13
-Pauljensenia turicensis,145599,85,2483,13
-Pauljensenia turicensis,145599,90,2551,13
-Pauljensenia turicensis,145599,95,2663,13
-Pauljensenia turicensis,145599,99,4920,13
+Alistipes putredinis,712851,75,2758,5
+Alistipes putredinis,712851,80,2781,5
+Alistipes putredinis,712851,85,2806,5
+Alistipes putredinis,712851,90,2838,5
+Alistipes putredinis,712851,95,2944,5
+Alistipes putredinis,712851,99,4064,5
+Alloprevotella sp905369775,677509,75,2095,6
+Alloprevotella sp905369775,677509,80,2100,6
+Alloprevotella sp905369775,677509,85,2111,6
+Alloprevotella sp905369775,677509,90,2120,6
+Alloprevotella sp905369775,677509,95,2150,6
+Alloprevotella sp905369775,677509,99,2378,6
 Alloscardovia omnicolens,276312,75,1985,13
 Alloscardovia omnicolens,276312,80,2026,13
 Alloscardovia omnicolens,276312,85,2065,13
 Alloscardovia omnicolens,276312,90,2127,13
 Alloscardovia omnicolens,276312,95,2340,13
 Alloscardovia omnicolens,276312,99,4188,13
-Bifidobacterium bifidum,342081,75,2735,13
-Bifidobacterium bifidum,342081,80,2750,13
-Bifidobacterium bifidum,342081,85,2779,13
-Bifidobacterium bifidum,342081,90,2811,13
-Bifidobacterium bifidum,342081,95,2897,13
-Bifidobacterium bifidum,342081,99,4303,13
-Varibaculum massiliense,904423,75,2497,12
-Varibaculum massiliense,904423,80,2550,12
-Varibaculum massiliense,904423,85,2643,12
-Varibaculum massiliense,904423,90,2990,12
-Varibaculum massiliense,904423,95,4197,12
-Varibaculum massiliense,904423,99,9558,12
+Amygdalobacter indicium (BVAB2),567022,75,2773,473
+Amygdalobacter indicium (BVAB2),567022,80,2852,473
+Amygdalobacter indicium (BVAB2),567022,85,3001,473
+Amygdalobacter indicium (BVAB2),567022,90,3360,473
+Amygdalobacter indicium (BVAB2),567022,95,4541,473
+Amygdalobacter indicium (BVAB2),567022,99,25352,473
+Amygdalobacter nucleatus,791236,75,1769,36
+Amygdalobacter nucleatus,791236,80,1790,36
+Amygdalobacter nucleatus,791236,85,1820,36
+Amygdalobacter nucleatus,791236,90,1859,36
+Amygdalobacter nucleatus,791236,95,1941,36
+Amygdalobacter nucleatus,791236,99,2908,36
+Anaerococcus lactolyticus,978264,75,2802,16
+Anaerococcus lactolyticus,978264,80,2826,16
+Anaerococcus lactolyticus,978264,85,2898,16
+Anaerococcus lactolyticus,978264,90,3087,16
+Anaerococcus lactolyticus,978264,95,3856,16
+Anaerococcus lactolyticus,978264,99,8425,16
+Anaerococcus prevotii,667911,75,1838,5
+Anaerococcus prevotii,667911,80,1840,5
+Anaerococcus prevotii,667911,85,1849,5
+Anaerococcus prevotii,667911,90,1897,5
+Anaerococcus prevotii,667911,95,2165,5
+Anaerococcus prevotii,667911,99,3488,5
+Anaerococcus tetradius,204857,75,3706,92
+Anaerococcus tetradius,204857,80,3744,92
+Anaerococcus tetradius,204857,85,3826,92
+Anaerococcus tetradius,204857,90,4110,92
+Anaerococcus tetradius,204857,95,5290,92
+Anaerococcus tetradius,204857,99,14692,92
+Anaerococcus vaginalis_B,275605,75,2000,7
+Anaerococcus vaginalis_B,275605,80,2010,7
+Anaerococcus vaginalis_B,275605,85,2026,7
+Anaerococcus vaginalis_B,275605,90,2085,7
+Anaerococcus vaginalis_B,275605,95,2263,7
+Anaerococcus vaginalis_B,275605,99,5255,7
+Anaerococcus_unknown,935817,75,2683,6
+Anaerococcus_unknown,935817,80,2743,6
+Anaerococcus_unknown,935817,85,3193,6
+Anaerococcus_unknown,935817,90,3961,6
+Anaerococcus_unknown,935817,95,4835,6
+Anaerococcus_unknown,935817,99,5877,6
+Arcanobacterium_A sp000758825,738524,75,2159,53
+Arcanobacterium_A sp000758825,738524,80,2178,53
+Arcanobacterium_A sp000758825,738524,85,2190,53
+Arcanobacterium_A sp000758825,738524,90,2233,53
+Arcanobacterium_A sp000758825,738524,95,2364,53
+Arcanobacterium_A sp000758825,738524,99,4674,53
 Atopobacter_unknown,924646,75,1930,12
 Atopobacter_unknown,924646,80,1942,12
 Atopobacter_unknown,924646,85,1951,12
 Atopobacter_unknown,924646,90,1963,12
 Atopobacter_unknown,924646,95,1989,12
 Atopobacter_unknown,924646,99,2057,12
-Corynebacterium sp900539985,214807,75,3458,12
-Corynebacterium sp900539985,214807,80,3493,12
-Corynebacterium sp900539985,214807,85,3548,12
-Corynebacterium sp900539985,214807,90,3700,12
-Corynebacterium sp900539985,214807,95,4737,12
-Corynebacterium sp900539985,214807,99,11486,12
-Catonella_unknown,766234,75,2299,12
-Catonella_unknown,766234,80,2317,12
-Catonella_unknown,766234,85,2338,12
-Catonella_unknown,766234,90,2365,12
-Catonella_unknown,766234,95,2411,12
-Catonella_unknown,766234,99,2638,12
-Peptoniphilus_B duerdenii,581929,75,2610,12
-Peptoniphilus_B duerdenii,581929,80,2624,12
-Peptoniphilus_B duerdenii,581929,85,2651,12
-Peptoniphilus_B duerdenii,581929,90,2729,12
-Peptoniphilus_B duerdenii,581929,95,3223,12
-Peptoniphilus_B duerdenii,581929,99,9064,12
-Staphylococcus aureus,423516,75,3136,12
-Staphylococcus aureus,423516,80,3213,12
-Staphylococcus aureus,423516,85,3306,12
-Staphylococcus aureus,423516,90,3496,12
-Staphylococcus aureus,423516,95,3978,12
-Staphylococcus aureus,423516,99,8573,12
+Atopobium deltae,297173,75,1362,7
+Atopobium deltae,297173,80,1370,7
+Atopobium deltae,297173,85,1376,7
+Atopobium deltae,297173,90,1389,7
+Atopobium deltae,297173,95,1412,7
+Atopobium deltae,297173,99,1684,7
+Berryella sp001552935,198418,75,3609,482
+Berryella sp001552935,198418,80,3809,482
+Berryella sp001552935,198418,85,4215,482
+Berryella sp001552935,198418,90,5266,482
+Berryella sp001552935,198418,95,8693,482
+Berryella sp001552935,198418,99,34115,482
+Berryella sp900604965,547390,75,1999,6
+Berryella sp900604965,547390,80,2016,6
+Berryella sp900604965,547390,85,2030,6
+Berryella sp900604965,547390,90,2048,6
+Berryella sp900604965,547390,95,2074,6
+Berryella sp900604965,547390,99,2724,6
+Berryella_unknown,109652,75,2974,104
+Berryella_unknown,109652,80,3160,104
+Berryella_unknown,109652,85,3491,104
+Berryella_unknown,109652,90,4245,104
+Berryella_unknown,109652,95,6926,104
+Berryella_unknown,109652,99,35639,104
+Bifidobacterium bifidum,342081,75,2735,13
+Bifidobacterium bifidum,342081,80,2750,13
+Bifidobacterium bifidum,342081,85,2779,13
+Bifidobacterium bifidum,342081,90,2811,13
+Bifidobacterium bifidum,342081,95,2897,13
+Bifidobacterium bifidum,342081,99,4303,13
+Bifidobacterium breve,897926,75,5550,82
+Bifidobacterium breve,897926,80,5705,82
+Bifidobacterium breve,897926,85,5889,82
+Bifidobacterium breve,897926,90,6197,82
+Bifidobacterium breve,897926,95,6911,82
+Bifidobacterium breve,897926,99,14853,82
 Bifidobacterium dentium,683484,75,2907,12
 Bifidobacterium dentium,683484,80,2922,12
 Bifidobacterium dentium,683484,85,2938,12
 Bifidobacterium dentium,683484,90,2960,12
 Bifidobacterium dentium,683484,95,3006,12
 Bifidobacterium dentium,683484,99,4233,12
-Fenollaria massiliensis,897911,75,1967,11
-Fenollaria massiliensis,897911,80,1984,11
-Fenollaria massiliensis,897911,85,2032,11
-Fenollaria massiliensis,897911,90,2207,11
-Fenollaria massiliensis,897911,95,3083,11
-Fenollaria massiliensis,897911,99,8831,11
+Bifidobacterium leopoldii,976363,75,1822,50
+Bifidobacterium leopoldii,976363,80,1864,50
+Bifidobacterium leopoldii,976363,85,1945,50
+Bifidobacterium leopoldii,976363,90,2084,50
+Bifidobacterium leopoldii,976363,95,2436,50
+Bifidobacterium leopoldii,976363,99,5218,50
+Bifidobacterium longum,592117,75,4605,23
+Bifidobacterium longum,592117,80,4699,23
+Bifidobacterium longum,592117,85,4815,23
+Bifidobacterium longum,592117,90,4977,23
+Bifidobacterium longum,592117,95,5385,23
+Bifidobacterium longum,592117,99,8975,23
+Bifidobacterium piotii,595185,75,3376,361
+Bifidobacterium piotii,595185,80,3626,361
+Bifidobacterium piotii,595185,85,4090,361
+Bifidobacterium piotii,595185,90,5070,361
+Bifidobacterium piotii,595185,95,9063,361
+Bifidobacterium piotii,595185,99,53748,361
+Bifidobacterium sp003585735,705861,75,1742,24
+Bifidobacterium sp003585735,705861,80,1804,24
+Bifidobacterium sp003585735,705861,85,1908,24
+Bifidobacterium sp003585735,705861,90,2147,24
+Bifidobacterium sp003585735,705861,95,3025,24
+Bifidobacterium sp003585735,705861,99,8082,24
+Bifidobacterium swidsinskii,367459,75,4326,566
+Bifidobacterium swidsinskii,367459,80,4620,566
+Bifidobacterium swidsinskii,367459,85,5116,566
+Bifidobacterium swidsinskii,367459,90,6095,566
+Bifidobacterium swidsinskii,367459,95,8997,566
+Bifidobacterium swidsinskii,367459,99,25636,566
+Bifidobacterium vaginale,783244,75,4287,700
+Bifidobacterium vaginale,783244,80,4630,700
+Bifidobacterium vaginale,783244,85,5296,700
+Bifidobacterium vaginale,783244,90,6618,700
+Bifidobacterium vaginale,783244,95,11086,700
+Bifidobacterium vaginale,783244,99,55339,700
+Bifidobacterium vaginale_A,927036,75,3668,357
+Bifidobacterium vaginale_A,927036,80,3906,357
+Bifidobacterium vaginale_A,927036,85,4370,357
+Bifidobacterium vaginale_A,927036,90,5076,357
+Bifidobacterium vaginale_A,927036,95,7095,357
+Bifidobacterium vaginale_A,927036,99,22298,357
+Bifidobacterium vaginale_B,998576,75,1874,48
+Bifidobacterium vaginale_B,998576,80,1962,48
+Bifidobacterium vaginale_B,998576,85,2076,48
+Bifidobacterium vaginale_B,998576,90,2356,48
+Bifidobacterium vaginale_B,998576,95,3334,48
+Bifidobacterium vaginale_B,998576,99,11089,48
+Bifidobacterium vaginale_C,696853,75,4163,292
+Bifidobacterium vaginale_C,696853,80,4529,292
+Bifidobacterium vaginale_C,696853,85,5218,292
+Bifidobacterium vaginale_C,696853,90,6547,292
+Bifidobacterium vaginale_C,696853,95,11003,292
+Bifidobacterium vaginale_C,696853,99,48154,292
+Bifidobacterium vaginale_D,207192,75,2853,181
+Bifidobacterium vaginale_D,207192,80,3114,181
+Bifidobacterium vaginale_D,207192,85,3468,181
+Bifidobacterium vaginale_D,207192,90,4059,181
+Bifidobacterium vaginale_D,207192,95,5478,181
+Bifidobacterium vaginale_D,207192,99,12356,181
+Bifidobacterium vaginale_F,781098,75,2927,129
+Bifidobacterium vaginale_F,781098,80,3140,129
+Bifidobacterium vaginale_F,781098,85,3497,129
+Bifidobacterium vaginale_F,781098,90,4168,129
+Bifidobacterium vaginale_F,781098,95,6189,129
+Bifidobacterium vaginale_F,781098,99,23273,129
+Bifidobacterium vaginale_H,126681,75,3263,222
+Bifidobacterium vaginale_H,126681,80,3575,222
+Bifidobacterium vaginale_H,126681,85,4092,222
+Bifidobacterium vaginale_H,126681,90,4959,222
+Bifidobacterium vaginale_H,126681,95,7240,222
+Bifidobacterium vaginale_H,126681,99,24480,222
+Bifidobacterium_unknown,271650,75,6450,285
+Bifidobacterium_unknown,271650,80,7209,285
+Bifidobacterium_unknown,271650,85,8693,285
+Bifidobacterium_unknown,271650,90,11022,285
+Bifidobacterium_unknown,271650,95,16718,285
+Bifidobacterium_unknown,271650,99,48366,285
+Brevibacterium ravenspurgense,915160,75,3045,9
+Brevibacterium ravenspurgense,915160,80,3071,9
+Brevibacterium ravenspurgense,915160,85,3125,9
+Brevibacterium ravenspurgense,915160,90,3251,9
+Brevibacterium ravenspurgense,915160,95,3912,9
+Brevibacterium ravenspurgense,915160,99,8907,9
+Bulleidia_unknown,736944,75,2512,20
+Bulleidia_unknown,736944,80,2528,20
+Bulleidia_unknown,736944,85,2546,20
+Bulleidia_unknown,736944,90,2575,20
+Bulleidia_unknown,736944,95,2630,20
+Bulleidia_unknown,736944,99,4199,20
+CAJPTP01 sp905373555,716122,75,2420,7
+CAJPTP01 sp905373555,716122,80,2427,7
+CAJPTP01 sp905373555,716122,85,2444,7
+CAJPTP01 sp905373555,716122,90,2493,7
+CAJPTP01 sp905373555,716122,95,2622,7
+CAJPTP01 sp905373555,716122,99,3753,7
+CAKAHY01_unknown,516615,75,2043,8
+CAKAHY01_unknown,516615,80,2049,8
+CAKAHY01_unknown,516615,85,2065,8
+CAKAHY01_unknown,516615,90,2080,8
+CAKAHY01_unknown,516615,95,2115,8
+CAKAHY01_unknown,516615,99,2388,8
+Campylobacter_B ureolyticus,386171,75,2324,7
+Campylobacter_B ureolyticus,386171,80,2354,7
+Campylobacter_B ureolyticus,386171,85,2393,7
+Campylobacter_B ureolyticus,386171,90,2481,7
+Campylobacter_B ureolyticus,386171,95,3082,7
+Campylobacter_B ureolyticus,386171,99,6429,7
+Campylobacter_B_unknown,129333,75,4746,15
+Campylobacter_B_unknown,129333,80,4797,15
+Campylobacter_B_unknown,129333,85,4830,15
+Campylobacter_B_unknown,129333,90,4890,15
+Campylobacter_B_unknown,129333,95,5142,15
+Campylobacter_B_unknown,129333,99,8248,15
+Catonella_unknown,766234,75,2299,12
+Catonella_unknown,766234,80,2317,12
+Catonella_unknown,766234,85,2338,12
+Catonella_unknown,766234,90,2365,12
+Catonella_unknown,766234,95,2411,12
+Catonella_unknown,766234,99,2638,12
+Chlamydia trachomatis,674974,75,925,51
+Chlamydia trachomatis,674974,80,925,51
+Chlamydia trachomatis,674974,85,928,51
+Chlamydia trachomatis,674974,90,939,51
+Chlamydia trachomatis,674974,95,973,51
+Chlamydia trachomatis,674974,99,1187,51
+Citrobacter_B koseri,492904,75,5084,8
+Citrobacter_B koseri,492904,80,5129,8
+Citrobacter_B koseri,492904,85,5162,8
+Citrobacter_B koseri,492904,90,5200,8
+Citrobacter_B koseri,492904,95,5223,8
+Citrobacter_B koseri,492904,99,6943,8
+Corynebacterium amycolatum_A,235527,75,3901,22
+Corynebacterium amycolatum_A,235527,80,3961,22
+Corynebacterium amycolatum_A,235527,85,4050,22
+Corynebacterium amycolatum_A,235527,90,4314,22
+Corynebacterium amycolatum_A,235527,95,6031,22
+Corynebacterium amycolatum_A,235527,99,17905,22
+Corynebacterium coyleae,404385,75,3809,17
+Corynebacterium coyleae,404385,80,3871,17
+Corynebacterium coyleae,404385,85,3945,17
+Corynebacterium coyleae,404385,90,4118,17
+Corynebacterium coyleae,404385,95,5018,17
+Corynebacterium coyleae,404385,99,12868,17
+Corynebacterium minutissimum_A,725549,75,3151,5
+Corynebacterium minutissimum_A,725549,80,3174,5
+Corynebacterium minutissimum_A,725549,85,3225,5
+Corynebacterium minutissimum_A,725549,90,3399,5
+Corynebacterium minutissimum_A,725549,95,4012,5
+Corynebacterium minutissimum_A,725549,99,6585,5
+Corynebacterium phoceense,541464,75,2930,6
+Corynebacterium phoceense,541464,80,2935,6
+Corynebacterium phoceense,541464,85,2942,6
+Corynebacterium phoceense,541464,90,2953,6
+Corynebacterium phoceense,541464,95,2990,6
+Corynebacterium phoceense,541464,99,3430,6
+Corynebacterium pyruviciproducens,755152,75,2775,6
+Corynebacterium pyruviciproducens,755152,80,2784,6
+Corynebacterium pyruviciproducens,755152,85,2811,6
+Corynebacterium pyruviciproducens,755152,90,2842,6
+Corynebacterium pyruviciproducens,755152,95,2934,6
+Corynebacterium pyruviciproducens,755152,99,3621,6
 Corynebacterium riegelii,643873,75,3551,11
 Corynebacterium riegelii,643873,80,3591,11
 Corynebacterium riegelii,643873,85,3670,11
 Corynebacterium riegelii,643873,90,3859,11
 Corynebacterium riegelii,643873,95,4843,11
 Corynebacterium riegelii,643873,99,11996,11
-Oligella urethralis,641693,75,2832,11
-Oligella urethralis,641693,80,2866,11
-Oligella urethralis,641693,85,2903,11
-Oligella urethralis,641693,90,2953,11
-Oligella urethralis,641693,95,3051,11
-Oligella urethralis,641693,99,7070,11
+Corynebacterium sp001767255,381691,75,3503,15
+Corynebacterium sp001767255,381691,80,3548,15
+Corynebacterium sp001767255,381691,85,3617,15
+Corynebacterium sp001767255,381691,90,3780,15
+Corynebacterium sp001767255,381691,95,4484,15
+Corynebacterium sp001767255,381691,99,10019,15
+Corynebacterium sp001807485,334037,75,2714,7
+Corynebacterium sp001807485,334037,80,2733,7
+Corynebacterium sp001807485,334037,85,2773,7
+Corynebacterium sp001807485,334037,90,2896,7
+Corynebacterium sp001807485,334037,95,3607,7
+Corynebacterium sp001807485,334037,99,6617,7
+Corynebacterium sp900539985,214807,75,3458,12
+Corynebacterium sp900539985,214807,80,3493,12
+Corynebacterium sp900539985,214807,85,3548,12
+Corynebacterium sp900539985,214807,90,3700,12
+Corynebacterium sp900539985,214807,95,4737,12
+Corynebacterium sp900539985,214807,99,11486,12
+Corynebacterium sp943913645,132191,75,3035,14
+Corynebacterium sp943913645,132191,80,3069,14
+Corynebacterium sp943913645,132191,85,3110,14
+Corynebacterium sp943913645,132191,90,3157,14
+Corynebacterium sp943913645,132191,95,3386,14
+Corynebacterium sp943913645,132191,99,6946,14
+Corynebacterium striatum,868360,75,3132,5
+Corynebacterium striatum,868360,80,3168,5
+Corynebacterium striatum,868360,85,3216,5
+Corynebacterium striatum,868360,90,3248,5
+Corynebacterium striatum,868360,95,3366,5
+Corynebacterium striatum,868360,99,5194,5
+Corynebacterium tuscaniense,928247,75,3154,14
+Corynebacterium tuscaniense,928247,80,3193,14
+Corynebacterium tuscaniense,928247,85,3252,14
+Corynebacterium tuscaniense,928247,90,3380,14
+Corynebacterium tuscaniense,928247,95,3846,14
+Corynebacterium tuscaniense,928247,99,7297,14
+Corynebacterium_unknown,572745,75,8690,17
+Corynebacterium_unknown,572745,80,9191,17
+Corynebacterium_unknown,572745,85,9970,17
+Corynebacterium_unknown,572745,90,10913,17
+Corynebacterium_unknown,572745,95,11806,17
+Corynebacterium_unknown,572745,99,16462,17
+Cryptobacteroides_unknown,936138,75,5630,112
+Cryptobacteroides_unknown,936138,80,6031,112
+Cryptobacteroides_unknown,936138,85,6238,112
+Cryptobacteroides_unknown,936138,90,6435,112
+Cryptobacteroides_unknown,936138,95,6834,112
+Cryptobacteroides_unknown,936138,99,13626,112
+Dialister micraerophilus,226762,75,2868,216
+Dialister micraerophilus,226762,80,2951,216
+Dialister micraerophilus,226762,85,3081,216
+Dialister micraerophilus,226762,90,3302,216
+Dialister micraerophilus,226762,95,3886,216
+Dialister micraerophilus,226762,99,24737,216
+Dialister sp001553355,667712,75,5233,483
+Dialister sp001553355,667712,80,5469,483
+Dialister sp001553355,667712,85,5849,483
+Dialister sp001553355,667712,90,6662,483
+Dialister sp001553355,667712,95,9035,483
+Dialister sp001553355,667712,99,84028,483
+Dialister sp900541485,294936,75,2321,18
+Dialister sp900541485,294936,80,2356,18
+Dialister sp900541485,294936,85,2390,18
+Dialister sp900541485,294936,90,2464,18
+Dialister sp900541485,294936,95,2732,18
+Dialister sp900541485,294936,99,9619,18
+Enterococcus faecalis,129724,75,5959,76
+Enterococcus faecalis,129724,80,6079,76
+Enterococcus faecalis,129724,85,6215,76
+Enterococcus faecalis,129724,90,6426,76
+Enterococcus faecalis,129724,95,6869,76
+Enterococcus faecalis,129724,99,15063,76
+Enterococcus_B faecium,580005,75,3270,5
+Enterococcus_B faecium,580005,80,3303,5
+Enterococcus_B faecium,580005,85,3327,5
+Enterococcus_B faecium,580005,90,3386,5
+Enterococcus_B faecium,580005,95,3520,5
+Enterococcus_B faecium,580005,99,3888,5
+Escherichia coli,166172,75,10932,55
+Escherichia coli,166172,80,11175,55
+Escherichia coli,166172,85,11543,55
+Escherichia coli,166172,90,12118,55
+Escherichia coli,166172,95,14232,55
+Escherichia coli,166172,99,41963,55
 Eubacterium_I_unknown,124782,75,2260,10
 Eubacterium_I_unknown,124782,80,2267,10
 Eubacterium_I_unknown,124782,85,2280,10
 Eubacterium_I_unknown,124782,90,2307,10
 Eubacterium_I_unknown,124782,95,2339,10
 Eubacterium_I_unknown,124782,99,2428,10
+Ezakiella coagulans,122533,75,2779,14
+Ezakiella coagulans,122533,80,2809,14
+Ezakiella coagulans,122533,85,2846,14
+Ezakiella coagulans,122533,90,2945,14
+Ezakiella coagulans,122533,95,3430,14
+Ezakiella coagulans,122533,99,8942,14
+Ezakiella_unknown,580401,75,1469,5
+Ezakiella_unknown,580401,80,1471,5
+Ezakiella_unknown,580401,85,1477,5
+Ezakiella_unknown,580401,90,1482,5
+Ezakiella_unknown,580401,95,1521,5
+Ezakiella_unknown,580401,99,2979,5
+Fannyhessea massiliensis,856589,75,3122,272
+Fannyhessea massiliensis,856589,80,3273,272
+Fannyhessea massiliensis,856589,85,3597,272
+Fannyhessea massiliensis,856589,90,4312,272
+Fannyhessea massiliensis,856589,95,7522,272
+Fannyhessea massiliensis,856589,99,39129,272
+Fannyhessea vaginae,619501,75,4454,786
+Fannyhessea vaginae,619501,80,4719,786
+Fannyhessea vaginae,619501,85,5171,786
+Fannyhessea vaginae,619501,90,6256,786
+Fannyhessea vaginae,619501,95,11859,786
+Fannyhessea vaginae,619501,99,99104,786
+Fannyhessea_unknown,379267,75,7464,465
+Fannyhessea_unknown,379267,80,7912,465
+Fannyhessea_unknown,379267,85,8724,465
+Fannyhessea_unknown,379267,90,10213,465
+Fannyhessea_unknown,379267,95,15718,465
+Fannyhessea_unknown,379267,99,91907,465
+Fenollaria massiliensis,897911,75,1967,11
+Fenollaria massiliensis,897911,80,1984,11
+Fenollaria massiliensis,897911,85,2032,11
+Fenollaria massiliensis,897911,90,2207,11
+Fenollaria massiliensis,897911,95,3083,11
+Fenollaria massiliensis,897911,99,8831,11
+Finegoldia magna_H,542611,75,3016,36
+Finegoldia magna_H,542611,80,3051,36
+Finegoldia magna_H,542611,85,3141,36
+Finegoldia magna_H,542611,90,3311,36
+Finegoldia magna_H,542611,95,4353,36
+Finegoldia magna_H,542611,99,18481,36
+Finegoldia_unknown,567317,75,2629,6
+Finegoldia_unknown,567317,80,2664,6
+Finegoldia_unknown,567317,85,2822,6
+Finegoldia_unknown,567317,90,3042,6
+Finegoldia_unknown,567317,95,3310,6
+Finegoldia_unknown,567317,99,4876,6
+Fusobacterium animalis,285819,75,3156,6
+Fusobacterium animalis,285819,80,3175,6
+Fusobacterium animalis,285819,85,3224,6
+Fusobacterium animalis,285819,90,3302,6
+Fusobacterium animalis,285819,95,3565,6
+Fusobacterium animalis,285819,99,5361,6
+Fusobacterium_C gonidiaformans,461153,75,1926,6
+Fusobacterium_C gonidiaformans,461153,80,1932,6
+Fusobacterium_C gonidiaformans,461153,85,1952,6
+Fusobacterium_C gonidiaformans,461153,90,1978,6
+Fusobacterium_C gonidiaformans,461153,95,2030,6
+Fusobacterium_C gonidiaformans,461153,99,2862,6
+Gemella asaccharolytica,697687,75,2317,120
+Gemella asaccharolytica,697687,80,2380,120
+Gemella asaccharolytica,697687,85,2486,120
+Gemella asaccharolytica,697687,90,2687,120
+Gemella asaccharolytica,697687,95,3413,120
+Gemella asaccharolytica,697687,99,13201,120
+Haemophilus_D_unknown,819830,75,2256,5
+Haemophilus_D_unknown,819830,80,2265,5
+Haemophilus_D_unknown,819830,85,2274,5
+Haemophilus_D_unknown,819830,90,2293,5
+Haemophilus_D_unknown,819830,95,2356,5
+Haemophilus_D_unknown,819830,99,2482,5
+Jonquetella anthropi,462493,75,1709,6
+Jonquetella anthropi,462493,80,1713,6
+Jonquetella anthropi,462493,85,1719,6
+Jonquetella anthropi,462493,90,1726,6
+Jonquetella anthropi,462493,95,1745,6
+Jonquetella anthropi,462493,99,1929,6
+KA00274 sp902373515,608480,75,1694,30
+KA00274 sp902373515,608480,80,1705,30
+KA00274 sp902373515,608480,85,1733,30
+KA00274 sp902373515,608480,90,1788,30
+KA00274 sp902373515,608480,95,2010,30
+KA00274 sp902373515,608480,99,5370,30
+Klebsiella pneumoniae,809727,75,8547,20
+Klebsiella pneumoniae,809727,80,8648,20
+Klebsiella pneumoniae,809727,85,8761,20
+Klebsiella pneumoniae,809727,90,8946,20
+Klebsiella pneumoniae,809727,95,9309,20
+Klebsiella pneumoniae,809727,99,14270,20
+Lacticaseibacillus rhamnosus,721998,75,3266,8
+Lacticaseibacillus rhamnosus,721998,80,3308,8
+Lacticaseibacillus rhamnosus,721998,85,3360,8
+Lacticaseibacillus rhamnosus,721998,90,3420,8
+Lacticaseibacillus rhamnosus,721998,95,3643,8
+Lacticaseibacillus rhamnosus,721998,99,7487,8
+Lactobacillus crispatus,988598,75,8737,856
+Lactobacillus crispatus,988598,80,9071,856
+Lactobacillus crispatus,988598,85,9699,856
+Lactobacillus crispatus,988598,90,10704,856
+Lactobacillus crispatus,988598,95,13044,856
+Lactobacillus crispatus,988598,99,22984,856
+Lactobacillus delbrueckii,940775,75,2109,5
+Lactobacillus delbrueckii,940775,80,2119,5
+Lactobacillus delbrueckii,940775,85,2138,5
+Lactobacillus delbrueckii,940775,90,2169,5
+Lactobacillus delbrueckii,940775,95,2272,5
+Lactobacillus delbrueckii,940775,99,3354,5
+Lactobacillus gasseri,611554,75,4310,202
+Lactobacillus gasseri,611554,80,4427,202
+Lactobacillus gasseri,611554,85,4630,202
+Lactobacillus gasseri,611554,90,5083,202
+Lactobacillus gasseri,611554,95,6101,202
+Lactobacillus gasseri,611554,99,10189,202
+Lactobacillus iners,240891,75,5545,1876
+Lactobacillus iners,240891,80,5742,1876
+Lactobacillus iners,240891,85,6016,1876
+Lactobacillus iners,240891,90,6602,1876
+Lactobacillus iners,240891,95,8443,1876
+Lactobacillus iners,240891,99,28945,1876
+Lactobacillus jensenii,571325,75,2996,327
+Lactobacillus jensenii,571325,80,3074,327
+Lactobacillus jensenii,571325,85,3181,327
+Lactobacillus jensenii,571325,90,3353,327
+Lactobacillus jensenii,571325,95,3738,327
+Lactobacillus jensenii,571325,99,4820,327
+Lactobacillus johnsonii,432849,75,2461,9
+Lactobacillus johnsonii,432849,80,2493,9
+Lactobacillus johnsonii,432849,85,2549,9
+Lactobacillus johnsonii,432849,90,2623,9
+Lactobacillus johnsonii,432849,95,3063,9
+Lactobacillus johnsonii,432849,99,6344,9
+Lactobacillus mulieris,499721,75,3415,206
+Lactobacillus mulieris,499721,80,3479,206
+Lactobacillus mulieris,499721,85,3578,206
+Lactobacillus mulieris,499721,90,3792,206
+Lactobacillus mulieris,499721,95,4320,206
+Lactobacillus mulieris,499721,99,7482,206
+Lactobacillus paragasseri,223646,75,3372,81
+Lactobacillus paragasseri,223646,80,3446,81
+Lactobacillus paragasseri,223646,85,3608,81
+Lactobacillus paragasseri,223646,90,3906,81
+Lactobacillus paragasseri,223646,95,4703,81
+Lactobacillus paragasseri,223646,99,8705,81
+Lawsonella sp018376445,299071,75,2019,9
+Lawsonella sp018376445,299071,80,2030,9
+Lawsonella sp018376445,299071,85,2044,9
+Lawsonella sp018376445,299071,90,2099,9
+Lawsonella sp018376445,299071,95,2206,9
+Lawsonella sp018376445,299071,99,2848,9
+Levyella massiliensis,802866,75,1719,9
+Levyella massiliensis,802866,80,1726,9
+Levyella massiliensis,802866,85,1735,9
+Levyella massiliensis,802866,90,1757,9
+Levyella massiliensis,802866,95,1861,9
+Levyella massiliensis,802866,99,4437,9
+Limosilactobacillus coleohominis_A,936016,75,2204,18
+Limosilactobacillus coleohominis_A,936016,80,2244,18
+Limosilactobacillus coleohominis_A,936016,85,2324,18
+Limosilactobacillus coleohominis_A,936016,90,2447,18
+Limosilactobacillus coleohominis_A,936016,95,2790,18
+Limosilactobacillus coleohominis_A,936016,99,4656,18
+Limosilactobacillus oris,677004,75,2288,6
+Limosilactobacillus oris,677004,80,2298,6
+Limosilactobacillus oris,677004,85,2322,6
+Limosilactobacillus oris,677004,90,2359,6
+Limosilactobacillus oris,677004,95,2427,6
+Limosilactobacillus oris,677004,99,3057,6
+Limosilactobacillus portuensis,559158,75,2967,51
+Limosilactobacillus portuensis,559158,80,3048,51
+Limosilactobacillus portuensis,559158,85,3153,51
+Limosilactobacillus portuensis,559158,90,3373,51
+Limosilactobacillus portuensis,559158,95,3956,51
+Limosilactobacillus portuensis,559158,99,6150,51
+Limosilactobacillus vaginalis,158849,75,2633,28
+Limosilactobacillus vaginalis,158849,80,2684,28
+Limosilactobacillus vaginalis,158849,85,2755,28
+Limosilactobacillus vaginalis,158849,90,2885,28
+Limosilactobacillus vaginalis,158849,95,3177,28
+Limosilactobacillus vaginalis,158849,99,3835,28
+Limosilactobacillus_unknown,118732,75,1797,6
+Limosilactobacillus_unknown,118732,80,1798,6
+Limosilactobacillus_unknown,118732,85,1806,6
+Limosilactobacillus_unknown,118732,90,1813,6
+Limosilactobacillus_unknown,118732,95,1824,6
+Limosilactobacillus_unknown,118732,99,1842,6
+Listeria monocytogenes,201088,75,3408,7
+Listeria monocytogenes,201088,80,3439,7
+Listeria monocytogenes,201088,85,3502,7
+Listeria monocytogenes,201088,90,3684,7
+Listeria monocytogenes,201088,95,4814,7
+Listeria monocytogenes,201088,99,7512,7
+Mageeibacillus indolicus,646243,75,1756,20
+Mageeibacillus indolicus,646243,80,1759,20
+Mageeibacillus indolicus,646243,85,1769,20
+Mageeibacillus indolicus,646243,90,1802,20
+Mageeibacillus indolicus,646243,95,1916,20
+Mageeibacillus indolicus,646243,99,3008,20
+Mageeibacillus indolicus (BVAB3),665829,75,2485,173
+Mageeibacillus indolicus (BVAB3),665829,80,2549,173
+Mageeibacillus indolicus (BVAB3),665829,85,2637,173
+Mageeibacillus indolicus (BVAB3),665829,90,2842,173
+Mageeibacillus indolicus (BVAB3),665829,95,3552,173
+Mageeibacillus indolicus (BVAB3),665829,99,9247,173
+Malacoplasma_A girerdii,744675,75,681,18
+Malacoplasma_A girerdii,744675,80,691,18
+Malacoplasma_A girerdii,744675,85,706,18
+Malacoplasma_A girerdii,744675,90,713,18
+Malacoplasma_A girerdii,744675,95,740,18
+Malacoplasma_A girerdii,744675,99,1021,18
+Megasphaera hutchinsoni,320153,75,3265,271
+Megasphaera hutchinsoni,320153,80,3380,271
+Megasphaera hutchinsoni,320153,85,3520,271
+Megasphaera hutchinsoni,320153,90,3769,271
+Megasphaera hutchinsoni,320153,95,4371,271
+Megasphaera hutchinsoni,320153,99,12136,271
+Megasphaera lornae,829633,75,3403,697
+Megasphaera lornae,829633,80,3607,697
+Megasphaera lornae,829633,85,3896,697
+Megasphaera lornae,829633,90,4405,697
+Megasphaera lornae,829633,95,5997,697
+Megasphaera lornae,829633,99,16653,697
+Metamycoplasma hominis,524101,75,919,121
+Metamycoplasma hominis,524101,80,954,121
+Metamycoplasma hominis,524101,85,1005,121
+Metamycoplasma hominis,524101,90,1110,121
+Metamycoplasma hominis,524101,95,1494,121
+Metamycoplasma hominis,524101,99,12185,121
+Mobiluncus curtisii,462889,75,3291,75
+Mobiluncus curtisii,462889,80,3346,75
+Mobiluncus curtisii,462889,85,3464,75
+Mobiluncus curtisii,462889,90,3754,75
+Mobiluncus curtisii,462889,95,4598,75
+Mobiluncus curtisii,462889,99,11137,75
+Mobiluncus mulieris,916256,75,4502,188
+Mobiluncus mulieris,916256,80,4647,188
+Mobiluncus mulieris,916256,85,4831,188
+Mobiluncus mulieris,916256,90,5166,188
+Mobiluncus mulieris,916256,95,6197,188
+Mobiluncus mulieris,916256,99,18672,188
+Mobiluncus_unknown,102208,75,6489,21
+Mobiluncus_unknown,102208,80,6845,21
+Mobiluncus_unknown,102208,85,7201,21
+Mobiluncus_unknown,102208,90,8074,21
+Mobiluncus_unknown,102208,95,11170,21
+Mobiluncus_unknown,102208,99,19382,21
+Nanoperiomorbus sp004136275,105986,75,1166,141
+Nanoperiomorbus sp004136275,105986,80,1299,141
+Nanoperiomorbus sp004136275,105986,85,1426,141
+Nanoperiomorbus sp004136275,105986,90,1778,141
+Nanoperiomorbus sp004136275,105986,95,4730,141
+Nanoperiomorbus sp004136275,105986,99,18173,141
+Nanoperiomorbus_unknown,482453,75,2256,71
+Nanoperiomorbus_unknown,482453,80,2470,71
+Nanoperiomorbus_unknown,482453,85,2706,71
+Nanoperiomorbus_unknown,482453,90,3126,71
+Nanoperiomorbus_unknown,482453,95,5133,71
+Nanoperiomorbus_unknown,482453,99,16605,71
+Neisseria gonorrhoeae,553981,75,2290,59
+Neisseria gonorrhoeae,553981,80,2330,59
+Neisseria gonorrhoeae,553981,85,2413,59
+Neisseria gonorrhoeae,553981,90,2674,59
+Neisseria gonorrhoeae,553981,95,3198,59
+Neisseria gonorrhoeae,553981,99,5586,59
+Olegusella massiliensis,623619,75,1929,8
+Olegusella massiliensis,623619,80,1941,8
+Olegusella massiliensis,623619,85,1949,8
+Olegusella massiliensis,623619,90,1983,8
+Olegusella massiliensis,623619,95,2134,8
+Olegusella massiliensis,623619,99,4213,8
+Oligella urethralis,641693,75,2832,11
+Oligella urethralis,641693,80,2866,11
+Oligella urethralis,641693,85,2903,11
+Oligella urethralis,641693,90,2953,11
+Oligella urethralis,641693,95,3051,11
+Oligella urethralis,641693,99,7070,11
+Parvimonas sp001552895,921722,75,4188,334
+Parvimonas sp001552895,921722,80,4299,334
+Parvimonas sp001552895,921722,85,4503,334
+Parvimonas sp001552895,921722,90,4892,334
+Parvimonas sp001552895,921722,95,6121,334
+Parvimonas sp001552895,921722,99,17283,334
+Pauljensenia turicensis,145599,75,2423,13
+Pauljensenia turicensis,145599,80,2441,13
+Pauljensenia turicensis,145599,85,2483,13
+Pauljensenia turicensis,145599,90,2551,13
+Pauljensenia turicensis,145599,95,2663,13
+Pauljensenia turicensis,145599,99,4920,13
+Peptococcus niger,632380,75,2650,22
+Peptococcus niger,632380,80,2674,22
+Peptococcus niger,632380,85,2711,22
+Peptococcus niger,632380,90,2771,22
+Peptococcus niger,632380,95,3074,22
+Peptococcus niger,632380,99,12031,22
+Peptoniphilaceae_unknown,428498,75,3743,6
+Peptoniphilaceae_unknown,428498,80,3750,6
+Peptoniphilaceae_unknown,428498,85,3762,6
+Peptoniphilaceae_unknown,428498,90,3770,6
+Peptoniphilaceae_unknown,428498,95,3787,6
+Peptoniphilaceae_unknown,428498,99,3942,6
+Peptoniphilus_A harei_A,403858,75,3984,53
+Peptoniphilus_A harei_A,403858,80,4026,53
+Peptoniphilus_A harei_A,403858,85,4118,53
+Peptoniphilus_A harei_A,403858,90,4429,53
+Peptoniphilus_A harei_A,403858,95,6367,53
+Peptoniphilus_A harei_A,403858,99,29673,53
+Peptoniphilus_A lacrimalis,879245,75,4105,151
+Peptoniphilus_A lacrimalis,879245,80,4175,151
+Peptoniphilus_A lacrimalis,879245,85,4289,151
+Peptoniphilus_A lacrimalis,879245,90,4596,151
+Peptoniphilus_A lacrimalis,879245,95,5556,151
+Peptoniphilus_A lacrimalis,879245,99,19933,151
+Peptoniphilus_A vaginalis,309208,75,4093,111
+Peptoniphilus_A vaginalis,309208,80,4176,111
+Peptoniphilus_A vaginalis,309208,85,4329,111
+Peptoniphilus_A vaginalis,309208,90,4791,111
+Peptoniphilus_A vaginalis,309208,95,6761,111
+Peptoniphilus_A vaginalis,309208,99,22953,111
+Peptoniphilus_B duerdenii,581929,75,2610,12
+Peptoniphilus_B duerdenii,581929,80,2624,12
+Peptoniphilus_B duerdenii,581929,85,2651,12
+Peptoniphilus_B duerdenii,581929,90,2729,12
+Peptoniphilus_B duerdenii,581929,95,3223,12
+Peptoniphilus_B duerdenii,581929,99,9064,12
+Peptoniphilus_B_unknown,664635,75,3287,19
+Peptoniphilus_B_unknown,664635,80,3308,19
+Peptoniphilus_B_unknown,664635,85,3355,19
+Peptoniphilus_B_unknown,664635,90,3402,19
+Peptoniphilus_B_unknown,664635,95,3482,19
+Peptoniphilus_B_unknown,664635,99,4335,19
+Peptoniphilus_C coxii,892290,75,2420,22
+Peptoniphilus_C coxii,892290,80,2442,22
+Peptoniphilus_C coxii,892290,85,2489,22
+Peptoniphilus_C coxii,892290,90,2596,22
+Peptoniphilus_C coxii,892290,95,2979,22
+Peptoniphilus_C coxii,892290,99,10158,22
+Peptoniphilus_C rachelemmaiella,759924,75,1726,6
+Peptoniphilus_C rachelemmaiella,759924,80,1740,6
+Peptoniphilus_C rachelemmaiella,759924,85,1774,6
+Peptoniphilus_C rachelemmaiella,759924,90,1842,6
+Peptoniphilus_C rachelemmaiella,759924,95,2151,6
+Peptoniphilus_C rachelemmaiella,759924,99,5073,6
+Peptoniphilus_C_unknown,728993,75,1826,7
+Peptoniphilus_C_unknown,728993,80,1838,7
+Peptoniphilus_C_unknown,728993,85,1858,7
+Peptoniphilus_C_unknown,728993,90,1917,7
+Peptoniphilus_C_unknown,728993,95,2367,7
+Peptoniphilus_C_unknown,728993,99,4879,7
+Peptostreptococcus anaerobius,536396,75,3552,95
+Peptostreptococcus anaerobius,536396,80,3605,95
+Peptostreptococcus anaerobius,536396,85,3702,95
+Peptostreptococcus anaerobius,536396,90,3897,95
+Peptostreptococcus anaerobius,536396,95,4254,95
+Peptostreptococcus anaerobius,536396,99,7833,95
+Peptostreptococcus sp000758885,534555,75,2315,21
+Peptostreptococcus sp000758885,534555,80,2331,21
+Peptostreptococcus sp000758885,534555,85,2359,21
+Peptostreptococcus sp000758885,534555,90,2396,21
+Peptostreptococcus sp000758885,534555,95,2464,21
+Peptostreptococcus sp000758885,534555,99,3603,21
+Phocaeicola vulgatus,960341,75,4773,6
+Phocaeicola vulgatus,960341,80,4817,6
+Phocaeicola vulgatus,960341,85,4861,6
+Phocaeicola vulgatus,960341,90,4895,6
+Phocaeicola vulgatus,960341,95,4977,6
+Phocaeicola vulgatus,960341,99,5733,6
+Porphyromonas pasteri,239478,75,2025,5
+Porphyromonas pasteri,239478,80,2045,5
+Porphyromonas pasteri,239478,85,2075,5
+Porphyromonas pasteri,239478,90,2149,5
+Porphyromonas pasteri,239478,95,2761,5
+Porphyromonas pasteri,239478,99,5916,5
+Porphyromonas sp001552775,625126,75,2382,40
+Porphyromonas sp001552775,625126,80,2440,40
+Porphyromonas sp001552775,625126,85,2523,40
+Porphyromonas sp001552775,625126,90,2640,40
+Porphyromonas sp001552775,625126,95,2966,40
+Porphyromonas sp001552775,625126,99,8601,40
+Porphyromonas uenonis_A,474121,75,3659,83
+Porphyromonas uenonis_A,474121,80,3794,83
+Porphyromonas uenonis_A,474121,85,4029,83
+Porphyromonas uenonis_A,474121,90,4397,83
+Porphyromonas uenonis_A,474121,95,6112,83
+Porphyromonas uenonis_A,474121,99,32937,83
+Porphyromonas_A somerae,418104,75,2436,8
+Porphyromonas_A somerae,418104,80,2467,8
+Porphyromonas_A somerae,418104,85,2503,8
+Porphyromonas_A somerae,418104,90,2591,8
+Porphyromonas_A somerae,418104,95,2987,8
+Porphyromonas_A somerae,418104,99,8734,8
+Porphyromonas_A sp001808555,397962,75,2374,8
+Porphyromonas_A sp001808555,397962,80,2389,8
+Porphyromonas_A sp001808555,397962,85,2412,8
+Porphyromonas_A sp001808555,397962,90,2481,8
+Porphyromonas_A sp001808555,397962,95,3103,8
+Porphyromonas_A sp001808555,397962,99,8012,8
+Porphyromonas_A sp900554935,447222,75,1853,5
+Porphyromonas_A sp900554935,447222,80,1856,5
+Porphyromonas_A sp900554935,447222,85,1867,5
+Porphyromonas_A sp900554935,447222,90,1883,5
+Porphyromonas_A sp900554935,447222,95,2020,5
+Porphyromonas_A sp900554935,447222,99,3532,5
+Porphyromonas_A_unknown,630903,75,4338,6
+Porphyromonas_A_unknown,630903,80,4371,6
+Porphyromonas_A_unknown,630903,85,4383,6
+Porphyromonas_A_unknown,630903,90,4392,6
+Porphyromonas_A_unknown,630903,95,4442,6
+Porphyromonas_A_unknown,630903,99,4806,6
+Porphyromonas_unknown,136202,75,7700,53
+Porphyromonas_unknown,136202,80,8056,53
+Porphyromonas_unknown,136202,85,8543,53
+Porphyromonas_unknown,136202,90,9623,53
+Porphyromonas_unknown,136202,95,12493,53
+Porphyromonas_unknown,136202,99,28451,53
+Prevotella amnii,498055,75,5180,513
+Prevotella amnii,498055,80,5407,513
+Prevotella amnii,498055,85,5694,513
+Prevotella amnii,498055,90,6248,513
+Prevotella amnii,498055,95,7533,513
+Prevotella amnii,498055,99,25498,513
+Prevotella bivia,900875,75,6150,255
+Prevotella bivia,900875,80,6363,255
+Prevotella bivia,900875,85,6759,255
+Prevotella bivia,900875,90,7343,255
+Prevotella bivia,900875,95,8566,255
+Prevotella bivia,900875,99,15797,255
+Prevotella colorans,845738,75,3741,44
+Prevotella colorans,845738,80,3787,44
+Prevotella colorans,845738,85,3830,44
+Prevotella colorans,845738,90,3936,44
+Prevotella colorans,845738,95,4233,44
+Prevotella colorans,845738,99,13918,44
+Prevotella corporis,172892,75,3391,17
+Prevotella corporis,172892,80,3473,17
+Prevotella corporis,172892,85,3561,17
+Prevotella corporis,172892,90,3648,17
+Prevotella corporis,172892,95,3759,17
+Prevotella corporis,172892,99,6869,17
+Prevotella denticola,900798,75,3146,6
+Prevotella denticola,900798,80,3212,6
+Prevotella denticola,900798,85,3313,6
+Prevotella denticola,900798,90,3419,6
+Prevotella denticola,900798,95,3613,6
+Prevotella denticola,900798,99,7585,6
+Prevotella disiens,332460,75,5170,108
+Prevotella disiens,332460,80,5315,108
+Prevotella disiens,332460,85,5538,108
+Prevotella disiens,332460,90,5872,108
+Prevotella disiens,332460,95,6551,108
+Prevotella disiens,332460,99,14109,108
+Prevotella ihumii,340758,75,3324,19
+Prevotella ihumii,340758,80,3384,19
+Prevotella ihumii,340758,85,3446,19
+Prevotella ihumii,340758,90,3515,19
+Prevotella ihumii,340758,95,3626,19
+Prevotella ihumii,340758,99,4296,19
+Prevotella melaninogenica,681331,75,4109,39
+Prevotella melaninogenica,681331,80,4176,39
+Prevotella melaninogenica,681331,85,4278,39
+Prevotella melaninogenica,681331,90,4414,39
+Prevotella melaninogenica,681331,95,4640,39
+Prevotella melaninogenica,681331,99,6871,39
+Prevotella sp000479005,502327,75,4818,66
+Prevotella sp000479005,502327,80,4930,66
+Prevotella sp000479005,502327,85,5095,66
+Prevotella sp000479005,502327,90,5506,66
+Prevotella sp000479005,502327,95,9171,66
+Prevotella sp000479005,502327,99,30770,66
+Prevotella sp000758925,382359,75,6093,274
+Prevotella sp000758925,382359,80,6237,274
+Prevotella sp000758925,382359,85,6454,274
+Prevotella sp000758925,382359,90,6817,274
+Prevotella sp000758925,382359,95,7954,274
+Prevotella sp000758925,382359,99,21736,274
+Prevotella sp001552765,101661,75,2549,6
+Prevotella sp001552765,101661,80,2563,6
+Prevotella sp001552765,101661,85,2571,6
+Prevotella sp001552765,101661,90,2585,6
+Prevotella sp001552765,101661,95,2611,6
+Prevotella sp001552765,101661,99,3067,6
+Prevotella sp001553265,560284,75,2952,22
+Prevotella sp001553265,560284,80,2983,22
+Prevotella sp001553265,560284,85,3020,22
+Prevotella sp001553265,560284,90,3065,22
+Prevotella sp001553265,560284,95,3165,22
+Prevotella sp001553265,560284,99,3751,22
+Prevotella timonensis,315756,75,2456,5
+Prevotella timonensis,315756,80,2467,5
+Prevotella timonensis,315756,85,2475,5
+Prevotella timonensis,315756,90,2494,5
+Prevotella timonensis,315756,95,2700,5
+Prevotella timonensis,315756,99,5160,5
+Prevotella timonensis_A,941235,75,12264,417
+Prevotella timonensis_A,941235,80,12839,417
+Prevotella timonensis_A,941235,85,13861,417
+Prevotella timonensis_A,941235,90,15916,417
+Prevotella timonensis_A,941235,95,23120,417
+Prevotella timonensis_A,941235,99,162848,417
+Prevotella_unknown,719869,75,15379,648
+Prevotella_unknown,719869,80,15942,648
+Prevotella_unknown,719869,85,16818,648
+Prevotella_unknown,719869,90,18533,648
+Prevotella_unknown,719869,95,24294,648
+Prevotella_unknown,719869,99,75764,648
 Propionimicrobium lymphophilum,970355,75,2476,10
 Propionimicrobium lymphophilum,970355,80,2491,10
 Propionimicrobium lymphophilum,970355,85,2524,10
@@ -719,357 +911,165 @@ Proteus mirabilis,613480,85,4441,10
 Proteus mirabilis,613480,90,4503,10
 Proteus mirabilis,613480,95,4659,10
 Proteus mirabilis,613480,99,6337,10
-Streptococcus pyogenes,303548,75,2147,10
-Streptococcus pyogenes,303548,80,2169,10
-Streptococcus pyogenes,303548,85,2203,10
-Streptococcus pyogenes,303548,90,2250,10
-Streptococcus pyogenes,303548,95,2342,10
-Streptococcus pyogenes,303548,99,3528,10
-Lawsonella sp018376445,299071,75,2019,9
-Lawsonella sp018376445,299071,80,2030,9
-Lawsonella sp018376445,299071,85,2044,9
-Lawsonella sp018376445,299071,90,2099,9
-Lawsonella sp018376445,299071,95,2206,9
-Lawsonella sp018376445,299071,99,2848,9
-Ureaplasma urealyticum,505334,75,698,9
-Ureaplasma urealyticum,505334,80,706,9
-Ureaplasma urealyticum,505334,85,718,9
-Ureaplasma urealyticum,505334,90,737,9
-Ureaplasma urealyticum,505334,95,766,9
-Ureaplasma urealyticum,505334,99,881,9
-Lactobacillus johnsonii,432849,75,2461,9
-Lactobacillus johnsonii,432849,80,2493,9
-Lactobacillus johnsonii,432849,85,2549,9
-Lactobacillus johnsonii,432849,90,2623,9
-Lactobacillus johnsonii,432849,95,3063,9
-Lactobacillus johnsonii,432849,99,6344,9
-Levyella massiliensis,802866,75,1719,9
-Levyella massiliensis,802866,80,1726,9
-Levyella massiliensis,802866,85,1735,9
-Levyella massiliensis,802866,90,1757,9
-Levyella massiliensis,802866,95,1861,9
-Levyella massiliensis,802866,99,4437,9
-Brevibacterium ravenspurgense,915160,75,3045,9
-Brevibacterium ravenspurgense,915160,80,3071,9
-Brevibacterium ravenspurgense,915160,85,3125,9
-Brevibacterium ravenspurgense,915160,90,3251,9
-Brevibacterium ravenspurgense,915160,95,3912,9
-Brevibacterium ravenspurgense,915160,99,8907,9
-Olegusella massiliensis,623619,75,1929,8
-Olegusella massiliensis,623619,80,1941,8
-Olegusella massiliensis,623619,85,1949,8
-Olegusella massiliensis,623619,90,1983,8
-Olegusella massiliensis,623619,95,2134,8
-Olegusella massiliensis,623619,99,4213,8
-Citrobacter_B koseri,492904,75,5084,8
-Citrobacter_B koseri,492904,80,5129,8
-Citrobacter_B koseri,492904,85,5162,8
-Citrobacter_B koseri,492904,90,5200,8
-Citrobacter_B koseri,492904,95,5223,8
-Citrobacter_B koseri,492904,99,6943,8
-Porphyromonas_A sp001808555,397962,75,2374,8
-Porphyromonas_A sp001808555,397962,80,2389,8
-Porphyromonas_A sp001808555,397962,85,2412,8
-Porphyromonas_A sp001808555,397962,90,2481,8
-Porphyromonas_A sp001808555,397962,95,3103,8
-Porphyromonas_A sp001808555,397962,99,8012,8
-Porphyromonas_A somerae,418104,75,2436,8
-Porphyromonas_A somerae,418104,80,2467,8
-Porphyromonas_A somerae,418104,85,2503,8
-Porphyromonas_A somerae,418104,90,2591,8
-Porphyromonas_A somerae,418104,95,2987,8
-Porphyromonas_A somerae,418104,99,8734,8
-CAKAHY01_unknown,516615,75,2043,8
-CAKAHY01_unknown,516615,80,2049,8
-CAKAHY01_unknown,516615,85,2065,8
-CAKAHY01_unknown,516615,90,2080,8
-CAKAHY01_unknown,516615,95,2115,8
-CAKAHY01_unknown,516615,99,2388,8
-Lacticaseibacillus rhamnosus,721998,75,3266,8
-Lacticaseibacillus rhamnosus,721998,80,3308,8
-Lacticaseibacillus rhamnosus,721998,85,3360,8
-Lacticaseibacillus rhamnosus,721998,90,3420,8
-Lacticaseibacillus rhamnosus,721998,95,3643,8
-Lacticaseibacillus rhamnosus,721998,99,7487,8
 Pseudoglutamicibacter albus,435807,75,2350,8
 Pseudoglutamicibacter albus,435807,80,2376,8
 Pseudoglutamicibacter albus,435807,85,2408,8
 Pseudoglutamicibacter albus,435807,90,2469,8
 Pseudoglutamicibacter albus,435807,95,2684,8
 Pseudoglutamicibacter albus,435807,99,4815,8
-Atopobium deltae,297173,75,1362,7
-Atopobium deltae,297173,80,1370,7
-Atopobium deltae,297173,85,1376,7
-Atopobium deltae,297173,90,1389,7
-Atopobium deltae,297173,95,1412,7
-Atopobium deltae,297173,99,1684,7
-Listeria monocytogenes,201088,75,3408,7
-Listeria monocytogenes,201088,80,3439,7
-Listeria monocytogenes,201088,85,3502,7
-Listeria monocytogenes,201088,90,3684,7
-Listeria monocytogenes,201088,95,4814,7
-Listeria monocytogenes,201088,99,7512,7
-Peptoniphilus_C_unknown,728993,75,1826,7
-Peptoniphilus_C_unknown,728993,80,1838,7
-Peptoniphilus_C_unknown,728993,85,1858,7
-Peptoniphilus_C_unknown,728993,90,1917,7
-Peptoniphilus_C_unknown,728993,95,2367,7
-Peptoniphilus_C_unknown,728993,99,4879,7
-CAJPTP01 sp905373555,716122,75,2420,7
-CAJPTP01 sp905373555,716122,80,2427,7
-CAJPTP01 sp905373555,716122,85,2444,7
-CAJPTP01 sp905373555,716122,90,2493,7
-CAJPTP01 sp905373555,716122,95,2622,7
-CAJPTP01 sp905373555,716122,99,3753,7
-Corynebacterium sp001807485,334037,75,2714,7
-Corynebacterium sp001807485,334037,80,2733,7
-Corynebacterium sp001807485,334037,85,2773,7
-Corynebacterium sp001807485,334037,90,2896,7
-Corynebacterium sp001807485,334037,95,3607,7
-Corynebacterium sp001807485,334037,99,6617,7
-Varibaculum cambriense_B,293577,75,2121,7
-Varibaculum cambriense_B,293577,80,2142,7
-Varibaculum cambriense_B,293577,85,2187,7
-Varibaculum cambriense_B,293577,90,2357,7
-Varibaculum cambriense_B,293577,95,2968,7
-Varibaculum cambriense_B,293577,99,4657,7
-Streptococcus_unknown,339874,75,3714,7
-Streptococcus_unknown,339874,80,4007,7
-Streptococcus_unknown,339874,85,4562,7
-Streptococcus_unknown,339874,90,5264,7
-Streptococcus_unknown,339874,95,8012,7
-Streptococcus_unknown,339874,99,9967,7
-Campylobacter_B ureolyticus,386171,75,2324,7
-Campylobacter_B ureolyticus,386171,80,2354,7
-Campylobacter_B ureolyticus,386171,85,2393,7
-Campylobacter_B ureolyticus,386171,90,2481,7
-Campylobacter_B ureolyticus,386171,95,3082,7
-Campylobacter_B ureolyticus,386171,99,6429,7
-Anaerococcus vaginalis_B,275605,75,2000,7
-Anaerococcus vaginalis_B,275605,80,2010,7
-Anaerococcus vaginalis_B,275605,85,2026,7
-Anaerococcus vaginalis_B,275605,90,2085,7
-Anaerococcus vaginalis_B,275605,95,2263,7
-Anaerococcus vaginalis_B,275605,99,5255,7
+Sneathia sanguinegens,581434,75,3299,292
+Sneathia sanguinegens,581434,80,3405,292
+Sneathia sanguinegens,581434,85,3605,292
+Sneathia sanguinegens,581434,90,4011,292
+Sneathia sanguinegens,581434,95,5106,292
+Sneathia sanguinegens,581434,99,16308,292
+Sneathia vaginalis,988627,75,4189,471
+Sneathia vaginalis,988627,80,4319,471
+Sneathia vaginalis,988627,85,4576,471
+Sneathia vaginalis,988627,90,5155,471
+Sneathia vaginalis,988627,95,7055,471
+Sneathia vaginalis,988627,99,28903,471
+Sodaliphilus_unknown,856531,75,3337,48
+Sodaliphilus_unknown,856531,80,3358,48
+Sodaliphilus_unknown,856531,85,3397,48
+Sodaliphilus_unknown,856531,90,3485,48
+Sodaliphilus_unknown,856531,95,3653,48
+Sodaliphilus_unknown,856531,99,7053,48
+Staphylococcus aureus,423516,75,3136,12
+Staphylococcus aureus,423516,80,3213,12
+Staphylococcus aureus,423516,85,3306,12
+Staphylococcus aureus,423516,90,3496,12
+Staphylococcus aureus,423516,95,3978,12
+Staphylococcus aureus,423516,99,8573,12
+Staphylococcus epidermidis,679715,75,3153,23
+Staphylococcus epidermidis,679715,80,3210,23
+Staphylococcus epidermidis,679715,85,3282,23
+Staphylococcus epidermidis,679715,90,3381,23
+Staphylococcus epidermidis,679715,95,3580,23
+Staphylococcus epidermidis,679715,99,7436,23
+Staphylococcus haemolyticus,344406,75,3367,20
+Staphylococcus haemolyticus,344406,80,3411,20
+Staphylococcus haemolyticus,344406,85,3481,20
+Staphylococcus haemolyticus,344406,90,3618,20
+Staphylococcus haemolyticus,344406,95,3962,20
+Staphylococcus haemolyticus,344406,99,7447,20
 Staphylococcus lugdunensis,212963,75,2635,7
 Staphylococcus lugdunensis,212963,80,2646,7
 Staphylococcus lugdunensis,212963,85,2664,7
 Staphylococcus lugdunensis,212963,90,2680,7
 Staphylococcus lugdunensis,212963,95,2707,7
 Staphylococcus lugdunensis,212963,99,3003,7
-Finegoldia_unknown,567317,75,2629,6
-Finegoldia_unknown,567317,80,2664,6
-Finegoldia_unknown,567317,85,2822,6
-Finegoldia_unknown,567317,90,3042,6
-Finegoldia_unknown,567317,95,3310,6
-Finegoldia_unknown,567317,99,4876,6
-Prevotella sp001552765,101661,75,2549,6
-Prevotella sp001552765,101661,80,2563,6
-Prevotella sp001552765,101661,85,2571,6
-Prevotella sp001552765,101661,90,2585,6
-Prevotella sp001552765,101661,95,2611,6
-Prevotella sp001552765,101661,99,3067,6
-Fusobacterium_C gonidiaformans,461153,75,1926,6
-Fusobacterium_C gonidiaformans,461153,80,1932,6
-Fusobacterium_C gonidiaformans,461153,85,1952,6
-Fusobacterium_C gonidiaformans,461153,90,1978,6
-Fusobacterium_C gonidiaformans,461153,95,2030,6
-Fusobacterium_C gonidiaformans,461153,99,2862,6
-Veillonella parvula_A,773494,75,2374,6
-Veillonella parvula_A,773494,80,2410,6
-Veillonella parvula_A,773494,85,2468,6
-Veillonella parvula_A,773494,90,2660,6
-Veillonella parvula_A,773494,95,3504,6
-Veillonella parvula_A,773494,99,6875,6
-Berryella sp900604965,547390,75,1999,6
-Berryella sp900604965,547390,80,2016,6
-Berryella sp900604965,547390,85,2030,6
-Berryella sp900604965,547390,90,2048,6
-Berryella sp900604965,547390,95,2074,6
-Berryella sp900604965,547390,99,2724,6
-Peptoniphilus_C rachelemmaiella,759924,75,1726,6
-Peptoniphilus_C rachelemmaiella,759924,80,1740,6
-Peptoniphilus_C rachelemmaiella,759924,85,1774,6
-Peptoniphilus_C rachelemmaiella,759924,90,1842,6
-Peptoniphilus_C rachelemmaiella,759924,95,2151,6
-Peptoniphilus_C rachelemmaiella,759924,99,5073,6
-Peptoniphilaceae_unknown,428498,75,3743,6
-Peptoniphilaceae_unknown,428498,80,3750,6
-Peptoniphilaceae_unknown,428498,85,3762,6
-Peptoniphilaceae_unknown,428498,90,3770,6
-Peptoniphilaceae_unknown,428498,95,3787,6
-Peptoniphilaceae_unknown,428498,99,3942,6
-Anaerococcus_unknown,935817,75,2683,6
-Anaerococcus_unknown,935817,80,2743,6
-Anaerococcus_unknown,935817,85,3193,6
-Anaerococcus_unknown,935817,90,3961,6
-Anaerococcus_unknown,935817,95,4835,6
-Anaerococcus_unknown,935817,99,5877,6
-Corynebacterium phoceense,541464,75,2930,6
-Corynebacterium phoceense,541464,80,2935,6
-Corynebacterium phoceense,541464,85,2942,6
-Corynebacterium phoceense,541464,90,2953,6
-Corynebacterium phoceense,541464,95,2990,6
-Corynebacterium phoceense,541464,99,3430,6
-Alloprevotella sp905369775,677509,75,2095,6
-Alloprevotella sp905369775,677509,80,2100,6
-Alloprevotella sp905369775,677509,85,2111,6
-Alloprevotella sp905369775,677509,90,2120,6
-Alloprevotella sp905369775,677509,95,2150,6
-Alloprevotella sp905369775,677509,99,2378,6
-Porphyromonas_A_unknown,630903,75,4338,6
-Porphyromonas_A_unknown,630903,80,4371,6
-Porphyromonas_A_unknown,630903,85,4383,6
-Porphyromonas_A_unknown,630903,90,4392,6
-Porphyromonas_A_unknown,630903,95,4442,6
-Porphyromonas_A_unknown,630903,99,4806,6
-Prevotella denticola,900798,75,3146,6
-Prevotella denticola,900798,80,3212,6
-Prevotella denticola,900798,85,3313,6
-Prevotella denticola,900798,90,3419,6
-Prevotella denticola,900798,95,3613,6
-Prevotella denticola,900798,99,7585,6
-Corynebacterium pyruviciproducens,755152,75,2775,6
-Corynebacterium pyruviciproducens,755152,80,2784,6
-Corynebacterium pyruviciproducens,755152,85,2811,6
-Corynebacterium pyruviciproducens,755152,90,2842,6
-Corynebacterium pyruviciproducens,755152,95,2934,6
-Corynebacterium pyruviciproducens,755152,99,3621,6
-Phocaeicola vulgatus,960341,75,4773,6
-Phocaeicola vulgatus,960341,80,4817,6
-Phocaeicola vulgatus,960341,85,4861,6
-Phocaeicola vulgatus,960341,90,4895,6
-Phocaeicola vulgatus,960341,95,4977,6
-Phocaeicola vulgatus,960341,99,5733,6
-Limosilactobacillus oris,677004,75,2288,6
-Limosilactobacillus oris,677004,80,2298,6
-Limosilactobacillus oris,677004,85,2322,6
-Limosilactobacillus oris,677004,90,2359,6
-Limosilactobacillus oris,677004,95,2427,6
-Limosilactobacillus oris,677004,99,3057,6
-Jonquetella anthropi,462493,75,1709,6
-Jonquetella anthropi,462493,80,1713,6
-Jonquetella anthropi,462493,85,1719,6
-Jonquetella anthropi,462493,90,1726,6
-Jonquetella anthropi,462493,95,1745,6
-Jonquetella anthropi,462493,99,1929,6
 Stomatobaculum naviforme,987302,75,2278,6
 Stomatobaculum naviforme,987302,80,2282,6
 Stomatobaculum naviforme,987302,85,2286,6
 Stomatobaculum naviforme,987302,90,2293,6
 Stomatobaculum naviforme,987302,95,2333,6
 Stomatobaculum naviforme,987302,99,3649,6
-Limosilactobacillus_unknown,118732,75,1797,6
-Limosilactobacillus_unknown,118732,80,1798,6
-Limosilactobacillus_unknown,118732,85,1806,6
-Limosilactobacillus_unknown,118732,90,1813,6
-Limosilactobacillus_unknown,118732,95,1824,6
-Limosilactobacillus_unknown,118732,99,1842,6
-Fusobacterium animalis,285819,75,3156,6
-Fusobacterium animalis,285819,80,3175,6
-Fusobacterium animalis,285819,85,3224,6
-Fusobacterium animalis,285819,90,3302,6
-Fusobacterium animalis,285819,95,3565,6
-Fusobacterium animalis,285819,99,5361,6
-Prevotella timonensis,315756,75,2456,5
-Prevotella timonensis,315756,80,2467,5
-Prevotella timonensis,315756,85,2475,5
-Prevotella timonensis,315756,90,2494,5
-Prevotella timonensis,315756,95,2700,5
-Prevotella timonensis,315756,99,5160,5
-Alistipes putredinis,712851,75,2758,5
-Alistipes putredinis,712851,80,2781,5
-Alistipes putredinis,712851,85,2806,5
-Alistipes putredinis,712851,90,2838,5
-Alistipes putredinis,712851,95,2944,5
-Alistipes putredinis,712851,99,4064,5
-Enterococcus_B faecium,580005,75,3270,5
-Enterococcus_B faecium,580005,80,3303,5
-Enterococcus_B faecium,580005,85,3327,5
-Enterococcus_B faecium,580005,90,3386,5
-Enterococcus_B faecium,580005,95,3520,5
-Enterococcus_B faecium,580005,99,3888,5
-Corynebacterium striatum,868360,75,3132,5
-Corynebacterium striatum,868360,80,3168,5
-Corynebacterium striatum,868360,85,3216,5
-Corynebacterium striatum,868360,90,3248,5
-Corynebacterium striatum,868360,95,3366,5
-Corynebacterium striatum,868360,99,5194,5
-Lactobacillus delbrueckii,940775,75,2109,5
-Lactobacillus delbrueckii,940775,80,2119,5
-Lactobacillus delbrueckii,940775,85,2138,5
-Lactobacillus delbrueckii,940775,90,2169,5
-Lactobacillus delbrueckii,940775,95,2272,5
-Lactobacillus delbrueckii,940775,99,3354,5
-Acinetobacter baumannii,619896,75,4559,5
-Acinetobacter baumannii,619896,80,4592,5
-Acinetobacter baumannii,619896,85,4635,5
-Acinetobacter baumannii,619896,90,4691,5
-Acinetobacter baumannii,619896,95,4939,5
-Acinetobacter baumannii,619896,99,7549,5
-Anaerococcus prevotii,667911,75,1838,5
-Anaerococcus prevotii,667911,80,1840,5
-Anaerococcus prevotii,667911,85,1849,5
-Anaerococcus prevotii,667911,90,1897,5
-Anaerococcus prevotii,667911,95,2165,5
-Anaerococcus prevotii,667911,99,3488,5
-Ezakiella_unknown,580401,75,1469,5
-Ezakiella_unknown,580401,80,1471,5
-Ezakiella_unknown,580401,85,1477,5
-Ezakiella_unknown,580401,90,1482,5
-Ezakiella_unknown,580401,95,1521,5
-Ezakiella_unknown,580401,99,2979,5
+Stomatobaculum sp002892395,448856,75,3512,56
+Stomatobaculum sp002892395,448856,80,3563,56
+Stomatobaculum sp002892395,448856,85,3642,56
+Stomatobaculum sp002892395,448856,90,3759,56
+Stomatobaculum sp002892395,448856,95,4090,56
+Stomatobaculum sp002892395,448856,99,8739,56
+Streptococcus agalactiae,861111,75,4662,178
+Streptococcus agalactiae,861111,80,4770,178
+Streptococcus agalactiae,861111,85,4938,178
+Streptococcus agalactiae,861111,90,5191,178
+Streptococcus agalactiae,861111,95,5785,178
+Streptococcus agalactiae,861111,99,8335,178
+Streptococcus anginosus,899308,75,3606,62
+Streptococcus anginosus,899308,80,3685,62
+Streptococcus anginosus,899308,85,3777,62
+Streptococcus anginosus,899308,90,3881,62
+Streptococcus anginosus,899308,95,4113,62
+Streptococcus anginosus,899308,99,4892,62
+Streptococcus mitis_BF,361681,75,2841,17
+Streptococcus mitis_BF,361681,80,2876,17
+Streptococcus mitis_BF,361681,85,2938,17
+Streptococcus mitis_BF,361681,90,3070,17
+Streptococcus mitis_BF,361681,95,3671,17
+Streptococcus mitis_BF,361681,99,5365,17
+Streptococcus pyogenes,303548,75,2147,10
+Streptococcus pyogenes,303548,80,2169,10
+Streptococcus pyogenes,303548,85,2203,10
+Streptococcus pyogenes,303548,90,2250,10
+Streptococcus pyogenes,303548,95,2342,10
+Streptococcus pyogenes,303548,99,3528,10
 Streptococcus salivarius,811118,75,2289,5
 Streptococcus salivarius,811118,80,2313,5
 Streptococcus salivarius,811118,85,2355,5
 Streptococcus salivarius,811118,90,2476,5
 Streptococcus salivarius,811118,95,3134,5
 Streptococcus salivarius,811118,99,5931,5
-W5053_unknown,742202,75,1434,5
-W5053_unknown,742202,80,1445,5
-W5053_unknown,742202,85,1457,5
-W5053_unknown,742202,90,1487,5
-W5053_unknown,742202,95,1627,5
-W5053_unknown,742202,99,2997,5
-Actinobaculum massiliense,629828,75,1875,5
-Actinobaculum massiliense,629828,80,1880,5
-Actinobaculum massiliense,629828,85,1884,5
-Actinobaculum massiliense,629828,90,1886,5
-Actinobaculum massiliense,629828,95,1889,5
-Actinobaculum massiliense,629828,99,1899,5
-Corynebacterium minutissimum_A,725549,75,3151,5
-Corynebacterium minutissimum_A,725549,80,3174,5
-Corynebacterium minutissimum_A,725549,85,3225,5
-Corynebacterium minutissimum_A,725549,90,3399,5
-Corynebacterium minutissimum_A,725549,95,4012,5
-Corynebacterium minutissimum_A,725549,99,6585,5
-Actinotignum sanguinis,858790,75,1984,5
-Actinotignum sanguinis,858790,80,2004,5
-Actinotignum sanguinis,858790,85,2043,5
-Actinotignum sanguinis,858790,90,2112,5
-Actinotignum sanguinis,858790,95,2282,5
-Actinotignum sanguinis,858790,99,2643,5
-Porphyromonas_A sp900554935,447222,75,1853,5
-Porphyromonas_A sp900554935,447222,80,1856,5
-Porphyromonas_A sp900554935,447222,85,1867,5
-Porphyromonas_A sp900554935,447222,90,1883,5
-Porphyromonas_A sp900554935,447222,95,2020,5
-Porphyromonas_A sp900554935,447222,99,3532,5
+Streptococcus_unknown,339874,75,3714,7
+Streptococcus_unknown,339874,80,4007,7
+Streptococcus_unknown,339874,85,4562,7
+Streptococcus_unknown,339874,90,5264,7
+Streptococcus_unknown,339874,95,8012,7
+Streptococcus_unknown,339874,99,9967,7
+UBA629 sp005465875,652998,75,1884,36
+UBA629 sp005465875,652998,80,1902,36
+UBA629 sp005465875,652998,85,1925,36
+UBA629 sp005465875,652998,90,1954,36
+UBA629 sp005465875,652998,95,2041,36
+UBA629 sp005465875,652998,99,3912,36
+UBA629 sp005465875 (BVAB1),123406,75,4031,461
+UBA629 sp005465875 (BVAB1),123406,80,4157,461
+UBA629 sp005465875 (BVAB1),123406,85,4324,461
+UBA629 sp005465875 (BVAB1),123406,90,4565,461
+UBA629 sp005465875 (BVAB1),123406,95,5317,461
+UBA629 sp005465875 (BVAB1),123406,99,14143,461
+Ureaplasma parvum,952860,75,692,31
+Ureaplasma parvum,952860,80,696,31
+Ureaplasma parvum,952860,85,699,31
+Ureaplasma parvum,952860,90,718,31
+Ureaplasma parvum,952860,95,750,31
+Ureaplasma parvum,952860,99,982,31
+Ureaplasma urealyticum,505334,75,698,9
+Ureaplasma urealyticum,505334,80,706,9
+Ureaplasma urealyticum,505334,85,718,9
+Ureaplasma urealyticum,505334,90,737,9
+Ureaplasma urealyticum,505334,95,766,9
+Ureaplasma urealyticum,505334,99,881,9
 Urinicoccus massiliensis,717613,75,1676,5
 Urinicoccus massiliensis,717613,80,1681,5
 Urinicoccus massiliensis,717613,85,1691,5
 Urinicoccus massiliensis,717613,90,1704,5
 Urinicoccus massiliensis,717613,95,1786,5
 Urinicoccus massiliensis,717613,99,3742,5
-Haemophilus_D_unknown,819830,75,2256,5
-Haemophilus_D_unknown,819830,80,2265,5
-Haemophilus_D_unknown,819830,85,2274,5
-Haemophilus_D_unknown,819830,90,2293,5
-Haemophilus_D_unknown,819830,95,2356,5
-Haemophilus_D_unknown,819830,99,2482,5
-Porphyromonas pasteri,239478,75,2025,5
-Porphyromonas pasteri,239478,80,2045,5
-Porphyromonas pasteri,239478,85,2075,5
-Porphyromonas pasteri,239478,90,2149,5
-Porphyromonas pasteri,239478,95,2761,5
-Porphyromonas pasteri,239478,99,5916,5
+Varibaculum cambriense_B,293577,75,2121,7
+Varibaculum cambriense_B,293577,80,2142,7
+Varibaculum cambriense_B,293577,85,2187,7
+Varibaculum cambriense_B,293577,90,2357,7
+Varibaculum cambriense_B,293577,95,2968,7
+Varibaculum cambriense_B,293577,99,4657,7
+Varibaculum massiliense,904423,75,2497,12
+Varibaculum massiliense,904423,80,2550,12
+Varibaculum massiliense,904423,85,2643,12
+Varibaculum massiliense,904423,90,2990,12
+Varibaculum massiliense,904423,95,4197,12
+Varibaculum massiliense,904423,99,9558,12
+Veillonella montpellierensis,674615,75,2853,39
+Veillonella montpellierensis,674615,80,2902,39
+Veillonella montpellierensis,674615,85,2979,39
+Veillonella montpellierensis,674615,90,3149,39
+Veillonella montpellierensis,674615,95,3756,39
+Veillonella montpellierensis,674615,99,12344,39
+Veillonella parvula_A,773494,75,2374,6
+Veillonella parvula_A,773494,80,2410,6
+Veillonella parvula_A,773494,85,2468,6
+Veillonella parvula_A,773494,90,2660,6
+Veillonella parvula_A,773494,95,3504,6
+Veillonella parvula_A,773494,99,6875,6
+W5053_unknown,742202,75,1434,5
+W5053_unknown,742202,80,1445,5
+W5053_unknown,742202,85,1457,5
+W5053_unknown,742202,90,1487,5
+W5053_unknown,742202,95,1627,5
+W5053_unknown,742202,99,2997,5
+ZJ293_unknown,309546,75,1267,20
+ZJ293_unknown,309546,80,1272,20
+ZJ293_unknown,309546,85,1276,20
+ZJ293_unknown,309546,90,1284,20
+ZJ293_unknown,309546,95,1312,20
+ZJ293_unknown,309546,99,2473,20

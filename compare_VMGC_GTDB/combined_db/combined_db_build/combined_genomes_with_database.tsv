@@ -77,7 +77,7 @@ SRR5575608.mbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/V
 GCF_027160725.1	571325	GCF_027155795.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_027160725.1.fa	VMGC
 GCF_011058695.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_011058695.1.fa	shared
 GCF_027155785.1	571325	GCF_027155795.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_027155785.1.fa	VMGC
-GCF_000191685.2	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_000191685.2.fa	VMGC
+GCF_000191685.2	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_000191685.2.fa	shared
 GCF_027155965.1	571325	GCF_027155795.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_027155965.1.fa	VMGC
 SAMN00099934.mbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/SAMN00099934.mbin.1.fa	VMGC
 GCF_019459565.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_019459565.1.fa	VMGC
@@ -118,7 +118,7 @@ MG931.mbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_d
 GCF_011058735.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_011058735.1.fa	shared
 SRR17284241.mbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/SRR17284241.mbin.1.fa	VMGC
 MG1329.mbin.10	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/MG1329.mbin.10.fa	VMGC
-GCF_000191705.2	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_000191705.2.fa	VMGC
+GCF_000191705.2	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_000191705.2.fa	shared
 MG975.sbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/MG975.sbin.1.fa	VMGC
 P10709180.mbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/P10709180.mbin.1.fa	VMGC
 SRR16471027.mbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/SRR16471027.mbin.1.fa	VMGC
@@ -575,7 +575,7 @@ MG719.sbin.5	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_d
 MG843.sbin.13	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/MG843.sbin.13.fa	VMGC
 P10709399.mbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/P10709399.mbin.1.fa	VMGC
 SAMN00032548.sbin.17	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/SAMN00032548.sbin.17.fa	VMGC
-GCF_000204435.2	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_000204435.2.fa	VMGC
+GCF_000204435.2	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_000204435.2.fa	shared
 SRR13167672.mbin.3	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/SRR13167672.mbin.3.fa	VMGC
 SRR17635650.mbin.7	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/SRR17635650.mbin.7.fa	VMGC
 MG254.mbin.11	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/MG254.mbin.11.fa	VMGC
@@ -982,7 +982,7 @@ SRR21425808.mbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/
 MG327.mbin.2	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/MG327.mbin.2.fa	VMGC
 MG617.mbin.7	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/MG617.mbin.7.fa	VMGC
 SRR13167723.mbin.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/SRR13167723.mbin.1.fa	VMGC
-GCF_000214315.2	783244	ERR10897722.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_000214315.2.fa	VMGC
+GCF_000214315.2	783244	ERR10897722.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/GCF_000214315.2.fa	shared
 SRR13167602.mbin.2	783244	ERR10897722.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/SRR13167602.mbin.2.fa	VMGC
 ERR10898107.sbin.3	611554	GCF_000439915.2	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/ERR10898107.sbin.3.fa	VMGC
 SRR13167600.sbin.6	571325	GCF_027155795.1	0	/wynton/group/sirota/clairedubin/VMGC_db/VMGC_orig_files/VMGC_prokaryote_MAG/SRR13167600.sbin.6.fa	VMGC
@@ -4832,7 +4832,6 @@ GCF_013778545.1	988598	GCF_000162255.1	0	/wynton/group/sirota/clairedubin/VMGC_G
 GCF_902386155.1	988598	GCF_000162255.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_902386155.1.fna	GTDB
 GCF_000165635.1	783244	ERR10897722.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000165635.1.fna	GTDB
 GCF_000178355.1	783244	ERR10897722.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000178355.1.fna	GTDB
-GCF_000214315.1	783244	ERR10897722.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000214315.1.fna	GTDB
 GCF_000263435.1	783244	ERR10897722.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000263435.1.fna	GTDB
 GCF_000263475.1	783244	ERR10897722.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000263475.1.fna	GTDB
 GCF_000263495.1	783244	ERR10897722.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000263495.1.fna	GTDB
@@ -4889,9 +4888,6 @@ GCF_008868535.1	611554	GCF_000439915.2	0	/wynton/group/sirota/clairedubin/VMGC_G
 GCF_900452355.1	611554	GCF_000439915.2	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_900452355.1.fna	GTDB
 GCF_902399865.1	611554	GCF_000439915.2	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_902399865.1.fna	GTDB
 GCF_000177755.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000177755.1.fna	GTDB
-GCF_000191685.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000191685.1.fna	GTDB
-GCF_000191705.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000191705.1.fna	GTDB
-GCF_000204435.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000204435.1.fna	GTDB
 GCF_000227195.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_000227195.1.fna	GTDB
 GCF_001435015.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_001435015.1.fna	GTDB
 GCF_002871595.1	240891	SRR17284223.mbin.1	0	/wynton/group/sirota/clairedubin/VMGC_GTDB_combined_db/GTDB_genomes/GTDB_genomes/GCF_002871595.1.fna	GTDB
